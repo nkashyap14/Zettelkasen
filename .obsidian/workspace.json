@@ -145,8 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dd415b0203e2e6c",
+  "active": "b83eba27e74eb705",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "README.md",
     "Zettelkasten/Binary Tree Check for Identical Python Code.md",
     "Zettelkasten/Listening Socket Queues.md",
     "Files/python_binary_trees_identical.jpg",
@@ -173,7 +175,6 @@
     "Zettelkasten/processes.md",
     "Zettelkasten/System Design.md",
     "Zettelkasten/Fallacies of distributed computing.md",
-    "Zettelkasten/reliability.md",
     "Zettelkasten/Readiness",
     "Zettelkasten",
     "Templates",
