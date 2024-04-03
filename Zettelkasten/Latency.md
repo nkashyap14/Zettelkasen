@@ -4,6 +4,7 @@
 - Latency = [[Transmission Delay]] + [[Propagation Delay]] + [[Queuing Delay]] + [[Switch/Node Processing Delay]]
 - See Also:
 	- [[jitter]]
+	- [[Latency Numbers]]
 ---
 Links :: [[Computer Science]] [[System Design]] [[Service Level Indicator]] [[Network]] [[Statistics]]
 Reference ::

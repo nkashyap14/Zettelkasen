@@ -1,6 +1,6 @@
 # Propagation Delay
 
-- Time it takes a [[bit]] to go from one start host to end host
+- Time it takes a [[bits|bit]] to go from one start host to end host
 -  = distance / speed
 	- [[Inversely Correlated]] to speed and [[Directly Proportional]] to distance
 	- As distance goes up delay goes up as speed goes up delay goes down
