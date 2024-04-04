@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f942b5b17b84c93d",
+        "id": "6b15301af8d3142c",
         "type": "tabs",
         "children": [
           {
-            "id": "8366668525b44493",
+            "id": "9bac91e6366d3ad3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Binary Tree Check for Identical Python Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Binary Tree Check for Identical Python Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Binary Tree Check for Identical Python Code.md"
+              }
             }
           }
         ]
@@ -137,36 +141,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8366668525b44493",
+  "active": "b83eba27e74eb705",
   "lastOpenFiles": [
-    "Zettelkasten/Latency Numbers.md",
-    "Zettelkasten/Latency.md",
-    "Zettelkasten/Probability Models and Axioms.md",
-    "Zettelkasten/API Architectural Styles.md",
-    "Zettelkasten/REST.md",
-    "Zettelkasten/API Formats.md",
-    "Zettelkasten/GraphQL.md",
-    "Zettelkasten/Multiple Requests Problem.md",
-    "Zettelkasten/Underfetching.md",
     "Zettelkasten/request.md",
-    "Zettelkasten/Overfetching.md",
-    "Zettelkasten/Data Formats.md",
-    "Zettelkasten/Schema Document.md",
-    "Zettelkasten/Binary Format.md",
-    "Zettelkasten/bit.md",
-    "Zettelkasten/Apache Avro.md",
-    "Zettelkasten/XML.md",
-    "Zettelkasten/JSON.md",
-    "Zettelkasten/API.md",
     "Zettelkasten/relational database.md",
-    "Zettelkasten/Unique ID Generator for Distributed Systems.md",
     "Zettelkasten/primary key.md",
+    "Zettelkasten/XML.md",
+    "Zettelkasten/Unique ID Generator for Distributed Systems.md",
+    "Zettelkasten/Underfetching.md",
     "Zettelkasten/UUID.md",
     "Zettelkasten/Twitter Snowflake.md",
-    "Zettelkasten/Alex Xu System Design Volume 2.md",
     "Zettelkasten/Ticket Server.md",
+    "Zettelkasten/Schema Document.md",
+    "Zettelkasten/REST.md",
+    "Zettelkasten/Overfetching.md",
+    "Zettelkasten/Multiple Requests Problem.md",
+    "Zettelkasten/Latency Numbers.md",
+    "Zettelkasten/JSON.md",
+    "Zettelkasten/GraphQL.md",
+    "Zettelkasten/Data Formats.md",
+    "Zettelkasten/Binary Format.md",
+    "Zettelkasten/Apache Avro.md",
+    "Zettelkasten/Alex Xu System Design Volume 2.md",
+    "Zettelkasten/API Architectural Styles.md",
+    "LICENSE.md",
+    "README.md",
+    "Zettelkasten/Binary Tree Check for Identical Python Code.md",
+    "Zettelkasten/Listening Socket Queues.md",
     "Files/python_binary_trees_identical.jpg",
     "Files/SocketQueues.jpg",
+    "Zettelkasten/2024-04-02.md",
     "Zettelkasten/Readiness",
     "Zettelkasten",
     "Templates",
