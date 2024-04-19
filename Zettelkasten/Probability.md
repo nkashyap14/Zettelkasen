@@ -13,6 +13,10 @@
 
 ## Details
 
+## Lectures
+- [[Probability Models and Axioms]]
+- [[Conditioning and Baye's Rule]]
+
 ## Conclusion
 
 
