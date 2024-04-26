@@ -4,47 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "f59e561882f61b55",
+        "id": "96c4bdbe712931fc",
         "type": "tabs",
         "children": [
           {
-            "id": "abe177b873f902de",
+            "id": "953edb8ebb512b05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Probability Models and Axioms.md",
+                "file": "Zettelkasten/Properties of Expectation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0fade52467533261",
+            "id": "8caa76c505caf114",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Independence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "875ade9b7ffc2a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Discrete Uniform Law.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Independence.md",
+                "file": "Zettelkasten/Properties of Expectation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Independence.md",
+                "file": "Zettelkasten/Properties of Expectation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Independence.md"
+                "file": "Zettelkasten/Properties of Expectation.md"
               }
             }
           }
@@ -170,36 +153,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fade52467533261",
+  "active": "953edb8ebb512b05",
   "lastOpenFiles": [
-    "Zettelkasten/Independence Lecture.md",
-    "Zettelkasten/Independence.md",
-    "Zettelkasten/Probability Models and Axioms.md",
-    "Zettelkasten/Bayes' Rule.md",
-    "Zettelkasten/Conditional Probability.md",
-    "Zettelkasten/Discrete Uniform Law.md",
-    "Zettelkasten/[Conditional Probability.md",
-    "Zettelkasten/[race condition.md",
-    "Zettelkasten/Countable additivity axiom.md",
-    "Zettelkasten/Probability.md",
-    "Zettelkasten/Sample Space.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/Event (Probability).md",
-    "Zettelkasten/Conditioning and Baye's Rule.md",
-    "Zettelkasten/network.md",
-    "Zettelkasten/Protocol.md",
-    "Zettelkasten/Python In Order Binary Tree Iterator.md",
-    "Zettelkasten/call stack.md",
-    "Files/python_binary_trees_identical.jpg",
-    "Zettelkasten/Binary Tree Check for Identical Python Code.md",
-    "Files/binary_trees_inorder_iteration.jpg",
-    "Zettelkasten/Blue Green Deployment.md",
-    "Zettelkasten/Mutex.md",
+    "Zettelkasten/Expectation.md",
+    "Zettelkasten/Variance.md",
+    "Zettelkasten/Discrete Random Variables Lecture.md",
+    "Zettelkasten/Statistics.md",
+    "Zettelkasten/Latency.md",
+    "Zettelkasten/Latency Bandwidth Product.md",
+    "Zettelkasten/Queuing Delay.md",
+    "Zettelkasten/Propagation Delay.md",
+    "Zettelkasten/Transmission Delay.md",
+    "Zettelkasten/jitter.md",
     "Zettelkasten/Latency Numbers.md",
+    "Zettelkasten/Properties of Expectation.md",
+    "Zettelkasten/Probability Mass Function.md",
+    "Templates/Lecture.md",
+    "Zettelkasten/Random Variable.md",
+    "Zettelkasten/Counting Lecture.md",
+    "Zettelkasten/binomial probability.md",
+    "Zettelkasten/John Tsitsiklis.md",
+    "Zettelkasten/Sample Space.md",
+    "Zettelkasten/Discrete Uniform Law.md",
+    "Zettelkasten/Bayes' Rule.md",
+    "Zettelkasten/Independence Lecture.md",
+    "Zettelkasten/Probability Models and Axioms.md",
     "Zettelkasten/MIT.md",
-    "Zettelkasten/Container Orchestrator.md",
-    "Zettelkasten/bits.md",
-    "Zettelkasten/Linux.md",
+    "Zettelkasten/Conditioning and Baye's Rule.md",
+    "Zettelkasten/Counting.md",
+    "Files/python_binary_trees_identical.jpg",
+    "Files/binary_trees_inorder_iteration.jpg",
     "Files/SocketQueues.jpg",
     "Zettelkasten/Readiness",
     "Zettelkasten",
