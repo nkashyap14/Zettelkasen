@@ -16,6 +16,10 @@
 ## Lectures
 - [[Probability Models and Axioms]]
 - [[Conditioning and Baye's Rule]]
+- [[Independence Lecture]]
+- [[Counting Lecture]]
+- [[Discrete Random Variables Lecture]]
+- [[Discrete Random Variables II Lecture]]
 
 ## Conclusion
 

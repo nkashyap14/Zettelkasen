@@ -29,6 +29,7 @@ $$
 $$
 \alpha, \beta = constants + X = random  variable
 $$
+- You can not reason on the average or the expectation when you are dealing with non linear things
 ---
 Links :: [[Computer Science]] [[Probability]] [[Expectation]]
 Reference :: [[Discrete Random Variables Lecture]]

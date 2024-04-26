@@ -18,6 +18,7 @@ $$
 	$$
 	 P(A \cup B \mid C) = {P(A \mid C)} + {P(B \mid C)} 
 	$$
+- Conditional probabilities are always proportional to original probabilities
 ---
 Links :: [[Probability]] [[Bayes' Rule]]
 Reference :: [[Conditioning and Baye's Rule]]

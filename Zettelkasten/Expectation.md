@@ -28,6 +28,7 @@ In this formula:
 
 ```
 - [[Properties of Expectation]]
+- [[Conditional Expectation]]
 ---
 Links :: [[Computer Science]] [[Probability]]
 Reference :: [[Discrete Random Variables Lecture]]
