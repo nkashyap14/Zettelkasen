@@ -5,6 +5,8 @@
 - The sample space is mutually exclusive and collectively exhaustive
 	- Collectively exhaustive means that regardless of the result of the experiment one of the outcomes of the set comes 
 	- Mutually exclusive means that because one event A took place from the sample space by nature the other events have not taken place
+- represented by 
+$$\Omega$$
 
 ---
 Links :: [[Probability]]

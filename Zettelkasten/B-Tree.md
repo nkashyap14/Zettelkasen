@@ -9,8 +9,8 @@
 - If you want to update the value of an existing key you search for the leaf page containing that key and change the value in that page and write the page back to disk
 	- any references to the page remain valid 
 - A leaf page is a page containing individual keys which contains either the value for each key inline or contains references to the pages where each value can be found
-- Leaf pages get split when they can't accomodate the range of keys when adding. However this is not an atomic operation because if db crashes after only writing some of the apges that results in a corrupted index
-- To make the databsae resilient to crashes B-Tree implementations introduce a [[write-ahead log]] which is an append only file to which every modification must be written before applying to the pages of the tree itself
+- Leaf pages get split when they can't accommodate the range of keys when adding. However this is not an atomic operation because if db crashes after only writing some of the apges that results in a corrupted index
+- To make the database resilient to crashes B-Tree implementations introduce a [[write-ahead log]] which is an append only file to which every modification must be written before applying to the pages of the tree itself
 	- Used to restore the b-tree back to a consistent place
 	- Means that every b-tree index must write every piece of data twice
 ---

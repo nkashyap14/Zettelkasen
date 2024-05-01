@@ -25,11 +25,22 @@ $$
 $$
 \mathbb{E}[\alpha X + \beta] = \alpha \mathbb{E}[X] + \beta
 $$
+$$
+E[X+Y+Z]=E[X]+E[Y]+E[Z]
+$$
+- Above does not require random variables to be independent
 - When
 $$
 \alpha, \beta = constants + X = random  variable
 $$
 - You can not reason on the average or the expectation when you are dealing with non linear things
+- If X, Y are independent
+$$
+E[XY] = E[X]*E[Y]
+$$
+$$
+E[g(X)h(Y)] = E[g(X)]*E[h(Y)]
+$$
 ---
 Links :: [[Computer Science]] [[Probability]] [[Expectation]]
 Reference :: [[Discrete Random Variables Lecture]]

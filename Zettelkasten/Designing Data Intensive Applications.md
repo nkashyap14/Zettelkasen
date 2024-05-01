@@ -11,6 +11,12 @@
 - [[MapReduce]]
 - [[Data Formats]]
 - [[Storage and Retrieval]]
+- [[Index]]
+- [[In-memory databases]]
+- [[Transaction]]
+- [[OLTP]] vs [[OLAP]]
+- [[Data warehouse]]
+- [[Column-Oriented Storage]]
 
 
 

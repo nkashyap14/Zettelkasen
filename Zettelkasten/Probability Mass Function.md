@@ -7,7 +7,7 @@
 - Total probability for a pmf sums to 1
 - Represents a probability distribution of a [[Random Variable]]
 $$
-P(X = x_i) = \begin{cases}
+p(X = x_i) = \begin{cases}
     p_1 & \text{if } i = 1, \\
     p_2 & \text{if } i = 2, \\
     \vdots & \vdots \\
@@ -15,7 +15,7 @@ P(X = x_i) = \begin{cases}
 \end{cases}
 $$
 $$
-P(X = k) = (1 - p)^{k-1} \cdot p \quad \text{for } k = 1, 2, 3, \ldots
+p(X = k) = (1 - p)^{k-1} \cdot p \quad \text{for } k = 1, 2, 3, \ldots
 $$
 - P(X=k) denotes the probability that the first head occurs on the k-th toss.
 - (1−p)^k−1 represents the probability of getting k−1 consecutive tails followed by one head.

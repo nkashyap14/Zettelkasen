@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc7d51b1c2f98f77",
+        "id": "4fdcd5839830fa9a",
         "type": "tabs",
         "children": [
           {
-            "id": "ac1ddf7b7bc73a84",
+            "id": "2f29fd9ec864bae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/standard deviation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2afb076e80b23be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Joint PMF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f448b2145a3be281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Conditional PMF.md",
+                "file": "Zettelkasten/binomial probability.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Joint PMF.md",
+                "file": "Zettelkasten/binomial probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Joint PMF.md",
+                "file": "Zettelkasten/binomial probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Joint PMF.md"
+                "file": "Zettelkasten/binomial probability.md"
               }
             }
           }
@@ -170,34 +145,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2afb076e80b23be4",
+  "active": "2f29fd9ec864bae6",
   "lastOpenFiles": [
-    "Zettelkasten/Conditional Probability.md",
-    "Zettelkasten/Joint PMF.md",
-    "Zettelkasten/Discrete Random Variables II Lecture.md",
-    "Zettelkasten/Total Expectation Theorem.md",
-    "Zettelkasten/Geometric PMF.md",
-    "Zettelkasten/Independence.md",
-    "Zettelkasten/Random Variable.md",
-    "Zettelkasten/Conditional Expectation.md",
-    "Zettelkasten/Expectation.md",
+    "Zettelkasten/Reliability (Probability).md",
     "Zettelkasten/Probability.md",
-    "Zettelkasten/Conditional PMF.md",
-    "Zettelkasten/Properties of Expectation.md",
-    "Zettelkasten/Discrete Random Variables Lecture.md",
-    "Zettelkasten/standard deviation.md",
-    "Zettelkasten/Statistics.md",
-    "Zettelkasten/Variance.md",
-    "Zettelkasten/Probability Mass Function.md",
-    "Templates/Lecture.md",
-    "Zettelkasten/MIT.md",
+    "Zettelkasten/Conditional Probability.md",
+    "Zettelkasten/Bayes' Rule.md",
+    "Zettelkasten/Total Expectation Theorem.md",
+    "Zettelkasten/Event (Probability).md",
+    "Zettelkasten/Probabilistic Model.md",
+    "Zettelkasten/Properties of Probability Laws.md",
+    "Zettelkasten/Discrete Uniform Law.md",
     "Zettelkasten/Probability Models and Axioms.md",
-    "Zettelkasten/Latency.md",
-    "Zettelkasten/Latency Bandwidth Product.md",
-    "Zettelkasten/Queuing Delay.md",
-    "Zettelkasten/Propagation Delay.md",
-    "Zettelkasten/Transmission Delay.md",
-    "Zettelkasten/jitter.md",
+    "Zettelkasten/Sequential Model.md",
+    "Files/sequential model.jpg",
+    "Zettelkasten/Sample Space.md",
+    "Zettelkasten/De Morgan's Law.md",
+    "Zettelkasten/Set Algebra.md",
+    "Zettelkasten/Set.md",
+    "Zettelkasten/Probaility.md",
+    "Zettelkasten/SSTable.md",
+    "Zettelkasten/Discrete Random Variables III Lecture.md",
+    "Zettelkasten/Hat Problem.md",
+    "Zettelkasten/Properties of Expectation.md",
+    "Zettelkasten/Multiple Random Variables.md",
+    "Zettelkasten/Independence.md",
+    "Zettelkasten/Expectation.md",
+    "Zettelkasten/Variance.md",
+    "Zettelkasten/binomial probability.md",
+    "Zettelkasten/Binomial Distribution.md",
     "Files/python_binary_trees_identical.jpg",
     "Files/binary_trees_inorder_iteration.jpg",
     "Files/SocketQueues.jpg",

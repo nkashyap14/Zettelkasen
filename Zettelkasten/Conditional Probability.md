@@ -1,11 +1,13 @@
 # Conditional Probability
 
+- Can be viewed as a probability law on a new universe B
 - Probabilities that apply after the revision of our beliefs after we're given some information
 
 
 $$
- P(A \mid B) = \frac{P(A \cap B)}{P(B)} 
+ P(A \mid B) = \frac{P(A \cap B)}{P(B)} = \frac{|A\cap B|}{|B|}
 $$
+	- third part only applies if the sets A and B are finitely many and equally likely
 
 - Equates to:
 	- Means that the probability of the world where a and b occurs is equal to the probability of B occurring multiplied by the probability of the world where A occurs when we know B occurs

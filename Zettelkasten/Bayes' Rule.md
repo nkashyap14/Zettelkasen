@@ -2,6 +2,16 @@
 
 ## Summary
 
+- Used for inference: When there a number of causes that may result in a certain effect. We have observed the effect and we wish to infer the likelihood of the cause
+- Allows us to model the probability that some cause is responsible considering the fact that we are living in a world where some event or evidence has shown up
+- Bayes gives us posterior probabilities of the causes
+$$
+P(A_i|B) = Posterior, P(A_i) = Prior
+$$
+$$
+P(C|E) = \frac{P(C) * P(E|C)}{P(E)}
+$$
+
 $$[ P(B \mid A) = \frac{P(A \mid B) P(B)}{P(A)} $$
 
 

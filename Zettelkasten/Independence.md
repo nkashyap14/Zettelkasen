@@ -23,6 +23,7 @@ $$
 - Independence of multiple events:
 	- Information on some of the events tells us nothing about probabilities related to the remaining events
 	- Events are jointly independent if we can find the probability of their joint occurrence by multiplying their individual probabilities together
+- If the [[Joint PMF|joint]] is a product of the [[Marginal Probability|marginal]] than variables are said to be independent
 
 ---
 Links :: [[Probability]] [[Statistics]] 

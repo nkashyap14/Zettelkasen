@@ -1,6 +1,9 @@
 # Conditional PMF
 
 - A is an event which has occurred. Below tells us the probability that event x from [[Sample Space]] X occurs conditioned on the event A occurring happens at said probability
+$$
+P_{X|Y}(x|y) = P(X=x|Y=y)
+$$
 
 ---
 Links :: [[Probability]] [[Probability Mass Function]] [[Expectation]]

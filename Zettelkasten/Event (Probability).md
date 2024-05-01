@@ -6,6 +6,7 @@
 	- P(A) >= 0:
 		- Event probability can't be 0
 	- P([[Sample Space]]) <= 1:
+		- Normalization
 		- Can't be greater than 1
 	- Additivity:
 	$$
@@ -14,6 +15,7 @@
 	$$
 - An event can be represented as sum of its individual subset element's probabilities
 	- The total probability of a finite set of outcomes is equal to the sum of the individual probabilities of its constituent elements
+	- Known as the discrete probability law
 ---
 Links :: [[Probability]]
 Reference :: [[Probability Models and Axioms]]
