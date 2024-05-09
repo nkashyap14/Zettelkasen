@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64ccdcba6af714ad",
+        "id": "5f869ab25dbeba4d",
         "type": "tabs",
         "children": [
           {
-            "id": "d73667ee1033a31a",
+            "id": "837f2bec84211181",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Youtube API Design Evaluation and Latency Budget.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Youtube API Design Evaluation and Latency Budget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Youtube API Design Evaluation and Latency Budget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Youtube API Design Evaluation and Latency Budget.md"
+              }
             }
           }
         ]
@@ -138,8 +145,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d73667ee1033a31a",
+  "active": "837f2bec84211181",
   "lastOpenFiles": [
+    "Zettelkasten/REDCAMEL.md",
+    "Zettelkasten/Youtube API Design Evaluation and Latency Budget.md",
+    "Zettelkasten/Protocol.md",
+    "Zettelkasten/Data Formats.md",
+    "Zettelkasten/Grokking the API Design Interview.md",
+    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/2024-04-02.md",
     "Templates/Probability Problem.md",
     "Zettelkasten/The Probability of the Difference of Two Events.md",
     "Templates/Textbook.md",
@@ -160,13 +174,6 @@
     "Zettelkasten/Programming Languages.md",
     "Zettelkasten/binomial probability.md",
     "Zettelkasten/Reliability (Probability).md",
-    "Zettelkasten/Conditional Probability.md",
-    "Zettelkasten/Total Expectation Theorem.md",
-    "Zettelkasten/Event (Probability).md",
-    "Zettelkasten/Probabilistic Model.md",
-    "Zettelkasten/Properties of Probability Laws.md",
-    "Zettelkasten/Discrete Uniform Law.md",
-    "Zettelkasten/Sequential Model.md",
     "Files/sequential model.jpg",
     "Files/python_binary_trees_identical.jpg",
     "Files/binary_trees_inorder_iteration.jpg",
