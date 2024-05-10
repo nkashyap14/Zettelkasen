@@ -17,6 +17,7 @@
 - [[OLTP]] vs [[OLAP]]
 - [[Data warehouse]]
 - [[Column-Oriented Storage]]
+- [[Encoding & Evolution]]
 
 
 

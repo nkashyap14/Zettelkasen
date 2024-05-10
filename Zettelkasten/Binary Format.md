@@ -6,6 +6,8 @@
 - Often used for serializing structured data, aka converting data structures or object states into a format that can be stored or transmitted and reconstructed later
 - Types of formats:
 	- [[Apache Avro]]
+	- [[Apache Thrift]]
+	- [[Protocol Buffers]]
 ---
 Links :: [[Computer Science]] [[Data Formats]] [[Schema Document]]
 Reference ::

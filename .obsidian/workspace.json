@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4fdcd5839830fa9a",
+        "id": "738d4de8858ed081",
         "type": "tabs",
         "children": [
           {
-            "id": "2f29fd9ec864bae6",
+            "id": "5476e6cfedcb79c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/binomial probability.md",
+                "file": "Zettelkasten/Event (Probability).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32b9db1cb1475e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Multiple Continuous Random Variables Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/binomial probability.md",
+                "file": "Zettelkasten/Multiple Continuous Random Variables Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/binomial probability.md",
+                "file": "Zettelkasten/Multiple Continuous Random Variables Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/binomial probability.md"
+                "file": "Zettelkasten/Multiple Continuous Random Variables Lecture.md"
               }
             }
           }
@@ -145,35 +158,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f29fd9ec864bae6",
+  "active": "32b9db1cb1475e88",
   "lastOpenFiles": [
-    "Zettelkasten/Reliability (Probability).md",
-    "Zettelkasten/Probability.md",
-    "Zettelkasten/Conditional Probability.md",
-    "Zettelkasten/Bayes' Rule.md",
-    "Zettelkasten/Total Expectation Theorem.md",
-    "Zettelkasten/Event (Probability).md",
-    "Zettelkasten/Probabilistic Model.md",
-    "Zettelkasten/Properties of Probability Laws.md",
-    "Zettelkasten/Discrete Uniform Law.md",
-    "Zettelkasten/Probability Models and Axioms.md",
-    "Zettelkasten/Sequential Model.md",
-    "Files/sequential model.jpg",
-    "Zettelkasten/Sample Space.md",
-    "Zettelkasten/De Morgan's Law.md",
-    "Zettelkasten/Set Algebra.md",
-    "Zettelkasten/Set.md",
-    "Zettelkasten/Probaility.md",
-    "Zettelkasten/SSTable.md",
     "Zettelkasten/Discrete Random Variables III Lecture.md",
-    "Zettelkasten/Hat Problem.md",
-    "Zettelkasten/Properties of Expectation.md",
-    "Zettelkasten/Multiple Random Variables.md",
-    "Zettelkasten/Independence.md",
-    "Zettelkasten/Expectation.md",
-    "Zettelkasten/Variance.md",
+    "Zettelkasten/Event (Probability).md",
+    "Zettelkasten/Multiple Continuous Random Variables Lecture.md",
+    "Zettelkasten/Probability.md",
+    "Zettelkasten/Sample Space.md",
+    "Zettelkasten/Probabilistic Model.md",
+    "Zettelkasten/Conditional Probability.md",
     "Zettelkasten/binomial probability.md",
+    "Zettelkasten/Binary Format.md",
+    "Zettelkasten/Data Formats.md",
+    "Zettelkasten/JSON.md",
+    "Zettelkasten/XML.md",
+    "Zettelkasten/Encoding & Evolution.md",
+    "Zettelkasten/Bernoulli Random Variable.md",
+    "Zettelkasten/Geometric PMF.md",
+    "Zettelkasten/Rolling Deployment.md",
+    "Zettelkasten/Designing Data Intensive Applications.md",
+    "Zettelkasten/Discrete Uniform Distributed Random Variable.md",
+    "Zettelkasten/Variance.md",
+    "Zettelkasten/Nth Moment.md",
     "Zettelkasten/Binomial Distribution.md",
+    "Zettelkasten/binomial coefficients.md",
+    "Zettelkasten/Expectation.md",
+    "Zettelkasten/Linear Function.md",
+    "Zettelkasten/Poisson Random Variable.md",
+    "Zettelkasten/Discrete Random Variable.md",
+    "Files/sequential model.jpg",
     "Files/python_binary_trees_identical.jpg",
     "Files/binary_trees_inorder_iteration.jpg",
     "Files/SocketQueues.jpg",

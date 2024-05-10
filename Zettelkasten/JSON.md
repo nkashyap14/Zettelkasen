@@ -4,6 +4,7 @@
 - Is a subset of Javascript
 - Uses colon-separated key-value pairs to describe data attributes
 - Language independent and has a lower learning curve than [[XML]]. Parses faster than XML and is comparatively more lightweight and compact
+- Built in support by webbrowsers as it is a subset of JavaScript
 - Limitations:
 	- Lacks a standardized wa to define and reuse descriptions for documents
 	- Lacks built in way to distinguish between numbers and floats

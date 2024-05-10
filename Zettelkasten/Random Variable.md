@@ -3,8 +3,9 @@
 - Ways of assigning numerical results to the possible outcomes of an experiment
 - Mathematically is a function from the [[Sample Space]] to real numbers whether discrete or continuous
 - Can have multiple random variables defined on the same sample space
+- In mathematical terms a random variable is a real-valued function of the experimental outcome
 ---
-Links :: [[Computer Science]] [[Probability]] [[Probability Mass Function]]
+Links :: [[Computer Science]] [[Probability]] [[Probability Mass Function]] [[Discrete Random Variable]]
 Reference :: [[Discrete Random Variables Lecture]]
 Type :: #atom
 Creator ::

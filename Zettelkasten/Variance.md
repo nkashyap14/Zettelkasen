@@ -4,7 +4,9 @@
 $$E[X^2] = \sum(x^2 * p_{X}(x))$$
 - Var(X) = E|(X - E[X])|^2 =
 	- $$\sum_{x}(x - E[X])^2*p_{X}(x)$$
-	- = 
+	$$
+	E[X^2] - (E[X])^2
+	$$
 	- E[X^2] - (E[X])^2
 - Represents the averaged squared distance from the mean
 - Also represents the average value of the inner random variable which is the squared distance from the mean 
