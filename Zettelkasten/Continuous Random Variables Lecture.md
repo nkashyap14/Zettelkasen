@@ -1,6 +1,6 @@
-# Multiple Continuous Random Variables Lecture
+# Continuous Random Variables Lecture
 
-- 
+- [[Continuous Random Variables]]
 
 
 

@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "7884fd9766b7c032",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec701c3100ad65e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8fa5bb616c82686",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daac47d51dbfd194",
+    "type": "split",
+    "children": [
+      {
+        "id": "6358a39128b1ff0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b83eba27e74eb705",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0a3680621591d78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fadcf4b274eb2066",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8b133660cb2c254",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdfb232e20e4e8ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea773da5034fe50a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "89a3040541f8a99e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2271a6e8010d38c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f913f1e3db878349",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0a3680621591d78",
+  "lastOpenFiles": [
+    "Templates/Nutritional Molecule.md",
+    "Zettelkasten/Mitochondrial Health.md",
+    "Zettelkasten/Energy Production.md",
+    "Zettelkasten/Digestive Health.md",
+    "Zettelkasten/Detoxification + Skin Health.md",
+    "Zettelkasten/Calming + Relaxation.md",
+    "Zettelkasten/Magnesium Acetate.md",
+    "Zettelkasten/Nutrition.md",
+    "Zettelkasten/mitochondria.md",
+    "Zettelkasten/Magnesium Chloride.md",
+    "Zettelkasten/Magnesium Taurate.md",
+    "Zettelkasten/Magnesium Glycinate.md",
+    "Zettelkasten/Magnesium Malate.md",
+    "Zettelkasten/Magnesium Threonate.md",
+    "Zettelkasten/Magnesium Citrate.md",
+    "Zettelkasten/Magnesium Aspartate.md",
+    "Templates/Nutritional Atom.md",
+    "Zettelkasten/bioavailability.md",
+    "Zettelkasten/Magnesium Sulfate.md",
+    "Zettelkasten/magnesium hydroxide.md",
+    "Zettelkasten/Magnesium Bicarbonate.md",
+    "Zettelkasten/Magnesium Oxide.md",
+    "Zettelkasten/Magnesium.md",
+    "Zettelkasten/Grimhood Papi.md",
+    "Templates/Atom.md",
+    "Templates/Academic.md",
+    "Files/1440px-Normal_Distribution_PDF.svg.png",
+    "Files/pdf.jpg",
+    "Files/pdf.png",
+    "Files/sequential model.jpg",
+    "Files/python_binary_trees_identical.jpg",
+    "Files/binary_trees_inorder_iteration.jpg",
+    "Files/SocketQueues.jpg",
+    "Zettelkasten/Readiness",
+    "Zettelkasten",
+    "Templates",
+    "References",
+    "Files"
+  ]
+}
