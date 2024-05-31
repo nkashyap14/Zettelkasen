@@ -1,6 +1,7 @@
 # REST
 
 - Stands for Representational State Transfer
+- Not a [[protocol]] but a design philosophy building on principles of HTTP
 - Defines an API architectural style
 - Heavily relies on [[HTTP]] [[Protocol|protocol]]
 - Utilized for communication between client programs and [[server|web servers]]

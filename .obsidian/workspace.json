@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "ec701c3100ad65e3",
+        "id": "2f61def3e8ccbbc4",
         "type": "tabs",
         "children": [
           {
-            "id": "c8fa5bb616c82686",
+            "id": "fa67c9bacf0d71cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Designing Data Intensive Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c488ffc3d76282ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Partitioning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "695e8e59bdf95d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Replication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94c41001dd8649e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/syslog.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Partitioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Partitioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Partitioning.md"
+              }
             }
           }
         ]
@@ -138,34 +182,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0a3680621591d78",
+  "active": "c488ffc3d76282ab",
   "lastOpenFiles": [
-    "Templates/Nutritional Molecule.md",
-    "Zettelkasten/Mitochondrial Health.md",
-    "Zettelkasten/Energy Production.md",
-    "Zettelkasten/Digestive Health.md",
-    "Zettelkasten/Detoxification + Skin Health.md",
-    "Zettelkasten/Calming + Relaxation.md",
-    "Zettelkasten/Magnesium Acetate.md",
-    "Zettelkasten/Nutrition.md",
-    "Zettelkasten/mitochondria.md",
-    "Zettelkasten/Magnesium Chloride.md",
-    "Zettelkasten/Magnesium Taurate.md",
-    "Zettelkasten/Magnesium Glycinate.md",
-    "Zettelkasten/Magnesium Malate.md",
-    "Zettelkasten/Magnesium Threonate.md",
-    "Zettelkasten/Magnesium Citrate.md",
-    "Zettelkasten/Magnesium Aspartate.md",
-    "Templates/Nutritional Atom.md",
-    "Zettelkasten/bioavailability.md",
-    "Zettelkasten/Magnesium Sulfate.md",
-    "Zettelkasten/magnesium hydroxide.md",
-    "Zettelkasten/Magnesium Bicarbonate.md",
-    "Zettelkasten/Magnesium Oxide.md",
-    "Zettelkasten/Magnesium.md",
-    "Zettelkasten/Grimhood Papi.md",
+    "Zettelkasten/Replication.md",
+    "Zettelkasten/Partitioning.md",
+    "Zettelkasten/Designing Data Intensive Applications.md",
+    "Zettelkasten/Shared-Nothing Architecture.md",
+    "Zettelkasten/auditd.md",
+    "Zettelkasten/Linux.md",
+    "Zettelkasten/syslog.md",
+    "Zettelkasten/Defensive Options Drill.md",
+    "Zettelkasten/Southpaw.md",
+    "Zettelkasten/Kickboxing.md",
+    "Zettelkasten/Kickboxing Fundamental Stance.md",
+    "Zettelkasten/Total Expectation Theorem.md",
+    "Zettelkasten/Martial Arts.md",
+    "Zettelkasten/HLTV Scraping + Data Store.md",
+    "Templates/Computer Science Project.md",
     "Templates/Atom.md",
+    "Templates/Code.md",
+    "Templates/Lecture.md",
+    "Templates/Book.md",
     "Templates/Academic.md",
+    "Templates/Molecule.md",
+    "Templates/Nutritional Molecule.md",
+    "Templates/Textbook.md",
+    "Templates/Nutritional Supplementation Plan.md",
+    "Templates/Topic.md",
+    "Zettelkasten/Beginner Magnesium Supplementation Plan.md",
     "Files/1440px-Normal_Distribution_PDF.svg.png",
     "Files/pdf.jpg",
     "Files/pdf.png",

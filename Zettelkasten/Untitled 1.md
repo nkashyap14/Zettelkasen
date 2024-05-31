@@ -1,9 +1,8 @@
-# Nutrition
+# Untitled 1
 
 ## Summary
 
 ## Subtopics
-- [[nutrient|Nutrients]]
 
 ## Details
 
@@ -11,6 +10,6 @@
 
 
 Type :: #topic
-Links :: 
+Links :: [[Computer Science]]
 Creator ::
-Date ::  2024-05-20 13:46
+Date ::  2024-05-20 15:07

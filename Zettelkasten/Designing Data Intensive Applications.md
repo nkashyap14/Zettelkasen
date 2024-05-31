@@ -18,6 +18,10 @@
 - [[Data warehouse]]
 - [[Column-Oriented Storage]]
 - [[Encoding & Evolution]]
+- [[Shared-Memory Architecture]] vs [[Shared-Disk Architecture]] vs [[Shared-Nothing Architecture]]
+- How to distribute data across multiple nodes
+	- [[Replication]]
+	- [[Partitioning]]
 
 
 

@@ -17,8 +17,14 @@ Magnesium is an essential mineral involved in over 300 biochemical reactions in 
 #### Sources of Magnesium:
 
 - **Natural Food Sources**: Leafy green vegetables, nuts, seeds, whole grains, and legumes.
+	- Wild-caught Seafood
+	- Hemp seeds
+	- Leafy Green vegetables soaked/washed in [[Magnesium Chloride]] water solution
+	- Organ meats (Especially heart)
 - **Fortified Foods**: Some breakfast cereals and other fortified foods.
 - **Supplements**: Available in various forms to address specific health needs.
+	- [[Magnesium Chloride]]
+	- [[Magnesium Glycinate]]
 
 #### Health Benefits:
 

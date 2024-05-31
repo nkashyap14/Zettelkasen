@@ -2,7 +2,12 @@
 
 - A is an event which has occurred. Below tells us the probability that event x from [[Sample Space]] X occurs conditioned on the event A occurring happens at said probability
 $$
-P_{X|Y}(x|y) = P(X=x|Y=y)
+P_{X|Y}(x|y) = P(X=x|Y=y) = \frac{P(X = x, Y=y)}{P(Y= y)}
+$$
+
+- Can calculate the join pmf:
+$$
+P_{X,Y}(x,y) = P_Y(y)*P_{X|Y}(x|y)
 $$
 
 ---

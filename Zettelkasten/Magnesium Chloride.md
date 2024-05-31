@@ -1,8 +1,10 @@
 # Magnesium Chloride
 
 - The tissue salt
+- Magnesium Salt
+- Used to boost [[magnesium]] levels in the blood. Useful for muscle and nerve function
 - Donates a chloride molecule to cells and facilitates [[Magnesium]] uptake
-- High bioavailability
+- High [[bioavailability]]
 - Can be administered orally or topically
 - Effective for calming brain + nervous system
 $$
