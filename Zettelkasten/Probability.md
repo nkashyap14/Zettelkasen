@@ -2,7 +2,7 @@
 
 ## Summary
 
-- A branch of mathematics that deals with calculating the likelihood of a given event's occurrence which is expressed as a number between 0 and 1
+- A branch of [[mathematics]] that deals with calculating the likelihood of a given event's occurrence which is expressed as a number between 0 and 1
 - Probability theory is a framework for dealing with situations that have some kind of randomness
 ## Subtopics
 
@@ -14,6 +14,7 @@
 - [[Sequential Model]]
 - [[Properties of Probability Laws]]
 - [[Reliability (Probability)|Reliability]]
+- [[Likelihood Function]]
 
 ## Details
 - [[Marginal Probability]]

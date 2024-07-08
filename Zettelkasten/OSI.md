@@ -1,7 +1,7 @@
 # OSI
 
 - Stands for Open System Interconnection
-- 7 OLayers
+- 7 Layers
 - Please Do Not Throw Sausage Pizza Away
 	- Physical:
 		- Handles transmission of [[bitstreams]] on the physical link between the sender and the immediate next hop receiver

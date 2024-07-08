@@ -1,8 +1,10 @@
-# Untitled 2
+# Kickboxing
 
 ## Summary
 
 ## Subtopics
+- [[Open Stance]]
+- [[Closed Stance]]
 - [[Defensive Options Drill]]
 
 ## Details

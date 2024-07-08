@@ -1,8 +1,8 @@
 # TCP
 
 ## Summary
--TCP is a network protocol that is one of the backbones of the internet
--TCP is involved in the transport layer of the OSI stack and is one of the most widely used protocols in that layer alongside protocols such as UDP, SCTP
+-TCP is a network [[protocol]] that is one of the backbones of the internet
+-TCP is involved in the transport layer of the [[OSI]] stack and is one of the most widely used protocols in that layer alongside protocols such as UDP, SCTP
 -TCP is a duplexed bidirectional byte stream. It provides reliable, ordered, and error checked delivery of a stream of octets (bytes) between applications running on hosts (nowadays higher level programming code that is broken down into machine code and executed on computing hardware) communicating via an IP network.
 -Involves a three way handshake and also utilizes both asymmetric and symmetric encryption in a way to ensure security in transit
 ## Subtopics

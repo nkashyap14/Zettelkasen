@@ -1,9 +1,29 @@
 # Replication
 
-
+- Keep a copy of the same data on several different nodes potentially in different locations
+- Reasons for utilizing replication
+	- [[Scalability]]
+	- [[Latency]] reduction
+	- [[Availability]]
+- Provides [[redundancy]]
+	- Multiple failovers
+	-  If nodes become unavailable data can be served from remaining nodes
+- Can also help improve performance
+- Every write to a database needs to be processed by every replica in order to keep them in sync
+- [[Replication Difficulties]]
+- [[Setting up new followers (Replication)]]
+- [[Handling Node Outages (Replication)]]
+- [[Implementation of Replication Logs]]
+- [[Replication Algorithm's]]
+- [[Asynchronous replication]]
+- [[Synchronous Replication]]
+- [[Failed replica handling]]
+- [[Replication Lag]]
+- [[Read-scaling Architecture]]
+- [[Detecting Concurrent Writes]]
 ---
-Links :: [[Computer Science]]
-Reference ::
+Links :: [[Computer Science]] [[System Design]] [[Data]] [[Database]]
+Reference :: [[Designing Data Intensive Applications]]
 Type :: #atom
 Creator ::
 TAF ::

@@ -20,7 +20,7 @@ $$
 ![[1440px-Normal_Distribution_PDF.svg.png]]
 
 ---
-Links :: [[Probability]] [[Distribution]] [[Normal Variable]] [[Random Variable]]
+Links :: [[Probability]] [[Distribution]] [[Normal Variable]] [[Random Variable]] [[Normalization Factor]] [[Exponential Function]]
 Reference :: [[Continuous Random Variables]]
 Type :: #atom
 Creator ::

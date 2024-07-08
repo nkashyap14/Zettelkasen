@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2f61def3e8ccbbc4",
+        "id": "1306716a6085073b",
         "type": "tabs",
         "children": [
           {
-            "id": "fa67c9bacf0d71cf",
+            "id": "101a348b591687c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Single Object Transaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88dc288183c09679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Leaderless.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1f961d183dc10f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +44,19 @@
             }
           },
           {
-            "id": "c488ffc3d76282ab",
+            "id": "d2039b61a65537d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Partitioning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "695e8e59bdf95d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Replication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94c41001dd8649e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/syslog.md",
+                "file": "Zettelkasten/dirty read.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Partitioning.md",
+                "file": "Zettelkasten/Designing Data Intensive Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Partitioning.md",
+                "file": "Zettelkasten/Designing Data Intensive Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Partitioning.md"
+                "file": "Zettelkasten/Designing Data Intensive Applications.md"
               }
             }
           }
@@ -182,34 +182,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c488ffc3d76282ab",
+  "active": "c1f961d183dc10f9",
   "lastOpenFiles": [
-    "Zettelkasten/Replication.md",
-    "Zettelkasten/Partitioning.md",
+    "Zettelkasten/Document Database.md",
     "Zettelkasten/Designing Data Intensive Applications.md",
-    "Zettelkasten/Shared-Nothing Architecture.md",
-    "Zettelkasten/auditd.md",
-    "Zettelkasten/Linux.md",
-    "Zettelkasten/syslog.md",
-    "Zettelkasten/Defensive Options Drill.md",
-    "Zettelkasten/Southpaw.md",
-    "Zettelkasten/Kickboxing.md",
-    "Zettelkasten/Kickboxing Fundamental Stance.md",
-    "Zettelkasten/Total Expectation Theorem.md",
-    "Zettelkasten/Martial Arts.md",
-    "Zettelkasten/HLTV Scraping + Data Store.md",
-    "Templates/Computer Science Project.md",
-    "Templates/Atom.md",
-    "Templates/Code.md",
-    "Templates/Lecture.md",
-    "Templates/Book.md",
-    "Templates/Academic.md",
-    "Templates/Molecule.md",
-    "Templates/Nutritional Molecule.md",
-    "Templates/Textbook.md",
-    "Templates/Nutritional Supplementation Plan.md",
-    "Templates/Topic.md",
-    "Zettelkasten/Beginner Magnesium Supplementation Plan.md",
+    "Zettelkasten/Storage Locality.md",
+    "Zettelkasten/Imperative.md",
+    "Zettelkasten/Declarative.md",
+    "Zettelkasten/MapReduce.md",
+    "Zettelkasten/Data Formats.md",
+    "Zettelkasten/Binary Format.md",
+    "Zettelkasten/JSON.md",
+    "Zettelkasten/XML.md",
+    "Zettelkasten/Service Discovery.md",
+    "Zettelkasten/Write-Write Conflicts.md",
+    "Zettelkasten/dirty write.md",
+    "Zettelkasten/Preventing Lost Updates.md",
+    "Zettelkasten/Explicit Locking.md",
+    "Zettelkasten/Atomic Write Operations.md",
+    "Zettelkasten/lost update problem.md",
+    "Zettelkasten/Concurrency.md",
+    "Zettelkasten/Automatically Detecting Lost Updates.md",
+    "Zettelkasten/race condition.md",
+    "Zettelkasten/Actor Model.md",
+    "Zettelkasten/Distributed Actor Frameworks.md",
+    "Zettelkasten/Applications.md",
+    "Zettelkasten/Transaction.md",
+    "Zettelkasten/Weak Isolation Levels.md",
+    "Zettelkasten/Read Committed.md",
     "Files/1440px-Normal_Distribution_PDF.svg.png",
     "Files/pdf.jpg",
     "Files/pdf.png",

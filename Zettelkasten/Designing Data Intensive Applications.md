@@ -22,7 +22,9 @@
 - How to distribute data across multiple nodes
 	- [[Replication]]
 	- [[Partitioning]]
-
+- [[Service Discovery]]
+- [[Snapshot Isolation]]
+- [[Write-Write Conflicts]]
 
 
 

@@ -1,5 +1,8 @@
 # Secondary Index
 
+- Do not map neatly to partitions
+	- [[Partition Approaches for Secondary Index]]
+- Bread and butter of relational databases + also common in [[Document Database]]
 - In relational databases can create multiple secondary indexes on the same table
 - Are crucial for performing joins efficiently
 - Keys are not unique

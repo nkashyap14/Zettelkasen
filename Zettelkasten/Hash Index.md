@@ -1,6 +1,6 @@
 # Hash Index
 
-- Keep an in-memory hash map where every key is mapped to a byte offset in the data file (location where the value can be found)
+- Keep an in-memory [[hashmap]] where every key is mapped to a byte offset in the data file (location where the value can be found)
 - When appending new key value pair to the file also update the hash map to reflect offset of data you just wrote
 - Suited for situations where the value of each key is updated frequently
 	- A lot of writes per key 
