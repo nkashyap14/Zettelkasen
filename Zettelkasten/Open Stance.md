@@ -7,8 +7,9 @@
 - This stance is better for landing following strikes:
 	- [[High kick to the head]]
 	- [[Straight Cross]]
+		- [[Slip into Cross]]
 	- Also opens up rear leg attack like [[teeps]] and outside leg kicks
-	- [[Inside low kicks]]
+	- [[Inside low kicks with the rear leg]]
 - Important to have outside foot control in an open stance matchup
 
 ## Subtopics

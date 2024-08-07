@@ -6,7 +6,7 @@
 - [[Directly Proportional]] to the packet size
 
 ---
-Links :: [[Computer Science]] [[Statistics]] [[System Design]] [[Service Level Indicator]] [[OSI]]
+Links :: [[Computer Science]] [[Statistics]] [[System Design]] [[Service Level Indicator]] [[OSI Model]]
 Reference ::
 Type :: #atom
 Creator ::

@@ -9,7 +9,7 @@
 	- Messages receipt
 	- Error detection and Correction
 - Models:
-	- [[OSI]]
+	- [[OSI Model]]
 
 
 ---

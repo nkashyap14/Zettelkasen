@@ -6,7 +6,7 @@
 	- As distance goes up delay goes up as speed goes up delay goes down
 
 ---
-Links :: [[Computer Science]] [[Statistics]] [[System Design]] [[Service Level Indicator]] [[OSI]]
+Links :: [[Computer Science]] [[Statistics]] [[System Design]] [[Service Level Indicator]] [[OSI Model]]
 Reference ::
 Type :: #atom
 Creator ::

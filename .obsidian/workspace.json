@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1306716a6085073b",
+        "id": "b9bd52c8ed0c82f0",
         "type": "tabs",
         "children": [
           {
-            "id": "101a348b591687c6",
+            "id": "0f4bae86752e849e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Single Object Transaction.md",
+                "file": "Zettelkasten/Hit the Target.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "88dc288183c09679",
+            "id": "fcaa2db747074ec2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Leaderless.md",
+                "file": "Zettelkasten/Tiago Beowulf vs Vladimir Mineev.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c1f961d183dc10f9",
+            "id": "cd75c268e9cbce20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Designing Data Intensive Applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2039b61a65537d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/dirty read.md",
+                "file": "Zettelkasten/Knees.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Designing Data Intensive Applications.md",
+                "file": "Zettelkasten/Tiago Beowulf vs Vladimir Mineev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Designing Data Intensive Applications.md",
+                "file": "Zettelkasten/Tiago Beowulf vs Vladimir Mineev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Designing Data Intensive Applications.md"
+                "file": "Zettelkasten/Tiago Beowulf vs Vladimir Mineev.md"
               }
             }
           }
@@ -170,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,34 +170,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1f961d183dc10f9",
+  "active": "fcaa2db747074ec2",
   "lastOpenFiles": [
-    "Zettelkasten/Document Database.md",
-    "Zettelkasten/Designing Data Intensive Applications.md",
-    "Zettelkasten/Storage Locality.md",
-    "Zettelkasten/Imperative.md",
-    "Zettelkasten/Declarative.md",
-    "Zettelkasten/MapReduce.md",
-    "Zettelkasten/Data Formats.md",
-    "Zettelkasten/Binary Format.md",
-    "Zettelkasten/JSON.md",
-    "Zettelkasten/XML.md",
-    "Zettelkasten/Service Discovery.md",
-    "Zettelkasten/Write-Write Conflicts.md",
-    "Zettelkasten/dirty write.md",
-    "Zettelkasten/Preventing Lost Updates.md",
-    "Zettelkasten/Explicit Locking.md",
-    "Zettelkasten/Atomic Write Operations.md",
-    "Zettelkasten/lost update problem.md",
-    "Zettelkasten/Concurrency.md",
-    "Zettelkasten/Automatically Detecting Lost Updates.md",
-    "Zettelkasten/race condition.md",
-    "Zettelkasten/Actor Model.md",
-    "Zettelkasten/Distributed Actor Frameworks.md",
-    "Zettelkasten/Applications.md",
-    "Zettelkasten/Transaction.md",
-    "Zettelkasten/Weak Isolation Levels.md",
-    "Zettelkasten/Read Committed.md",
+    "Zettelkasten/Closed Stance.md",
+    "Zettelkasten/Tiago Beowulf vs Vladimir Mineev.md",
+    "Zettelkasten/Open Stance.md",
+    "Templates/Fight.md",
+    "Transport Layer (TCP/IP).md",
+    "Templates/Topic.md",
+    "Templates/Kickboxing Atom.md",
+    "Zettelkasten/Kickboxing.md",
+    "Zettelkasten/Hit the Target.md",
+    "Zettelkasten/Kickboxing Fundamental Stance.md",
+    "Zettelkasten/Numbers with low Kick.md",
+    "Zettelkasten/Tiago Beowulf Numbers System.md",
+    "Zettelkasten/Numbers with Knees.md",
+    "Zettelkasten/Knees.md",
+    "Zettelkasten/Hit The Target 4.md",
+    "Zettelkasten/Hit The Target 3.md",
+    "Zettelkasten/Hit The Target 2.md",
+    "Zettelkasten/Hit The Target 1.md",
+    "Zettelkasten/Teep into roundhouse.md",
+    "Zettelkasten/Teep Techniques.md",
+    "Zettelkasten/teeps.md",
+    "Zettelkasten/Boxing.md",
+    "Zettelkasten/Boxing Tyson Step Combo.md",
+    "Zettelkasten/Southpaw Jab into Lead Hooking Elbow.md",
+    "Zettelkasten/Hooking Elbow Techniques.md",
+    "Zettelkasten/Hooking Elbow.md",
+    "Transport Layer (TCP",
+    "TCP",
     "Files/1440px-Normal_Distribution_PDF.svg.png",
     "Files/pdf.jpg",
     "Files/pdf.png",
