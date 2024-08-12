@@ -1,7 +1,7 @@
 # Tiago Beowulf vs Vladimir Mineev
 
 ## Context
-- [[Kickboxing]] instructor [[Tiago Beowulf]]'s world championship fight for WKN heavyweight title 
+- [[Dutch Kickboxing]] instructor [[Tiago Beowulf]]'s world championship fight for WKN heavyweight title 
 ## Notes
 
 - Orthodox vs Orthodox
@@ -34,7 +34,7 @@
 ## Techniques Utilized
 
 ---
-Topics ::  [[Martial Arts]] [[Kickboxing]]
+Topics ::  [[Martial Arts]] [[Dutch Kickboxing]]
 Reference :: https://www.youtube.com/watch?v=k0Pc8UzL0Yk
 Type :: #molecule
 Fighters ::

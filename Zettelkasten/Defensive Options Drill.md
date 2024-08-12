@@ -20,7 +20,7 @@
 		- Keep Right hand on chin in order to be viligant for any strikes creeping up to the head
 
 ---
-Links ::  [[Kickboxing]]
+Links ::  [[Dutch Kickboxing]]
 Reference ::
 Type :: #atom
 Creator ::

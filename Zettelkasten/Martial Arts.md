@@ -3,7 +3,7 @@
 ## Summary
 
 ## Subtopics
-- [[Kickboxing]]
+- [[Dutch Kickboxing]]
 - [[Wrestling]]
 - [[BJJ]]
 - 

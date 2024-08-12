@@ -1,15 +1,15 @@
-# Kickboxing
+# Dutch Kickboxing
 
 ## Summary
 
-- Under this classification I am doing both Muay Thai + Dutch Kickboxing
-
+- Dutch Kickboxing
+- Focused largely on hands, legs, and knees
 ## Subtopics
 - [[Open Stance]]
 - [[Closed Stance]]
 - [[Defensive Options Drill]]
-- [[Elbows]]
 - [[Hit the Target]]
+- [[Knees]]
 
 ## Details
 

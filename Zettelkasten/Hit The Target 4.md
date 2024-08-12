@@ -4,7 +4,7 @@ $$
 Jab, Rear Upper, Liver shot with lead, Lowkick
 $$
 ---
-Topics ::  [[Kickboxing]] 
+Topics ::  [[Dutch Kickboxing]] 
 Reference ::
 Type :: #molecule
 Creator :: [[Tiago Beowulf]]

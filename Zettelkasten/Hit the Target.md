@@ -15,6 +15,6 @@
 
 
 Type :: #topic
-Links :: [[Kickboxing]] [[Dutch Kickboxing]]
+Links :: [[Dutch Kickboxing]] [[Dutch Kickboxing]] [[Combos]]
 Creator :: [[Tiago Beowulf]]
 Date ::  2024-07-27 12:04

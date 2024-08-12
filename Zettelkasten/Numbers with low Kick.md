@@ -29,7 +29,7 @@ $$
 9 = Lead Upper, Cross, Lead hook, Rear Low Roundhouse
 $$
 ---
-Topics ::  [[Kickboxing]] [[Dutch Kickboxing]]
+Topics ::  [[Dutch Kickboxing]] [[Dutch Kickboxing]]
 Reference ::
 Type :: #molecule
 Creator ::

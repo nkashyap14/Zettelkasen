@@ -20,6 +20,6 @@
 
 
 Type :: #topic
-Links :: [[Kickboxing]] [[Martial Arts]] 
+Links :: [[Dutch Kickboxing]] [[Martial Arts]] 
 Creator ::
 Date ::  2024-06-23 06:50

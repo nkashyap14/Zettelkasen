@@ -5,7 +5,7 @@ Jab, Push Chest, Overhand with rear Hand
 $$
 
 ---
-Topics ::  [[Kickboxing]] 
+Topics ::  [[Dutch Kickboxing]] 
 Reference ::
 Type :: #molecule
 Creator ::

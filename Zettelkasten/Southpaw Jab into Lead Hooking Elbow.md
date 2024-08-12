@@ -4,7 +4,7 @@
 - From there put your shoulder and body weight forward into a [[Southpaw Lead Hooking Elbow]]
 - You can also from there send a [[rear southpaw body upper]] to incorporate [[level changes]]
 ---
-Topics ::  [[Kickboxing]] 
+Topics ::  [[Dutch Kickboxing]] 
 Reference ::
 Type :: #molecule
 Creator ::

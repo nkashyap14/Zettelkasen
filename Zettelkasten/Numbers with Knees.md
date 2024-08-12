@@ -28,7 +28,7 @@ $$
 9 = Lead Upper, Cross, Lead hook, Rear Knee
 $$
 ---
-Topics ::  [[Kickboxing]] [[Knees]]
+Topics ::  [[Dutch Kickboxing]] [[Knees]]
 Reference ::
 Type :: #molecule
 Creator ::

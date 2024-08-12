@@ -1,7 +1,7 @@
 # Teep into roundhouse
 
 ---
-Topics ::  [[Kickboxing]] 
+Topics ::  [[Dutch Kickboxing]] 
 Reference ::
 Type :: #molecule
 Creator ::

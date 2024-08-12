@@ -6,6 +6,9 @@
 - The shoulder should rise up and connect to the chin and protect it
 - Don't over rotate beyond the point that the shoulder meets the chin
 - Other hand still connects to the side of the head and protects from [[|hooks]]
+	- Hand is glued to the forehead
+	- This allows for the other elbow to end up in the armpit crevasse
+- Meant to slash across the opponents forehead / temple and open up a gash
 - [[Hooking Elbow Techniques]]
 - [[Southpaw Lead Hooking Elbow]]
 - [[Southpaw Rear Hooking Elbow]]

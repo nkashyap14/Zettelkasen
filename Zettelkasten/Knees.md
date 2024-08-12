@@ -12,6 +12,7 @@
 - [[Rear Hooking Knee]]
 ## Details
 
+- When you send a knee your heel wants to point away from you
 ## Conclusion
 
 

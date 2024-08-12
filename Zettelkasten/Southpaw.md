@@ -4,7 +4,7 @@
 - Southpaw fighters tend to face [[orthodox]] fighters which tends to find them in the common fight scenario of a [[Mirror Matchup]]
 
 ---
-Links :: [[Kickboxing]] [[Martial Arts]] [[Mirror Matchup]]
+Links :: [[Dutch Kickboxing]] [[Martial Arts]] [[Mirror Matchup]]
 Reference ::
 Type :: #atom
 Creator ::
