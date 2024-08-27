@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Dynamic Random Access Memory (DRAM).md",
+                "file": "Zettelkasten/Yield.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86599d10a9686a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/How Hardware or Software Component Affects performance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Dynamic Random Access Memory (DRAM).md",
+                "file": "Zettelkasten/How Hardware or Software Component Affects performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Dynamic Random Access Memory (DRAM).md",
+                "file": "Zettelkasten/How Hardware or Software Component Affects performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Dynamic Random Access Memory (DRAM).md"
+                "file": "Zettelkasten/How Hardware or Software Component Affects performance.md"
               }
             }
           }
@@ -145,34 +158,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78ea8f587053ffc3",
+  "active": "86599d10a9686a98",
   "lastOpenFiles": [
-    "Zettelkasten/Under the Covers 1.4.md",
-    "Zettelkasten/Dynamic Random Access Memory (DRAM).md",
-    "Zettelkasten/control.md",
-    "Zettelkasten/Instruction.md",
-    "Zettelkasten/memory.md",
-    "Zettelkasten/datapath.md",
-    "Zettelkasten/Integrated Circuit.md",
-    "Zettelkasten/CPU.md",
-    "Zettelkasten/Pixel.md",
-    "Zettelkasten/Five Classic Components of a Computer.md",
+    "Zettelkasten/Performance (1.6).md",
+    "Zettelkasten/How Hardware or Software Component Affects performance.md",
+    "Zettelkasten/CPU Execution time for a program.md",
+    "Zettelkasten/Clock Cycles Per Instruction (CPI).md",
+    "Zettelkasten/clock rate.md",
+    "Zettelkasten/clock cycles.md",
+    "Zettelkasten/Clock Period.md",
+    "Zettelkasten/Performance Formula.md",
+    "Zettelkasten/bandwidth.md",
+    "Zettelkasten/Throughput.md",
+    "Zettelkasten/Response Time.md",
     "Zettelkasten/Computer Organization and Design MIPS Edition.md",
+    "Zettelkasten/Under the Covers 1.4.md",
+    "Zettelkasten/Yield.md",
+    "Zettelkasten/Cost of An Integrated Circuit.md",
+    "Zettelkasten/Dies Per Wafer.md",
+    "Zettelkasten/Cost Per Die.md",
+    "Zettelkasten/Technologies for Building Processors and Memories.md",
+    "Zettelkasten/Yield (Dies).md",
+    "Zettelkasten/silicon crystal ingot.md",
+    "Zettelkasten/wafer.md",
+    "Zettelkasten/silicon.md",
+    "Zettelkasten/semiconductor.md",
+    "Zettelkasten/Very Large-Scale Integrated Circuit (VLSI).md",
+    "Zettelkasten/Transistor.md",
     "Zettelkasten/Below your program.md",
-    "Zettelkasten/Assembly Language.md",
-    "Templates/Computer Organization and Design Section.md",
-    "Templates/Computer Organization and Design definition.md",
-    "Zettelkasten/Assembler.md",
-    "Templates/Atom.md",
-    "Zettelkasten/Computer Program.md",
-    "Zettelkasten/Operating System.md",
-    "Templates/Topic.md",
-    "Zettelkasten/Seven Great Ideas in Computer Architecture.md",
-    "Zettelkasten/Martial Arts.md",
-    "Zettelkasten/Rear teep into switch stance rear elbow.md",
-    "Zettelkasten/Hooking Elbow.md",
-    "Zettelkasten/Elbows.md",
-    "Zettelkasten/Muay Thai Combos.md",
     "Transport Layer (TCP",
     "TCP",
     "Files/1440px-Normal_Distribution_PDF.svg.png",
