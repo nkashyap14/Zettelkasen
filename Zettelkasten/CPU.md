@@ -1,5 +1,6 @@
 # CPU
 
+- Central Processing Unit
 - Most important one out of all [[Processors]] in a given computer 
 - Electronic circuitry executes instructions of a computer program like arithmetic, logical controlling, I/O operations
 - The active part of the computer which contains the [[Datapath]] and [[control]]
