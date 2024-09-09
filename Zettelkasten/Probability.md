@@ -33,7 +33,7 @@
 
 
 Type :: #topic
-Links :: [[Computer Science]] [[Statistics]]
+Links ::  [[Statistics]]
 References :: [[Probability Models and Axioms]]
 Creator ::
 Date ::  2024-04-02 10:26

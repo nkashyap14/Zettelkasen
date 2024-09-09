@@ -10,7 +10,7 @@
 	$$ \binom{n}{k}*k! = \frac{n!} {(n-k)!} = (n)! * (n - 1)! * ... * (n - k + 1)!$$
 $$\binom{n}{k} = \frac{n!}{k!*(n - k)!}$$
 ---
-Links :: [[Computer Science]] [[Probability]]
+Links ::  [[Probability]]
 Reference :: [[Counting Lecture]]
 Type :: #atom
 Creator ::

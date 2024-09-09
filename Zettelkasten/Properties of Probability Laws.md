@@ -7,7 +7,7 @@ $$
 P(A \cup B \cup C) = P(A) + P(A^c \cap B) + P(A^c \cap B^c \cap C) 
 $$
 ---
-Links :: [[Computer Science]] [[Probability]]
+Links ::  [[Probability]]
 Reference :: [[Introduction To Probability 2nd Edition]]
 Type :: #atom
 Creator ::

@@ -14,6 +14,7 @@
 	- [[Azure SQL Database]]
 		- Used for [[Tabular Data]]
 		- Good for data that doesn't change over time
+		- Requires us to define tables and work with [[SQL]]
 - Data Ingestion Pipelines:
 	- [[Azure Synapse Analytics]]
 		- Can use the data integration feature 

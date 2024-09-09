@@ -11,15 +11,24 @@
             "id": "1e271267577807dd",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "efa465914135d93c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Design a machine learning operations solution.md",
+                "file": "Zettelkasten/Data Modeling with scikit-learn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Design a machine learning operations solution.md",
+                "file": "Zettelkasten/Data Modeling with scikit-learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Design a machine learning operations solution.md",
+                "file": "Zettelkasten/Data Modeling with scikit-learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Design a machine learning operations solution.md"
+                "file": "Zettelkasten/Data Modeling with scikit-learn.md"
               }
             }
           }
@@ -145,34 +154,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e271267577807dd",
+  "active": "efa465914135d93c",
   "lastOpenFiles": [
-    "Zettelkasten/Design a model deployment solution.md",
-    "Zettelkasten/Design a machine learning operations solution.md",
-    "Zettelkasten/Data drift.md",
-    "Zettelkasten/Endpoint.md",
-    "Zettelkasten/DP-100.md",
-    "Zettelkasten/Design a machine learning model training solution.md",
-    "Zettelkasten/Memory Optimized SKU.md",
-    "Zettelkasten/GPU.md",
-    "Zettelkasten/REST.md",
-    "Zettelkasten/Multiple Requests Problem.md",
-    "Zettelkasten/Overfetching.md",
-    "Zettelkasten/Underfetching.md",
-    "Zettelkasten/Euler's number.md",
-    "Zettelkasten/Spark Clusters.md",
-    "Zettelkasten/memory.md",
-    "Zettelkasten/General Purpose SKU.md",
-    "Zettelkasten/CPU.md",
-    "Zettelkasten/Machine Learning Task.md",
-    "Zettelkasten/Design a Data Ingestion Strategy for Machine Learning Projects.md",
-    "Zettelkasten/JSON.md",
-    "Zettelkasten/Data Ingestion Pipeline.md",
-    "Templates/DP-100 Module.md",
-    "Zettelkasten/Unstructured Data.md",
-    "Zettelkasten/Semi-Structured Data.md",
-    "Zettelkasten/Tabular Data.md",
-    "README.md",
+    "Zettelkasten/Bayesian Regression.md",
+    "Zettelkasten/BayesianRegression sklearn.md",
+    "Zettelkasten/RidgeRegression sklearn.md",
+    "Zettelkasten/Ridge Regression.md",
+    "Zettelkasten/Data Modeling with scikit-learn.md",
+    "Zettelkasten/Cumulative Distribution Function.md",
+    "Zettelkasten/regularization.md",
+    "Zettelkasten/linear regression.md",
+    "Zettelkasten/L1 Regularization (Lasso).md",
+    "Zettelkasten/LassoRegularization sklearn.md",
+    "Zettelkasten/LinearRegression Sklearn.md",
+    "Zettelkasten/L2 Regularization (Ridge).md",
+    "Zettelkasten/Attention Function.md",
+    "Zettelkasten/Multi-Head Attention.md",
+    "Zettelkasten/Scaled-Dot Product Attention.md",
+    "Zettelkasten/Docker.md",
+    "Zettelkasten/container runtime.md",
+    "Zettelkasten/packaging format.md",
+    "Zettelkasten/least squares regression.md",
+    "Zettelkasten/RSS.md",
+    "Zettelkasten/residuals.md",
+    "Zettelkasten/Data Modeling.md",
+    "Zettelkasten/Independence.md",
+    "Zettelkasten/Marginal Probability.md",
+    "Zettelkasten/Joint PMF.md",
+    "Zettelkasten/Untitled 4.md",
     "Transport Layer (TCP",
     "TCP",
     "Files/1440px-Normal_Distribution_PDF.svg.png",

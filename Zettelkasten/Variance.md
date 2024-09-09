@@ -16,7 +16,7 @@ $$ var(X) >= 0 $$
 $$ var(\alpha*X + \beta) = \alpha^2var(X)$$
 - Variance is expressed in squared units. If you want to express the spread of the distribution in the same units as the [[Random Variable]] than you must take the square root which is the [[standard deviation]]
 ---
-Links :: [[Computer Science]] [[Probability]] [[Statistics]]  [[Expectation]]
+Links ::  [[Probability]] [[Statistics]]  [[Expectation]]
 Reference :: [[Discrete Random Variables Lecture]] 
 Type :: #atom
 Creator ::

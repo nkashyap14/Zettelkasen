@@ -4,7 +4,7 @@
 ---
 Links :: [[DP-100]] [[Computer Science]] [[Cloud]]
 Reference ::  [[Azure]]
-Type :: #atom
+Type :: #definition
 Creator ::
 TAF ::
 Discussion ::
