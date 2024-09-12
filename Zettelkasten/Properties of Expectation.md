@@ -42,7 +42,7 @@ $$
 E[g(X)h(Y)] = E[g(X)]*E[h(Y)]
 $$
 ---
-Links :: [[Computer Science]] [[Probability]] [[Expectation]]
+Links ::  [[Probability]] [[Expectation]]
 Reference :: [[Discrete Random Variables Lecture]]
 Type :: #atom
 Creator ::

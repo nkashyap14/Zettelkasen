@@ -27,8 +27,6 @@ $$
 $$
 \Gamma(k,\theta)
 $$
-
--  [[RidgeRegression sklearn]]
 - [[BayesianRegression sklearn]]
 ---
 Links ::  [[Computer Science]] [[Regression]] [[Bayes' Rule]]

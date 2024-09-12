@@ -16,19 +16,103 @@
             }
           },
           {
-            "id": "efa465914135d93c",
+            "id": "ecd30422411c6c59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Data Modeling with scikit-learn.md",
+                "file": "Zettelkasten/Transaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f919fb83b5cf3aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Cosine Similarity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c8ef5c88dfd96be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Designing Data Intensive Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7483f8221741efeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/OSI Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c2490e2fcb207e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02c3d3fb938d8285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer Organization and Design MIPS Edition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "888529f97d117463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/CPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f846572add8553a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Data Modeling with scikit-learn.md",
+                "file": "Zettelkasten/Cosine Similarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Data Modeling with scikit-learn.md",
+                "file": "Zettelkasten/Cosine Similarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Data Modeling with scikit-learn.md"
+                "file": "Zettelkasten/Cosine Similarity.md"
               }
             }
           }
@@ -154,34 +238,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efa465914135d93c",
+  "active": "f919fb83b5cf3aaa",
   "lastOpenFiles": [
-    "Zettelkasten/Bayesian Regression.md",
-    "Zettelkasten/BayesianRegression sklearn.md",
-    "Zettelkasten/RidgeRegression sklearn.md",
-    "Zettelkasten/Ridge Regression.md",
+    "Zettelkasten/Clustering with scikit-learn.md",
+    "Zettelkasten/Cosine Similarity.md",
+    "Zettelkasten/Cosine Similarity sklearn.md",
     "Zettelkasten/Data Modeling with scikit-learn.md",
-    "Zettelkasten/Cumulative Distribution Function.md",
-    "Zettelkasten/regularization.md",
-    "Zettelkasten/linear regression.md",
-    "Zettelkasten/L1 Regularization (Lasso).md",
-    "Zettelkasten/LassoRegularization sklearn.md",
-    "Zettelkasten/LinearRegression Sklearn.md",
-    "Zettelkasten/L2 Regularization (Ridge).md",
-    "Zettelkasten/Attention Function.md",
-    "Zettelkasten/Multi-Head Attention.md",
-    "Zettelkasten/Scaled-Dot Product Attention.md",
-    "Zettelkasten/Docker.md",
-    "Zettelkasten/container runtime.md",
-    "Zettelkasten/packaging format.md",
-    "Zettelkasten/least squares regression.md",
-    "Zettelkasten/RSS.md",
-    "Zettelkasten/residuals.md",
-    "Zettelkasten/Data Modeling.md",
-    "Zettelkasten/Independence.md",
-    "Zettelkasten/Marginal Probability.md",
-    "Zettelkasten/Joint PMF.md",
-    "Zettelkasten/Untitled 4.md",
+    "Zettelkasten/Grid-Search Cross Validation.md",
+    "Zettelkasten/cross validation.md",
+    "Zettelkasten/Evaluating Models.md",
+    "Zettelkasten/Transaction.md",
+    "Zettelkasten/Untitled 5.md",
+    "Zettelkasten/Replication.md",
+    "Zettelkasten/Detecting Concurrent Writes.md",
+    "Zettelkasten/Read-scaling Architecture.md",
+    "Zettelkasten/Replication Lag.md",
+    "Zettelkasten/Solutions for Replication lag.md",
+    "Zettelkasten/Problems with Replication Lag.md",
+    "Zettelkasten/Eventual Consistency.md",
+    "Zettelkasten/strong consistency.md",
+    "Zettelkasten/read-after-write consistency.md",
+    "Zettelkasten/Single-Leader.md",
+    "Zettelkasten/Synchronous Replication.md",
+    "Zettelkasten/Asynchronous replication.md",
+    "Zettelkasten/Replication Algorithm's.md",
+    "Zettelkasten/Leaderless.md",
+    "Zettelkasten/Sloppy Quorum.md",
+    "Zettelkasten/Leaderless Quorums.md",
+    "Zettelkasten/Comparison of Single-Leader vs Multi-Leader.md",
     "Transport Layer (TCP",
     "TCP",
     "Files/1440px-Normal_Distribution_PDF.svg.png",

@@ -11,9 +11,9 @@
 		- ie calendar apps on phones where you need to be able to see meetings scheduled regardless of network connection
 		- In this case each client has a local db that acts as a leader (accepts write requests) and there is asynchronous multi-leader replication process between replicas on the calendars on all devices
 - Issue:
-	- Write conflict of simulteaneous editing
-		- If you change the propagation of writes to be syncrhonous could alleviate write conflicts however it would reduce pro of having multiple write nodes
-		- Best way to resolve is to prevent it from happneing. Ensure all writes for a particular record go through the same leader
+	- Write conflict of simultaneous editing
+		- If you change the propagation of writes to be synchronous could alleviate write conflicts however it would reduce pro of having multiple write nodes
+		- Best way to resolve is to prevent it from happening. Ensure all writes for a particular record go through the same leader
 - [[Replication Topology]]
 ---
 Links :: [[Computer Science]] [[Algorithm]] [[Replication Algorithm's]] [[Replication]] [[System Design]]

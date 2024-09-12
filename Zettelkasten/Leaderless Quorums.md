@@ -6,7 +6,7 @@ w + r > n = Live Data
 $$
 - Allows system to tolerate unavailable nodes as follows:
 	- w < n = can still process writes if a node is unavailable
-	- r < n = can still process writes if a node is unavailable
+	- r < n = can still process reads if a node is unavailable
 	- n = 3, w = 2, r = 2 = 1 unavilable node
 	- n = 5, w = 3, r = 3 means 2 unavailable nodes tolerable
 - Normally n replicas are sent reads + writes in parallel

@@ -4,7 +4,7 @@ $$
 P_{X,Y}(x,y)=P(X =x,Y=y)
 $$
 ---
-Links :: [[Computer Science]] [[Probability]] [[Joint PMF]]
+Links ::  [[Probability]] [[Joint PMF]]
 Reference :: [[Discrete Random Variables III Lecture]]
 Type :: #atom
 Creator ::

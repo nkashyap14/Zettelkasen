@@ -7,7 +7,7 @@ $$
 (\cap_nS_n)^c = \cup_nS_n^c
 $$
 ---
-Links :: [[Computer Science]] [[Set|Set Theory]] [[Set Algebra]]
+Links :: [[[[Set|Set Theory]] [[Set Algebra]]
 Reference :: [[Introduction To Probability 2nd Edition]]
 Type :: #atom
 Creator ::

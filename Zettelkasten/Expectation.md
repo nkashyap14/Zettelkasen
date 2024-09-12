@@ -13,7 +13,7 @@ $$
 - [[Properties of Expectation]]
 - [[Conditional Expectation]]
 ---
-Links :: [[Computer Science]] [[Probability]]
+Links ::  [[Probability]]
 Reference :: [[Discrete Random Variables Lecture]]
 Type :: #atom
 Creator ::

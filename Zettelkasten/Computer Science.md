@@ -13,6 +13,6 @@
 
 
 Type :: #topic
-Links :: [[Statistics]] [[Probability]]
+Links :: 
 Creator ::
 Date ::  2024-03-28 06:12

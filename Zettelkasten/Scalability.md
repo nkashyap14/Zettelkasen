@@ -1,6 +1,6 @@
 # Scalability
 
-- Capability of a [[Distributed System]] or a [[network]] to handle growing amounts of work or the potential to be enlarged to accomodate that growth
+- Capability of a [[Distributed System]] or a [[network]] to handle growing amounts of work or the potential to be enlarged to accommodate that growth
 - [[Vertical scaling]] : Scaling the system by adding more resources
 - [[Horizontal Scaling]] : Scaling the system by adding more nodes or [[server]]s to the system
 ---

@@ -7,7 +7,7 @@
 	- Probability Law
 		- assigns to a [[Set]] A of possible outcomes (also called event), a non negative number P(A) called the probability that encodes our knowledge our belief about the collective likelihood of the elements of A
 ---
-Links :: [[Computer Science]] [[Probability]]
+Links ::  [[Probability]]
 Reference :: [[Introduction To Probability 2nd Edition]]
 Type :: #atom
 Creator ::

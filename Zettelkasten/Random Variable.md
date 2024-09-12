@@ -5,7 +5,7 @@
 - Can have multiple random variables defined on the same sample space
 - In mathematical terms a random variable is a real-valued function of the experimental outcome
 ---
-Links :: [[Computer Science]] [[Probability]] [[Probability Mass Function]] [[Discrete Random Variable]]
+Links ::  [[Probability]] [[Probability Mass Function]] [[Discrete Random Variable]]
 Reference :: [[Discrete Random Variables Lecture]]
 Type :: #atom
 Creator ::

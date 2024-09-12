@@ -12,7 +12,7 @@
 	- Destination IP
 	- Destination Port
 	- Transport layer protocol
-- Popular API technonlogies such as [[REST]], [[GraphQL]], and [[gRPC]] all at the most basic level use socket interfaces for [[process]] identification, connection establishment, and [[interprocess communication]]
+- Popular API technologies such as [[REST]], [[GraphQL]], and [[gRPC]] all at the most basic level use socket interfaces for [[process]] identification, connection establishment, and [[interprocess communication]]
 - Socket Types:
 	- [[Stream Socket]]s
 	- [[Datagram Socket]]s

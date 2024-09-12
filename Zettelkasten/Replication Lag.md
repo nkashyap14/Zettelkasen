@@ -1,4 +1,4 @@
-- Time delta in between a write happening on a [[Single-Leader|leader
+- Time delta in between a write happening on a [[Single-Leader|leader]]
 - Leads to issues with [[consistency]] of the data
 - [[Problems with Replication Lag]]
 - [[Solutions for Replication lag]]

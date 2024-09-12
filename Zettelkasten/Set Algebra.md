@@ -15,7 +15,7 @@ $$
 
 - [[De Morgan's Law]]
 ---
-Links :: [[Computer Science]] [[Set|Set Theory]] [[Probability]]
+Links :: [[Set|Set Theory]] [[Probability]]
 Reference :: [[Introduction To Probability 2nd Edition]]
 Type :: #atom
 Creator ::

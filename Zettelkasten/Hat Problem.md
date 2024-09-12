@@ -35,7 +35,7 @@ $$
 E[X^2] = n *1/n  + ((1/n)(1/n-1)(n^2 - n)) = 2
 $$
 ---
-Links :: [[Computer Science]] [[Expectation]] [[Properties of Expectation]]
+Links ::]] [[Expectation]] [[Properties of Expectation]]
 Reference :: [[Discrete Random Variables III Lecture]]
 Type :: #atom
 Creator ::

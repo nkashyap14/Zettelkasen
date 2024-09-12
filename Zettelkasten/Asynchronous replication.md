@@ -1,6 +1,6 @@
 # Asynchronous replication
 
-- Leader sends the response to its followers however doesnt wait for a response from the followers to pass execution flow back to client
+- Leader sends the response to its followers however doesn't wait for a response from the followers to pass execution flow back to client
 
 ---
 Links :: [[Computer Science]] [[System Design]] [[Replication]] [[Single-Leader]]

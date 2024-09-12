@@ -14,17 +14,7 @@ print('Alpha: {}\n'.format(reg.alpha_))
 print('Lambda: {}\n'.format(reg.lambda_))
 ```
 
-- Can optimally choose alpha value by using cross-validation with the RidgeCV object
 
-```
-from sklearn import linear_model
-alphas = [0.1, 0.2, 0.3]
-reg = linear_model.RidgeCV(alphas=alphas)
-reg.fit(data_features, data_labels)
-print('Coefficients: {}\n'.format(repr(reg.coef_)))
-print('Intercept: {}\n'.format(reg.intercept_))
-print('Chosen alpha: {}\n'.format(reg.alpha_))
-```
 ---
 Links :: [[#Example Code]] [[Machine Learning]] [[scikit-learn]] [[Computer Science]]
 Reference ::

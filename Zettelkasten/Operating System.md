@@ -7,7 +7,7 @@
 	- [[Linux]]
 	- [[macOS]]
 - Provides a user with the tools to interact with computer hardware
-	- Utilizes computers resources to maintain its features and as a result there are fewer computation resources for applicatinos
+	- Utilizes computers resources to maintain its features and as a result there are fewer computation resources for applications
 - When an operating system loads a [[Computer Program]]'s instructions and its data into the [[RAM]] it allocates the [[CPU]] time slots for that
 	- From that point on the program is a computing process or [[process]]
 ---

@@ -10,7 +10,7 @@
 	- [[TCP]]
 	- [[UDP]]
 ---
-Links :: [[Computer Science]] [[System Design]]
+Links :: [[Computer Science]] [[System Design]] [[OSI Model]]
 Reference ::
 Type :: #atom
 Creator ::

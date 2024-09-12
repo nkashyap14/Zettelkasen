@@ -21,7 +21,7 @@ Var(X)= n*p(1-p)
 $$
 - Above holds due to [[Properties of Expectation]] where the variance of the sum of independent random variables is the sum of the variances
 ---
-Links :: [[Computer Science]] [[Probability]] [[binomial probability]]
+Links ::  [[Probability]] [[binomial probability]]
 Reference :: [[Discrete Random Variables III Lecture]]]
 Type :: #atom
 Creator ::

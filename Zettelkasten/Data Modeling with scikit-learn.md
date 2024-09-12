@@ -8,13 +8,20 @@
 
 - [[linear regression]]
 - [[Ridge Regression]]
+- [[L1 Regularization (Lasso)]]
 - [[Bayesian Regression]]
+- [[Logistic Regression]]
+- [[Decision Tree's]]
+- [[train_test_split]]
+- [[cross validation]]
+- [[Evaluating Models]]
+- [[Grid-Search Cross Validation]]
 ## Details
 
 ## Terms Defined
 
 
 Type :: #topic
-Links :: [[Computer Science]] [[Machine Learning]]
+Links :: [[Computer Science]] [[Machine Learning]] [[sklearn]]
 Reference :: [[Educative]]
 Date ::  2024-09-08 17:07

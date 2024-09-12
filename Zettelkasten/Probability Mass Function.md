@@ -22,7 +22,7 @@ $$
 - p is the probability of getting a head on any single toss.
 - This is an example of a [[geometric pmf]]
 ---
-Links :: [[Computer Science]]
+Links :: 
 Reference :: [[Discrete Random Variables Lecture]]
 Type :: #atom
 Creator ::

@@ -31,7 +31,7 @@ $$
 - above represents set of real numbers and secondn  is the set of pairs of scalars aka two dimensional plane
 - [[Set Algebra]]
 ---
-Links :: [[Computer Science]] [[Probability]]
+Links ::  [[Probability]]
 Reference :: [[Introduction To Probability 2nd Edition]]
 Type :: #atom
 Creator ::
