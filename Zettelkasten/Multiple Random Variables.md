@@ -11,7 +11,7 @@ $$
 
 - Or intuitively Random Variables are independent if having information about one of the variables does not change our beliefs about the likelihoods of various values for the remaining random variables
 ---
-Links :: [[Computer Science]] [[Random Variable]]
+Links :: [[Random Variable]]
 Reference :: [[Discrete Random Variables III Lecture]]
 Type :: #atom
 Creator ::

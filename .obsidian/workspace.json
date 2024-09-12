@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e271267577807dd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ecd30422411c6c59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Transaction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f919fb83b5cf3aaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Cosine Similarity.md",
+                "file": "Zettelkasten/Clustering with scikit-learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Cosine Similarity.md",
+                "file": "Zettelkasten/Clustering with scikit-learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Cosine Similarity.md",
+                "file": "Zettelkasten/Clustering with scikit-learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Cosine Similarity.md"
+                "file": "Zettelkasten/Clustering with scikit-learn.md"
               }
             }
           }
@@ -240,32 +219,32 @@
   },
   "active": "f919fb83b5cf3aaa",
   "lastOpenFiles": [
+    "Zettelkasten/Evaluating Clustering Models.md",
     "Zettelkasten/Clustering with scikit-learn.md",
-    "Zettelkasten/Cosine Similarity.md",
-    "Zettelkasten/Cosine Similarity sklearn.md",
-    "Zettelkasten/Data Modeling with scikit-learn.md",
-    "Zettelkasten/Grid-Search Cross Validation.md",
-    "Zettelkasten/cross validation.md",
-    "Zettelkasten/Evaluating Models.md",
+    "Zettelkasten/Hierarchical Clustering.md",
+    "Zettelkasten/Top-Down (Agglomerative) Clustering.md",
+    "Zettelkasten/FeatureAgglomeration sklearn.md",
+    "Zettelkasten/Adjusted Rand Index.md",
+    "Zettelkasten/Adjusted Rand Index sklearn.md",
+    "Zettelkasten/DBSCAN.md",
+    "Zettelkasten/DBSCAN sklearn.md",
+    "Zettelkasten/core samples.md",
+    "Zettelkasten/Mean Shift Clustering.md",
+    "Zettelkasten/Mean Shift Clustering sklearn.md",
+    "Templates/Molecule.md",
+    "Zettelkasten/processes.md",
+    "Zettelkasten/control.md",
+    "Zettelkasten/Permutations.md",
+    "Zettelkasten/Sequential Model.md",
+    "Zettelkasten/Counting.md",
+    "Zettelkasten/Multiple Random Variables.md",
+    "Zettelkasten/Reliability (Probability).md",
+    "Zettelkasten/Marginal Probability.md",
+    "Zettelkasten/Checks.md",
     "Zettelkasten/Transaction.md",
-    "Zettelkasten/Untitled 5.md",
-    "Zettelkasten/Replication.md",
-    "Zettelkasten/Detecting Concurrent Writes.md",
-    "Zettelkasten/Read-scaling Architecture.md",
-    "Zettelkasten/Replication Lag.md",
-    "Zettelkasten/Solutions for Replication lag.md",
-    "Zettelkasten/Problems with Replication Lag.md",
-    "Zettelkasten/Eventual Consistency.md",
-    "Zettelkasten/strong consistency.md",
-    "Zettelkasten/read-after-write consistency.md",
-    "Zettelkasten/Single-Leader.md",
-    "Zettelkasten/Synchronous Replication.md",
-    "Zettelkasten/Asynchronous replication.md",
-    "Zettelkasten/Replication Algorithm's.md",
-    "Zettelkasten/Leaderless.md",
-    "Zettelkasten/Sloppy Quorum.md",
-    "Zettelkasten/Leaderless Quorums.md",
-    "Zettelkasten/Comparison of Single-Leader vs Multi-Leader.md",
+    "Zettelkasten/K-Means Clustering.md",
+    "Zettelkasten/Top-Down (Agglomerative) Clustering sklearn.md",
+    "Zettelkasten/Bottom-up (Divisive) Clustering.md",
     "Transport Layer (TCP",
     "TCP",
     "Files/1440px-Normal_Distribution_PDF.svg.png",

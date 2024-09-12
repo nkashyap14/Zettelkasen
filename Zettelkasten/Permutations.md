@@ -3,7 +3,7 @@
 - Any possible ordering of a sequence is known as a singular permutation
 - 
 ---
-Links :: [[Computer Science]] [[Probability]]
+Links :: [[Probability]]
 Reference :: [[Counting Lecture]]
 Type :: #atom
 Creator ::

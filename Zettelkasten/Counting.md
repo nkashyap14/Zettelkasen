@@ -13,6 +13,6 @@
 
 
 Type :: #topic
-Links :: [[Computer Science]] [[Probability]]
+Links :: [[Probability]]
 Creator ::
 Date ::  2024-04-22 16:39

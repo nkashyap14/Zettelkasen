@@ -19,7 +19,7 @@
 		where p_i = probability-component-i-fails
 		$$
 ---
-Links :: [[Computer Science]] [[Probability]]
+Links :: [[Probability]]
 Reference :: [[Introduction To Probability 2nd Edition]]
 Type :: #atom
 Creator ::

@@ -5,6 +5,7 @@
 ## Submodules:
 
 - [[Data Modeling with scikit-learn]]
+- [[Clustering with scikit-learn]]
 
 
 Type :: #SkillPath

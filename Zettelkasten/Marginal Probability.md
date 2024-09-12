@@ -5,7 +5,7 @@ P_X(x) = P(X = x)
 $$
 
 ---
-Links :: [[Computer Science]] [[Probability]]
+Links ::  [[Probability]]
 Reference :: [[Discrete Random Variables III Lecture]]
 Type :: #atom
 Creator ::
