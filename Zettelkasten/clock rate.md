@@ -3,7 +3,11 @@
 ## Definition:
 
 - Inverse of [[clock period]]
-- Refers to the amount of cpu cycles over one unit of execution
+- Refers to the amount of [[cpu]] cycles over one unit of execution
+	- 4 ghz
+$$
+Clock Rate = \frac{Clock Cycles}{Second}
+$$
 ---
 Links :: [[Computer Science]]
 Reference ::  [[Computer Organization and Design MIPS Edition]]

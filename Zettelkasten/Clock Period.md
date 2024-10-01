@@ -3,8 +3,11 @@
 ## Definition:
 
 - Length of one complete clock cycle
-- Can also be referred to as the clock rate which is the inverse of the clock period
-	- 4 gigahertz
+- Can also be referred to as the [[clock rate]] which is the inverse of the clock period
+$$
+ClockPeriod = \frac{Seconds}{ClockCycle}
+$$
+
 ---
 Links :: [[Computer Science]]
 Reference ::  [[Computer Organization and Design MIPS Edition]]

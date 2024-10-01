@@ -4,7 +4,7 @@
 
 - Is allowed to create, change, and manage access to the compute resources within an [[Azure Machine Learning workspace resource]]
 ---
-Links :: [[DP-100]] [[Computer Science]] [[Cloud]]
+Links :: [[DP-100]] [[Computer Science]] [[Cloud]][[RBAC]]
 Reference ::  [[Azure]]
 Type :: #definition
 Creator ::

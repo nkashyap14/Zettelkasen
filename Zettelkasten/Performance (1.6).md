@@ -22,6 +22,8 @@
 - [[Performance Formula]]
 - [[Clock Period]]
 - [[Clock Cycles Per Instruction (CPI)]]
+- [[Basic Performance Equation]]
+- [[Understanding Program Performance]]
 
 
 Type :: #topic

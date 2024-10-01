@@ -4,7 +4,7 @@
 
 - Can perform all actions within the workspace except for creating or deleting compute resources or editing workspace settings
 ---
-Links :: [[DP-100]] [[Computer Science]] [[Cloud]]
+Links :: [[DP-100]] [[Computer Science]] [[Cloud]] [[RBAC]]
 Reference ::  [[Azure]]
 Type :: #definition
 Creator ::

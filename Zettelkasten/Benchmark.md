@@ -1,8 +1,8 @@
-# silicon crystal ingot
+# Benchmark
 
 ## Definition:
 
-- A rod composed of silicon crystal that is between 8 and 12 inches in diameter and about 12 to 24 inches long
+- A [[Computer Program]] selected for user in comparing computer performance
 ---
 Links :: [[Computer Science]]
 Reference ::  [[Computer Organization and Design MIPS Edition]]
@@ -12,4 +12,4 @@ TAF ::
 Discussion ::
 Dis_Topic :: 
 Resolved ::
-Date :: 2024-08-27 12:45
+Date :: 2024-09-18 09:37

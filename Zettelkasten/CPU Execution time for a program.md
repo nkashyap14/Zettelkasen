@@ -3,9 +3,9 @@
 ## Definition:
 
 $$
-CPU Execution Time=CPU Clock Cycles for a program * Clock Cycle Time
+CPU Execution Time=CPU Clock Cycles for a program * Clock Period
 $$
-- Or because [[clock rate]] and clock cycle time are inverses
+- Or because [[clock rate]] and clock period are inverses
 
 $$
 CPU Exec Time = \frac{CPU Clock Cycles}{Clock Rate}
