@@ -11,11 +11,40 @@
             "id": "be75370952ad5165",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Track model training in Jupyter Notebooks with MLFlow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d886790496e219fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Setting up MLFlow (Code).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "710591b2b2a6ff7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Buy and Sell Crypto.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Buy and Sell Crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Buy and Sell Crypto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Buy and Sell Crypto.md"
+              }
             }
           }
         ]
@@ -137,36 +170,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be75370952ad5165",
+  "active": "710591b2b2a6ff7d",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled 4.md",
-    "Zettelkasten/Untitled 5.md",
-    "Zettelkasten/Untitled 2.md",
-    "Zettelkasten/Work with environments in Azure Machine Learning.md",
-    "Zettelkasten/Untitled 1.canvas",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/Untitled.canvas",
-    "Zettelkasten/Custom Environments (Azure Machine Learning).md",
-    "Zettelkasten/Using a Custom Environment (Python SDK).md",
-    "Zettelkasten/Conda Specification file (Azure Custom Environments).md",
-    "Zettelkasten/Create a custom environment from a Docker image.md",
-    "Zettelkasten/Curated Environments (Azure Machine Learning).md",
-    "Zettelkasten/Environment (Azure Machine Learning).md",
-    "Zettelkasten/Using a Curated Environment (Python SDK).md",
-    "Zettelkasten/DP-100.md",
-    "Zettelkasten/Create and use a compute cluster.md",
-    "Zettelkasten/Work with compute targets in Azure Machine Learning.md",
-    "Zettelkasten/Create and use a compute instance.md",
-    "Zettelkasten/Compute Targets.md",
+    "Zettelkasten/Neetcode 150.md",
+    "Zettelkasten/Buy and Sell Crypto.md",
+    "Zettelkasten/Max Water Container.md",
+    "Zettelkasten/Threesum.md",
+    "Zettelkasten/Two Integer Sum II.md",
+    "Zettelkasten/Products of Array Discluding Self.md",
+    "Zettelkasten/Duplicate Integer.md",
+    "Zettelkasten/Top K Elements in List.md",
+    "Zettelkasten/Anagram Groups.md",
+    "Zettelkasten/Python ord function.md",
+    "Zettelkasten/Is Anagram.md",
+    "Zettelkasten/Two Sum.md",
+    "Zettelkasten/hashmap.md",
+    "Templates/Neetcode Problem.md",
+    "Zettelkasten/Set.md",
     "Zettelkasten/Python.md",
-    "Zettelkasten/CPU.md",
-    "Zettelkasten/Computer Organization and Design MIPS Edition.md",
-    "Zettelkasten/API.md",
-    "Zettelkasten/OSI Model.md",
-    "Zettelkasten/Designing Data Intensive Applications.md",
-    "Zettelkasten/Creating Datastore (AZURE CODE).md",
-    "Zettelkasten/Fallacies and Pitfalls (1.11).md",
-    "Zettelkasten/Amdahl's Law.md",
+    "Zettelkasten/Python lambda's.md",
+    "Zettelkasten/Training and Tracking models in Notebooks (Code).md",
+    "Templates/Code.md",
+    "Zettelkasten/Setting up MLFlow (Code).md",
+    "Zettelkasten/Track model training in Jupyter Notebooks with MLFlow.md",
+    "Zettelkasten/MLFlow tracking.md",
+    "Zettelkasten/MLflow.md",
+    "Zettelkasten/DP-100.md",
+    "Zettelkasten/Find the best classification model with Automated Machine Learning.md",
+    "Zettelkasten/Set the Limits + Specify Primary Metric (AUTOML Code).md",
+    "Zettelkasten/Untitled 1.canvas",
+    "Zettelkasten/Untitled.canvas",
     "Transport Layer (TCP",
     "TCP",
     "Files/1440px-Normal_Distribution_PDF.svg.png",
