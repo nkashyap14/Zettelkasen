@@ -12,8 +12,10 @@
 - [[GraphQL]]
 - [[Graph Database]]
 - [[Triple-Store]]
+- [[Document Database]]
 ## Details
 
+- Many to many relationships are a distinguishing feature between data models
 ## Conclusion
 
 

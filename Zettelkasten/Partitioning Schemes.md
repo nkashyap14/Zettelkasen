@@ -7,6 +7,7 @@
 - [[Range Based Partitioning]]
 	- [[Partitions|Partition]] by ranges of keys
 		- Issue is ranges may not be evenly distributed because underlying data is not evenly distributed
+		- Bad performance for range queries that use the partitioning keys when the queried range is big and resides on multiple nodes
 	- Certain access patterns can lead to [[hotspots]]
 - [[Hash Based Partitioning]]
 	- Many [[distributed data stores]] use [[hash functions]] to determine the partition for a given key

@@ -3,7 +3,7 @@
 - A thread has 4 states:
 	- New State: 
 		- No CPU resources taken, not running yet
-		- Some [[Programming Language|programming languages]] require us to explicitly start a [[thread]] after creation
+		- Some [[Zettelkasten/Programming Language|programming languages]] require us to explicitly start a [[thread]] after creation
 	- Runnable state: 
 		- In a state ready for the os to schedule for execution. Through context switches can be scheduled on a [[processor]]
 	- Blocked:

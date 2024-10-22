@@ -42,6 +42,6 @@
 
 
 Type :: #topic
-Links :: [[Computer Science]] [[Programming Language]]
+Links :: [[Computer Science]] [[Zettelkasten/Programming Language]]
 Creator ::
 Date ::  2024-04-02 22:07

@@ -1,7 +1,7 @@
 # Max Water Container
 
 #### Problem statement
-You are given an integer array `heights` where `heights[i]` represents the height of the ithith bar.
+You are given an integer array `heights` where `heights[i]` represents the height of the ith bar.
 
 You may choose any two bars to form a container. Return the _maximum_ amount of water a container can store.
 
@@ -42,6 +42,7 @@ class Solution:
 #### Important Subdetails
 
 - Similar to two sum in the sense that we are moving the pointer that has the less optimal value
+- The reason we start at hte opposite ends and collapse is this is a maximization problem and one of the calculated values to maximize is (r - l) aka width, and the other thing to maximize is the minimum height which is why we try to keep the larger bar and move the other pointer to see if we can find a larger bar so the old large becomes the min
 #### Runtime of Optimal Solution
 
 - O(n) as there is only one loop iterating over the array of size N

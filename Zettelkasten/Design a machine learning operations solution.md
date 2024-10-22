@@ -12,7 +12,7 @@
 - Approaches for retraining:
 	- Based on schedule
 		- Can retrain every week or month when you know you always need the latest model
-	- Based on emtrics
+	- Based on metrics
 		- Monitor the model's performance and [[Data drift]] and retrain when necessary
 - Ideally train models with scripts rather than notebooks as they are more suited for automation
 	- Can be parameterized

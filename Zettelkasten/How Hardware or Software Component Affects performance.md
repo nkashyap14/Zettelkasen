@@ -6,7 +6,7 @@
 	- Affects [[Clock Cycles Per Instruction (CPI)]] and also total count of [[Instruction]]s
 	- Determines the number of source program instructions executed and hence the number of processor instructions executed
 	- Affects CPI as if it favors certain techniques it can raise the CPI as it requires more resources
-- [[Programming Language]]
+- [[Zettelkasten/Programming Language]]
 	- Affects instruction count and the [[Clock Cycles Per Instruction (CPI)]]
 	- Statements in language are translated to processor instructions which determine the count
 	- Languages like Java at higher levels will require more indirect calls and raise [[Clock Cycles Per Instruction (CPI)]]

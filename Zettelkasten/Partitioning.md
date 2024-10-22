@@ -1,5 +1,6 @@
 # Partitioning
 
+- Used to improve a systems [[Scalability]]
 - Main goal of partitioning is to spread the data load and the query load evenly across multiple machines allowing us to avoid hotspots 
 	- Leads to us needing to pick a [[Partitioning Schemes]] that is appropriate for our data and [[rebalancing]] the partitions as well from time to time as nodes are added or removed
 - Splitting a big database into smaller subsets called partitions
@@ -16,6 +17,8 @@
 	- Ends up that n -1 nodes are idle and only 1 node services all writes
 - [[Partitioning Schemes]]
 - [[Rebalancing Partitions]]
+- [[Vertical Partitioning]]
+- [[Horizontal Partitioning]]
 ---
 Links :: [[Computer Science]] [[System Design]] [[Partitions]]
 Reference :: [[Designing Data Intensive Applications]]

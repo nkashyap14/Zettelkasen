@@ -26,7 +26,7 @@ class Solution:
         for i, num in enumerate(nums):
             if num > 0:
                 break
-            if num == nums[i - 1]:
+            if i > 0 and num == nums[i - 1]:
                 continue
             l, r = i + 1, len(nums) - 1
             while l < r:
