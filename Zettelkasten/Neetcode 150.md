@@ -32,6 +32,7 @@
 - [[Kth Smallest Element in a BST]]
 - [[Eating Banana's]]
 - [[Subsets]]
+- [[Subsets II]]
 - [[Permutations  (Neetcode)]]
 - [[Construct Binary Tree From Preorder and Inorder Traversal]]
 - [[Car Fleet]]
@@ -49,6 +50,11 @@
 - [[Maximum Subarray]]
 - [[Course-Schedule]]
 - [[Time Based Key-Value Store]]
+- [[Add Two Numbers]]
+- [[Find Duplicate Integer]]
+- [[LRUCache]]
+- [[Task Scheduling]]
+- [[Design Twitter Feed]]
 ## Subtopics
 
 

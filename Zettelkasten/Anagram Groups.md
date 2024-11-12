@@ -42,6 +42,7 @@ class Solution:
 #### Important Subdetails
 
 - [[Python ord function]]
+- The idea of this is that you create a frequency tuple of the characters for each string and then from there use that as the keyvalue and append it to a hashmap where keys are mapped to lists. The list contains all all the strings that have the same frequency count which is how we tell they are anagrams of each other. From there just return the dict.values()
 #### Runtime of Optimal Solution
 
 - Time complexiyt is O(m * n)

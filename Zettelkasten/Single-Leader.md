@@ -10,6 +10,9 @@
 - Clients can query either the leader or follower
 	- writes only to leader
 - Common feature of replication built into many relational db's like [[PostgreSQL]], [[MySQL]] and more
+- Also used in some [[nonrelational databases]] like [[Mongodb]]
+- Also used in some [[Message Broker]]s like [[Kafka]]
+- Good for workloads that consist of mostly reads and only a small percentage of writes
 ---
 Links :: [[Computer Science]] [[Algorithm]] [[Replication Algorithm's]] [[Replication]] [[System Design]]
 Reference :: [[Designing Data Intensive Applications]]

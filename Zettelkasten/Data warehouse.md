@@ -6,6 +6,11 @@
 - Most commonly utilizes a [[relational database|relational data model]] because [[SQL]] is a good fit for analytical queries
 - Usually utilized in a formulaic style known as [[Star Schema]] or also called dimensional modeling
 - [[Materialized Aggregates]]
+- Advantage is that the data warehouse can be optimized for analytic access patterns while not affecting [[OLTP]] operations 
+- Fact tables can grow extremely large with trillions of rows and perhaps even [[petabytes]] of data
+	- Storing and querying them efficiently becomes a problem
+	- Typical query only accesses 4/5 columns at a time
+	- leads to the idea of needing [[Column-Oriented Storage]]
 ---
 Links :: [[Computer Science]] [[System Design]]
 Reference :: [[Designing Data Intensive Applications]]

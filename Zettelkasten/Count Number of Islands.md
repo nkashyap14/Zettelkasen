@@ -57,6 +57,8 @@ class Solution:
 #### Important Subdetails
 
 #### Runtime of Optimal Solution
+
+- Time and space complexity is O(m * n) where m is rows and n is columns
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Neetcode 150]]
 Reference ::

@@ -12,8 +12,9 @@
 	- Process is called [[failover]]
 		- can occur manually or automatically
 		- [[Automatic Failover]]
+- These techniques are for single-leader replication
 ---
-Links :: [[Computer Science]] [[System Design]] [[Shared-Nothing Architecture]] [[Replication]]
+Links :: [[Computer Science]] [[System Design]] [[Shared-Nothing Architecture]] [[Replication]] [[Single-Leader]]
 Reference :: [[Designing Data Intensive Applications]]
 Type :: #atom
 Creator ::

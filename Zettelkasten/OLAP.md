@@ -7,6 +7,7 @@
 - feeds into [[business intelligence]] tools
 - Data represents a history of events that happened over time
 - Terabytes to petabytes sized data
+- Initially used [[relational database]]'s for analytics however eventually there was a trend to stop using [[OLTP]] systems for analytics and run it on a separate database instead which came to be known as a [[Data warehouse]]
 
 ---
 Links :: [[Computer Science]] 

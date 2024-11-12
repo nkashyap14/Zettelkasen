@@ -5,6 +5,7 @@
 - Suited for situations where the value of each key is updated frequently
 	- A lot of writes per key 
 - Typically need to maintain the hash map in memory as a hash map on disk is difficult to make perform well as it requires a lot of random access I/O
+- Range Queries are not efficient because it requires looking up every key individually in the hashmap and then random access across disk
 ---
 Links :: [[Computer Science]] [[Data Formats]] 
 Reference :: [[Designing Data Intensive Applications]]

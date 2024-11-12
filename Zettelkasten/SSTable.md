@@ -10,7 +10,11 @@
 	- In memory tree is sometimes called a mem table
 	- When memtable gets bigger than some threshold it gets written to the disk as a SSTable file
 - When serving readrequests check the current memtable, if not in there then check older segment, older segment and so on
+	- To optimize the cases when you are looking up keys that are not in the db which can be slow you can maintain additional [[Bloom Filters]]
 - If database crashes most recent writes crash
+	- So to solve this keep an [[append only log]]
+- Since data is in sorted order can efficiently perform range queries
+- Disk writes are sequential so the tree supports high write throughput
 ---
 Links :: [[Computer Science]] 
 Reference :: [[Designing Data Intensive Applications]]

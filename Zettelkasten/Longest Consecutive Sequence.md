@@ -38,8 +38,11 @@ class Solution:
 ###### Programming Language Utilized:
 
 ###### Data structure utilized:
+
+- [[Set]]
 #### Important Subdetails
 
+- The intution behinds this rests on the idea that a consecutive sequence starts at a num if and when a num -1 isn't there. From there just keep increasing length as long as the numbers are in the numset and return the max legnth we have obtained
 #### Runtime of Optimal Solution
 
 - O(n) solution

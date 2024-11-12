@@ -39,6 +39,10 @@ class Solution:
 - [[Sliding Window]]
 #### Important Subdetails
 
+- In this problem lowest can be thought of as the l pointer and price as the right pointer
+- We are resetting the left pointer whenever our sliding window condition becomes false. In this case it is when we find a new price that is lower than our left
+	- We then point left to the position of right pointer and continue to slide along
+
 #### Runtime of Optimal Solution
 - O(n) as one pass through prices list
 - O(1) as fixed count of variables used

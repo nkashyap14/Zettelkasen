@@ -15,6 +15,7 @@
 		- If timeout is too short can lead to unnecessary failovers
 			- iie temporary load spike that causes a nodes response time to increase
 			- Network glitch that leads to delayed packets
+		- Longer timeout means a longer time till recovery
 ---
 Links :: [[Computer Science]] [[Replication]] [[Horizontal Scaling]] [[Node]]
 Reference :: [[Designing Data Intensive Applications]]

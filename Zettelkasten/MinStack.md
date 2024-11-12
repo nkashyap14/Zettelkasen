@@ -63,6 +63,9 @@ class MinStack:
 - Requires the use of two stacks simultaneously internally. One stack that holds the values of the stack as they are pushed and another minstack that holds the minimum value at the point of the stack to each corresponding value. So if the top most stack min value is -4 but the base value is 0 the minstack has -4 and 0 similar to the stack
 - Requires us to pop from both the stack and minstack to keep them in sync
 #### Runtime of Optimal Solution
+
+- O(1) runtime for all operations
+- O(n) space complexity
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Neetcode 150]]
 Reference ::

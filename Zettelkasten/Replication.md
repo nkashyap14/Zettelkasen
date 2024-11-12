@@ -10,6 +10,7 @@
 	-  If nodes become unavailable data can be served from remaining nodes
 - Can also help improve performance
 - Every write to a database needs to be processed by every replica in order to keep them in sync
+- [[Reasons to Replicate Data]]
 - [[Replication Difficulties]]
 - [[Setting up new followers (Replication)]]
 - [[Handling Node Outages (Replication)]]
@@ -21,6 +22,8 @@
 - [[Replication Lag]]
 - [[Read-scaling Architecture]]
 - [[Detecting Concurrent Writes]]
+- One of the two common ways  that data is distributed across multiple nodes
+	- Other is [[Partitioning]]
 ---
 Links :: [[Computer Science]] [[System Design]] [[Data]] [[Database]]
 Reference :: [[Designing Data Intensive Applications]]

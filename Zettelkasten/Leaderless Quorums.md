@@ -7,8 +7,9 @@ $$
 - Allows system to tolerate unavailable nodes as follows:
 	- w < n = can still process writes if a node is unavailable
 	- r < n = can still process reads if a node is unavailable
-	- n = 3, w = 2, r = 2 = 1 unavilable node
-	- n = 5, w = 3, r = 3 means 2 unavailable nodes tolerable
+	- n = 3, w = 2, r = 2 = 1 unavailable node
+	- n = 5, w = 3, r = 3 means 2 unavailable nodes tolerable 
+	- If fewer than required w or r nodes are available writes or reads return an error
 - Normally n replicas are sent reads + writes in parallel
 	- R + W just determine how many we wait for
 - Means one of the r nodes we're reading from must be up to date 
@@ -16,7 +17,7 @@ $$
 - Common choice:
 	- make n odd
 		- 3 or 5
-	- set w = r  (n + 1) /2 
+	- set w = r =  (n + 1) /2 
 		- rounded up
 - Workload with few writes and many reads
 	- Set w = n

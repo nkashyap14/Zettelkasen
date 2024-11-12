@@ -52,6 +52,7 @@ class Solution:
 				matches += 1
 			elif s2Count[index] + 1 == s1Count[index]:
 				matches -= 1
+			l += 1
 		return matches == 26
 ```
 #### Solution 2
@@ -85,6 +86,9 @@ class Solution:
 #### Important Subdetails
 
 #### Runtime of Optimal Solution
+
+- O(n) runtime for lsiding window
+- O(1) space complexity for sliding window
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Neetcode 150]]
 Reference ::

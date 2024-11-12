@@ -1,6 +1,6 @@
 # Consistency
 
-- Diffeer
+- A type of [[Database]] guarantee about how and when updates become visible across different replicas/nodes. It's about data visibility and ordering.
 
 ---
 Links :: [[Computer Science]]

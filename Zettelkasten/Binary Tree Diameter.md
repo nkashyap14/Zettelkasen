@@ -58,7 +58,7 @@ class Solution:
 
 - [[Python nonlocal]] is used as a way to make the res variable in the inner recursive function the same res in the outer function
 - The principle of this is that the recursive function works by just outputting the height of the tree while the res nonlocal variable is used to track our return value which is the diameter which in reality should be the height of the left and the right subtree added together
-	- Obviously we are maximizing res so we only set it to res if its acutally greater
+	- Obviously we are maximizing res so we only set it to res if its actually greater
 #### Runtime of Optimal Solution
 
 - O(n) as it is a [[depth first search]] that touches every node in the tree

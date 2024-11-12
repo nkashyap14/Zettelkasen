@@ -2,7 +2,16 @@
 
 #### Problem statement
 
+You are given an array of **distinct** integers `nums`, sorted in ascending order, and an integer `target`.
 
+Implement a function to search for `target` within `nums`. If it exists, then return its index, otherwise, return `-1`.
+
+Your solution must run in O(logn) time.
+
+**Constraints:**
+
+- `1 <= nums.length <= 10000`.
+- `-10000 < nums[i], target < 10000`
 ##### Example 1
 ```
 Input: nums = [-1,0,2,4,6,8], target = 4
@@ -23,7 +32,7 @@ class Solution:
         //important for = as the target can be at the index where l == r
         while l <= r:
 	        //calculated like this because we are looking for midpoint of current bounds. Done by adding half of the total length to the left most bound
-            calc = l + int((r - l) / 2)
+            calc = (l + r) // 2
             if nums[calc] == target:
                 return calc
             elif nums[calc] < target:

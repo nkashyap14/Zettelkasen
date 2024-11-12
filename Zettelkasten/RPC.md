@@ -9,6 +9,7 @@
 	- local functions return result or crash, network requests can time out
 	- network requests are slower than a function call
 	- need to encode and send data over the wire which can be difficult with larger objects
+- Main use case of rpc frmameworks is on requests between services owned by the same organization in the same data center
 - [[gRPC]]
 - [[Finagle]]
 - [[Rest.li]]

@@ -1,7 +1,5 @@
 # Transaction
 
-# Transaction
-
 ## Summary
 
 - Usually understood as a mechanism for grouping multiple operations on multiple objects into one unit of execution 
@@ -26,6 +24,8 @@
 - [[Handling Errors for Transactions]]
 - [[Weak Isolation Levels]]
 - [[Write-Write Conflicts]]
+- [[OLTP]]
+- [[OLAP]]
 ## Details
 
 ## Conclusion

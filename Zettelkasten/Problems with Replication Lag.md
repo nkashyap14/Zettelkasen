@@ -23,7 +23,7 @@
 - [[Consistent Prefix Reads]]
 - Guarantees that if a sequence of writes happen in a certain order anyone reading them will see those writes in the same order
 - Particular issue with [[sharded databases]]
-	- In distributed databases [[Partitioning|partitions]] operate independently so nno global ordering of writes 
+	- In distributed databases [[Partitioning|partitions]] operate independently so no global ordering of writes 
 		- Can make the writes causally related to each other
 ## Converging towards consistent state
 - In [[Multi-Leader]] configuration no defined ordering of writes so can end up with inconsistent states

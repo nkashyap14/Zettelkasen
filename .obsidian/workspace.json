@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7ba086919578fdd0",
+        "id": "d979934e6d709656",
         "type": "tabs",
         "children": [
           {
-            "id": "c52cab30d12c4a5f",
+            "id": "9ae57b16a6e809e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/SSTable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSTable"
+            }
+          },
+          {
+            "id": "f1024ad9a3399924",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,32 +36,77 @@
             }
           },
           {
-            "id": "e3434d20975276a6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "743847d731b40bb9",
+            "id": "d9cd90d25a5c97dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Document Database.md",
+                "file": "Zettelkasten/Availability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Document Database"
+              "title": "Availability"
+            }
+          },
+          {
+            "id": "2b3e45be1ecabc43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Dirty Writes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dirty Writes"
+            }
+          },
+          {
+            "id": "e9607b77ca372b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Read Committed Isolation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Read Committed Isolation"
+            }
+          },
+          {
+            "id": "3a01226cba68e1d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Dirty Reads.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dirty Reads"
+            }
+          },
+          {
+            "id": "6014dc88cd6e67df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Write Skew.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Write Skew"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Neetcode 150.md",
+                "file": "Zettelkasten/Availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +188,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Neetcode 150"
+              "title": "Backlinks for Availability"
             }
           },
           {
@@ -138,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Neetcode 150.md",
+                "file": "Zettelkasten/Run Pipelines in Azure Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Neetcode 150"
+              "title": "Outgoing links from Run Pipelines in Azure Machine Learning"
             }
           },
           {
@@ -165,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Neetcode 150.md"
+                "file": "Zettelkasten/Run Pipelines in Azure Machine Learning.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Neetcode 150"
+              "title": "Outline of Run Pipelines in Azure Machine Learning"
             }
           }
         ]
@@ -187,34 +246,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c52cab30d12c4a5f",
+  "active": "d9cd90d25a5c97dc",
   "lastOpenFiles": [
-    "Zettelkasten/Time Based Key-Value Store.md",
-    "Zettelkasten/Neetcode 150.md",
-    "Zettelkasten/Course-Schedule.md",
-    "Zettelkasten/Maximum Subarray.md",
-    "Zettelkasten/Document Database.md",
-    "Zettelkasten/Data Models.md",
-    "Zettelkasten/Graph Database.md",
-    "Zettelkasten/Triple-Store.md",
-    "Zettelkasten/relational database.md",
-    "Zettelkasten/MapReduce.md",
-    "Zettelkasten/SQL.md",
-    "Zettelkasten/Declarative.md",
-    "Zettelkasten/Search in Rotated Sorted Array.md",
-    "Zettelkasten/Binary Search.md",
     "Zettelkasten/reliability.md",
-    "Zettelkasten/Boxing Basic Defensive Combo.md",
-    "Zettelkasten/Boxing.md",
-    "Zettelkasten/Boxing Numbers.md",
-    "Zettelkasten/Threesum.md",
-    "Zettelkasten/Balanced Binary Tree.md",
+    "Zettelkasten/Availability.md",
+    "Zettelkasten/Detecting Concurrent Writes.md",
+    "Zettelkasten/Concurrency.md",
+    "Zettelkasten/Limitations of Quorum Consistency.md",
+    "Zettelkasten/Leaderless Quorums.md",
+    "Zettelkasten/Leaderless.md",
+    "Zettelkasten/Eventual Consistency.md",
+    "Zettelkasten/Sloppy Quorum.md",
+    "Zettelkasten/Neetcode 150.md",
+    "Zettelkasten/Durability.md",
+    "Zettelkasten/Replication Algorithm's.md",
+    "Zettelkasten/Multi-Leader.md",
+    "Zettelkasten/Comparison of Single-Leader vs Multi-Leader.md",
+    "Zettelkasten/Replication Topology.md",
+    "Zettelkasten/Longest Consecutive Sequence.md",
+    "Zettelkasten/Max Area of Island.md",
+    "Zettelkasten/Count Number of Islands.md",
+    "Zettelkasten/Permutation String.md",
+    "Zettelkasten/MinStack.md",
     "Zettelkasten/Subtree Of Another Tree.md",
-    "Zettelkasten/Find Minimum in Rotated Sorted Array.md",
-    "Zettelkasten/Surrounded Regions.md",
-    "Zettelkasten/Use a Sweep Job For Hyperparameter Tuning.md",
-    "Zettelkasten/Perform hyperparameter tuning with Azure Machine Learning.md",
-    "Zettelkasten/Configure Early Termination.md",
+    "Zettelkasten/Balanced Binary Tree.md",
+    "Zettelkasten/Binary Tree Diameter.md",
+    "Zettelkasten/Big Endian.md",
+    "Zettelkasten/Single-Leader.md",
+    "Zettelkasten/Replication Lag.md",
     "Zettelkasten/Untitled 1.canvas",
     "Zettelkasten/Untitled.canvas",
     "Transport Layer (TCP",
