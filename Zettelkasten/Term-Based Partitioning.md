@@ -1,5 +1,6 @@
 - Constructs a global index that covers data in all partitions
 - Cant store that index on one node as then it becomes a [[Bottleneck]]
+	- the global index itself must also be partitioned
 - You pick a term to partition on
 	- ie color of car
 	- color:red

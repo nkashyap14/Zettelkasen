@@ -55,6 +55,10 @@
 - [[LRUCache]]
 - [[Task Scheduling]]
 - [[Design Twitter Feed]]
+- [[Combination Target Sum II]]
+- [[Combination Target Sum]]
+- [[Search for Word]]
+- [[Palindrome Partitioning]]
 ## Subtopics
 
 
