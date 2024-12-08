@@ -57,8 +57,6 @@ class Solution:
             oldToCopy[curr].random = oldToCopy[curr.random]
             curr = curr.next
 
-  
-
         return oldToCopy[head]
 ```
 

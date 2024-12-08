@@ -8,17 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ae57b16a6e809e2",
+            "id": "9e07a63af899fd5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Index.md",
+                "file": "Zettelkasten/Amazon Leetcode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Amazon Leetcode"
+            }
+          },
+          {
+            "id": "631d8af5670851ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Reorder List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reorder List"
+            }
+          },
+          {
+            "id": "a237e4ef0bb56bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Palindromic Substring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Palindromic Substring"
             }
           },
           {
@@ -103,7 +131,8 @@
               "title": "Write Skew"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Index.md",
+                "file": "Zettelkasten/Reorder List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for Reorder List"
             }
           },
           {
@@ -243,34 +272,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ae57b16a6e809e2",
+  "active": "631d8af5670851ae",
   "lastOpenFiles": [
-    "Zettelkasten/Secondary Index.md",
-    "Zettelkasten/Partition Approaches for Secondary Index.md",
-    "Zettelkasten/Index.md",
-    "Zettelkasten/B-Tree.md",
-    "Zettelkasten/Comparing B-Tree and SSTables.md",
-    "Zettelkasten/B-Tree Optimizations.md",
-    "Zettelkasten/SSTable.md",
-    "Zettelkasten/Bloom Filters.md",
-    "Zettelkasten/Hash Index.md",
-    "Zettelkasten/Designing Data Intensive Applications.md",
-    "Zettelkasten/Column-Oriented Storage.md",
-    "Zettelkasten/OLAP.md",
-    "Zettelkasten/Column Compression.md",
-    "Zettelkasten/OLTP.md",
-    "Zettelkasten/In-memory databases.md",
-    "Zettelkasten/Data Formats.md",
-    "Zettelkasten/Binary Format.md",
-    "Zettelkasten/Declarative.md",
-    "Zettelkasten/Storage Locality.md",
-    "Zettelkasten/Network Model.md",
-    "Zettelkasten/relational database.md",
-    "Zettelkasten/Service Discovery.md",
-    "Zettelkasten/Snapshot Isolation.md",
-    "Zettelkasten/Shared-Nothing Architecture.md",
-    "Zettelkasten/Partitioning.md",
-    "Zettelkasten/Rebalancing Partitions.md",
+    "Zettelkasten/Neetcode 150.md",
+    "Zettelkasten/Merge Two Sorted Linked Lists.md",
+    "Zettelkasten/Generate Parentheses.md",
+    "Zettelkasten/Trapping Rain Water.md",
+    "Zettelkasten/Valid Sudoku.md",
+    "Zettelkasten/Longest Consecutive Sequence.md",
+    "Zettelkasten/Max Area of Island.md",
+    "Zettelkasten/Count Number of Islands.md",
+    "Zettelkasten/Permutation String.md",
+    "Zettelkasten/MinStack.md",
+    "Zettelkasten/Subtree Of Another Tree.md",
+    "Zettelkasten/Balanced Binary Tree.md",
+    "Zettelkasten/Binary Tree Diameter.md",
+    "Zettelkasten/Threesum.md",
+    "Zettelkasten/Max Water Container.md",
+    "Zettelkasten/Buy and Sell Crypto.md",
+    "Zettelkasten/Two Integer Sum II.md",
+    "Zettelkasten/Products of Array Discluding Self.md",
+    "Zettelkasten/Top K Elements in List.md",
+    "Zettelkasten/Time Based Key-Value Store.md",
+    "Zettelkasten/Search for Word.md",
+    "Zettelkasten/Amazon Leetcode.md",
+    "Zettelkasten/LRUCache.md",
+    "Zettelkasten/Task Scheduling.md",
+    "Zettelkasten/Palindromic Substring.md",
+    "Zettelkasten/Longest Palindromic Substring.md",
+    "0",
     "Zettelkasten/Untitled 1.canvas",
     "Zettelkasten/Untitled.canvas",
     "Transport Layer (TCP",

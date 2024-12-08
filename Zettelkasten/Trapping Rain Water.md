@@ -20,7 +20,6 @@ class Solution:
   
         l, r = 0, len(height) - 1
         leftMax, rightMax, res = height[l], height[r], 0
-
         while l < r:
             if leftMax < rightMax:
                 l += 1
@@ -66,9 +65,9 @@ class Solution:
 - [[Two Pointers]]
 #### Important Subdetails
 
-- Intuition of this problem hinges on the fact that at each point you are calculating the amount of rain you can trap it hinges on two factors. The maximum wall size to the left and the maximimum wall size bounding it to the right. The minimum value of of those two is then subtracted by the height of the wall at that position and that is what gives you how much rain water can get held.
-- From there it becomes an issue of how to calculate the left max nad right max. Second solution is a brute force way that sets up an array where each position represents the left max and right max of those positions. From there just loop through the arrays once last time and subtract hte min of those maxes by the heights
-- Other intuitiive way is to keep a running track of the left max and right max by starting at opposite ends of the array with two pointesr. Move the max that is lesser. When you move that max than you know it is bounded by that max so the rainwater calculation is done with that max.
+- Intuition of this problem hinges on the fact that at each point you are calculating the amount of rain you can trap it hinges on two factors. The maximum wall size to the left and the maximum wall size bounding it to the right. The minimum value of of those two is then subtracted by the height of the wall at that position and that is what gives you how much rain water can get held.
+- From there it becomes an issue of how to calculate the left max and right max. Second solution is a brute force way that sets up an array where each position represents the left max and right max of those positions. From there just loop through the arrays once last time and subtract the min of those maxes by the heights
+- Other intuitive way is to keep a running track of the left max and right max by starting at opposite ends of the array with two pointers. Move the max that is lesser. When you move that max than you know it is bounded by that max so the rainwater calculation is done with that max.
 #### Runtime of Optimal Solution
 
 - 2nd solution is O(n) runtime and O(n) space complexity

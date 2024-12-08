@@ -48,10 +48,9 @@ class Solution:
                             grid[i + r][j + c] = 2
                             q.append((i + r, j + c))
                             fresh -= 1
-                m += 1
+                m += 1 
 
   
-
         return m if fresh == 0 else -1
 ```
 

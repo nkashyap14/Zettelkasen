@@ -59,7 +59,17 @@
 - [[Combination Target Sum]]
 - [[Search for Word]]
 - [[Palindrome Partitioning]]
+- [[Course Schedule II]]
+- [[House Robber]]
+- [[House Robber II]]
+- [[Graph Valid Tree]]
+- [[Number of Connected Components in an Undirected Graph]]
+- [[Redundant Connection]]
+- [[Palindromic Substring]]
+- [[Longest Palindromic Substring]]
 ## Subtopics
+
+- [[Amazon Leetcode]]
 
 
 Type :: #topic

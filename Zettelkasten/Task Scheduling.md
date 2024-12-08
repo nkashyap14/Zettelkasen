@@ -36,9 +36,12 @@ class Solution:
         while q or maxHeap:
             time += 1
             if maxHeap:
+	            #process the most frequent character at time t_i
                 cnt = 1 + heapq.heappop(maxHeap)
+                #if the cnt of the variable isn't 0 then put it onto the queue for cooldown
                 if cnt:
                     q.append([cnt, time + n])
+            #if the queue has values and the first value's cooldown time has passed then put it back onto the heap for processing
             if q and q[0][1] == time:
                 heapq.heappush(maxHeap, q.popleft()[0])
 
@@ -55,13 +58,15 @@ class Solution:
 - [[MaxHeap]]
 #### Important Subdetails
 - Use the built in counter to generate frequencies
-- Reverse the keys heapify it
+- Negate the keys and heapify it
+	- Reason we negate the keys is by default python only has a minheap. So we need to negate the keys to have the heap function as a max heap
 - use a queue to manage when to put the values back onto the heap
 - always want to use most frequent value
 #### Runtime of Optimal Solution
 
 - Runtime O(n * m)
 	- M is number of tasks
+	- n is the cooldown
 - Space complexity is O(m)
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Neetcode 150]]

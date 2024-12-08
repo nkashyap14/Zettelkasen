@@ -73,6 +73,7 @@ class Solution:
 
 - Runtime: O(n * m * dfs) = O(n * m * 4^len(word))
 	- 4 ^ len(word) because each recursion time we have 4 branches and we go to a depth of the lenght of the word
+	- n * m because we iterate over all cells of the board in the worst case
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Neetcode 150]]
 Reference ::
