@@ -22,7 +22,7 @@
 	- Compromises between two partitioning strategies
 	- Table in Cassandra can be declared with a [[compound primary key]] consisting of several columns
 	- Only first part of the key is hashed to determine the partition
-	- Other columns are used as an concatenated [[Index]] for sorting the data in Cassandaras [[SSTable]]
+	- Other columns are used as an concatenated [[Index]] for sorting the data in Cassandra's [[SSTable]]
 	- Stops a query for searching for a range of values within the first column but if it specifies a fixed value for the first column it can perform an efficient range scan based on other columns  of the keys
 		- ie search by fixed (user_id, update_timestamp)
 			- allows for range sort order of update_timestamp while fixing on a specific partiion of the user_id

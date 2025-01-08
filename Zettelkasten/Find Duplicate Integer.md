@@ -5,7 +5,7 @@ You are given an array of integers `nums` containing `n + 1` integers. Each 
 
 Every integer appears **exactly once**, except for one integer which appears **two or more times**. Return the integer that appears more than once.
 
-Follow-up: Can you solve the problem **without** modifying the array `nums` and using O(1)O(1) extra space?
+Follow-up: Can you solve the problem **without** modifying the array `nums` and using O(1) extra space?
 ##### Example 1
 ```
 Input: nums = [1,2,3,2,2]
@@ -51,6 +51,19 @@ class Solution:
 - This is a linked list cycle problem
 - [[Floyd's Algorithm]]
 	- Tells you the beginning of a cycle in a linked list
+- p till distance to start of cycle
+- c to traverse whole cycle
+- x is node where slow and fast intersect
+- 2 * (slow travel) = fast travel
+$$
+2 *(p + c - x) = 2c - x + p
+$$
+- simplifies to
+$$
+p = x
+$$
+- aka the distance from start node to start of cycle is the same distance from where fast and slow intersect to start of cycle
+	- so tahts why we start a second slow pointer at the start of cycle and continue traversing. when the two inteersect we are at the start of the cycle and the index that point points too is the duplicate
 
 #### Runtime of Optimal Solution
 

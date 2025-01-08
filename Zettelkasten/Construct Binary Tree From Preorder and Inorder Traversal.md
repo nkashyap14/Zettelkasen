@@ -42,6 +42,50 @@ class Solution:
         return root
 ```
 
+
+#### Solution 2: Optimized:
+
+```
+class Solution(object):
+    def buildTree(self, preorder, inorder):
+        # Create HashMap for O(1) lookup of inorder indices
+        indexes = {val : idx for idx, val in enumerate(inorder)}
+
+        def dfs(pre_start, pre_end, in_start, in_end):
+            if pre_start > pre_end:
+                return None
+            
+            # First element in preorder is always root
+            root = TreeNode(preorder[pre_start])
+
+            # Get root's position in inorder traversal
+            index = indexes[root.val]
+            
+            # Calculate number of nodes in left subtree
+            # (everything before root in inorder is in left subtree)
+            left_sub = index - in_start
+
+            # Left subtree:
+            # preorder: take left_sub nodes after root
+            # inorder: take everything before root
+            root.left = dfs(pre_start + 1,           # skip root
+                          pre_start + left_sub,      # take left_sub nodes
+                          in_start,                  # keep same start
+                          index - 1)                 # end before root
+
+            # Right subtree:
+            # preorder: take remaining nodes after left subtree
+            # inorder: take everything after root
+            root.right = dfs(pre_start + left_sub + 1,  # skip root and left subtree
+                           pre_end,                     # take until end
+                           index + 1,                   # start after root
+                           in_end)                      # keep same end
+
+            return root
+
+        length = len(preorder)
+        return dfs(0, length - 1, 0, length - 1)
+```
 ###### Programming Language Utilized:
 
 - [[Python]]
@@ -55,7 +99,25 @@ class Solution:
 - Preorder traversal the root is always at index 0
 - if either of the lists are empty we've hit our base case and can return. We've built out that side of the tree
 - In order traversal the index of the root is the midpoint of the array. We can use that to pass in the values before it into the recursive left child subcase and the values after it into the right child subcase
+- Solution 2
+1. left_sub = index - in_start tells us how many nodes are in the left subtree
+    - index is root's position in inorder array
+    - in_start is where current inorder portion begins
+    - Their difference tells us size of left subtree because in inorder, everything before root is in left subtree
+2. For left subtree recursion:
+    - pre_start + 1: we skip the root in preorder
+    - pre_start + left_sub: we take only left_sub number of nodes (size of left subtree)
+    - in_start: keep same start in inorder
+    - index - 1: stop before root in inorder
+3. For right subtree recursion:
+    - pre_start + left_sub + 1: skip root and left subtree nodes in preorder
+    - pre_end: take remaining nodes
+    - index + 1: start after root in inorder
+    - in_end: keep same end in inorder
 #### Runtime of Optimal Solution
+
+- The first runtime is O(n^2) in reality because we are running the index operation n times which is a n call 
+- The second is more optimized because of two reasons, we create a hashmap of index mappings and we also refrain from using slices of array which requires a copy each time in python but instead pass in start and end indexes to each array
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Neetcode 150]]
 Reference ::

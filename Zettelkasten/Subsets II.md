@@ -60,7 +60,7 @@ class Solution:
 
 #### Runtime of Optimal Solution
 
-- O(n log n) for the sort but that gets overriden by the O(n * 2^n ). The 2^n arises from the fact that there are n elements and for each fo them we have two decisions, include in a subset or don't. Then we multiply by n as the subsets take n to build.
+- O(n log n) for the sort but that gets overridden by the O(n * 2^n ). The 2^n arises from the fact that there are n elements and for each fo them we have two decisions, include in a subset or don't. Then we multiply by n as the subsets take n to build.
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Neetcode 150]]
 Reference ::

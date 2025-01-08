@@ -25,6 +25,12 @@
 ## Subproblems
 
 - [[0/1 Knapsack]]
+- [[Coin Change]]
+- [[N-th Tribonacci Number]]
+- [[Maximum Product Subarray]]
+- [[Word Break]]
+- [[Longest Increasing Subsequence]]
+- [[Partition Equal Subset Sum]]
 ## Details
 
 ## Terms Defined

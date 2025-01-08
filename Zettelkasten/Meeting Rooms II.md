@@ -66,6 +66,26 @@ def minMeetingRooms(self, intervals):
                 heapq.heappush(heap, i[1])
         return len(heap)
 ```
+
+#### Solution 3
+```
+class Solution:
+    def minMeetingRooms(self, intervals: List[Interval]) -> int:
+        start = sorted([interval.start for interval in intervals])
+        end = sorted([interval.end for interval in intervals])
+
+        i = j = count = res = 0
+        while i < len(start):
+            if start[i] < end[j]:
+                count += 1
+                i += 1
+            else:
+                count -= 1
+                j += 1
+            res = max(res, count)
+        return res
+
+```
 ###### Programming Language Utilized:
 - [[Python]]
 ###### Data structure utilized:

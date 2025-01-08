@@ -47,12 +47,33 @@ class Solution:
         return len(stack)
 ```
 
+```
+class Solution(object):
+    def carFleet(self, target, position, speed):
+        # Instead of creating pairs, just store indices sorted by position
+        indices = sorted(range(len(position)), key=lambda i: position[i], reverse=True)
+        stack = []
+        # Use indices to reference original arrays
+        for i in indices:
+            time = float(target - position[i]) / speed[i]
+            stack.append(time)
+            if len(stack) >= 2 and stack[-1] <= stack[-2]:
+                stack.pop()
+
+        return len(stack)
+```
 ###### Programming Language Utilized:
 
 - [[Python]]
 ###### Data structure utilized:
 - [[Stack]]
 #### Important Subdetails
+
+- Solution 1: Sort by zipped pairs of position and speed
+	- Then do the distance calculation which is target - pos and divide it by the speed to get total time taken
+	- add the time to the stack only but pop it only if it is <= the time that the car that starts at a closer position to it takes. in that case pop it because it will be a fleet with that car otherwise leave it on the stack because it is a head of its own fleet now
+	- return the lenght of the stack as the number of fleets
+- Optimal solution just involves using a sorted array of indices of the position and then using that index to do the calculation instead of having to zip arrays together
 
 #### Runtime of Optimal Solution
 ---

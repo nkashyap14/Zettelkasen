@@ -46,7 +46,10 @@ class Solution:
 #### Important Subdetails
 
 - Solution one involves us just modding by 2 and bits are in base 2 format anyways as such we are always grabbing that first 1 digit. Its either going to be 0 or 1 so we are basically incrementing res by 1 each time we have a 1 in the first bit and then we remove that bit by shifting n by 1
-- Solution 2 involves just removing 1 from the number. This removes one bit each time. So therefore the amount of times you can subtract 1 and run a logical and on the number and once it ='s 0 represents the amount of bits you have in the number
+- Solution 2 involves just removing 1 from the number. When you subtract 1 from a number in binary all the bits after the rightmost 1 get flipped while the rightmost 1 becomes 0
+	- All the left bits remain unchanged. No effect on the bits on the right because we know we are &'ing and they were flipped so a 1 and 0 or 0 and 1 will always and to 0
+	- So you apply it k times when there are k 1 bits. Each time clears all the bits up to the right most bit by flipping all bits to the right of it.
+	  This is called Brian Kernighan's algorithm
 
 #### Runtime of Optimal Solution
 

@@ -4,7 +4,7 @@
 
 ## Statement
 
-You are given nn items whose weights and values are known, as well as a knapsack to carry these items. The knapsack cannot carry more than a certain maximum weight, known as its **capacity**.
+You are given n items whose weights and values are known, as well as a knapsack to carry these items. The knapsack cannot carry more than a certain maximum weight, known as its **capacity**.
 
 You need to maximize the total value of the items in your knapsack, while ensuring that the sum of the weights of the selected items does not exceed the capacity of the knapsack.
 
@@ -84,13 +84,15 @@ def find_max_knapsack_profit(capacity, weights, values):
       
     if (i, curr_cap) in seen:
        return seen[(i, curr_cap)]
-       
+
+	#if ith item can fit in knapsack consider which option maximizes
     if weights[i] <= curr_cap:
       seen[(i, curr_cap)] = max(
         values[i] + helper(curr_cap - weights[i], i + 1, seen),
         helper(curr_cap, i + 1, seen))
       return seen[(i, curr_cap)]
-      
+
+	#if item cant fit than only one option remains to maximize, take the maximum when you don't include this item
     seen[(i, curr_cap)] = helper(curr_cap, i + 1, seen)
     
     return seen[(i, curr_cap)]
