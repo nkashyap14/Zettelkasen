@@ -2,7 +2,7 @@
 
 ## General Details
 
-- [[Algorithm]]
+- [[Zettelkasten/Algorithm]]
 	- Affects [[Clock Cycles Per Instruction (CPI)]] and also total count of [[Instruction]]s
 	- Determines the number of source program instructions executed and hence the number of processor instructions executed
 	- Affects CPI as if it favors certain techniques it can raise the CPI as it requires more resources

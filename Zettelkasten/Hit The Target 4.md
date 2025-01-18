@@ -3,6 +3,10 @@
 $$
 Jab, Rear Upper, Liver shot with lead, Lowkick
 $$
+
+$$
+1 -> 7 -> 5 -> Low kick
+$$
 ---
 Topics ::  [[Dutch Kickboxing]] 
 Reference ::

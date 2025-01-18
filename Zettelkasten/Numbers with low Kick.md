@@ -1,6 +1,7 @@
 # Numbers with low Kick
 
 
+- Southpaw and Orthodox
 $$
 1 = Jab, Rear Low Roundhouse
 $$

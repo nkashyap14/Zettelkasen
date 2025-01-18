@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f356a8a25079122",
+            "id": "d0339f4fcd57af4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Best Time to Buy and Sell Stock with Cooldown.md",
+                "file": "Zettelkasten/Number of Connected Components in an Undirected Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best Time to Buy and Sell Stock with Cooldown"
+              "title": "Number of Connected Components in an Undirected Graph"
             }
           },
           {
@@ -27,12 +27,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Designing Data Intensive Applications.md",
+                "file": "Zettelkasten/Kickboxing Longform Combos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Designing Data Intensive Applications"
+              "title": "Kickboxing Longform Combos"
+            }
+          },
+          {
+            "id": "641f295357c6a939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Kickboxing Longform Combos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kickboxing Longform Combos"
+            }
+          },
+          {
+            "id": "32d99d9c6d2cd03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Boxing Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boxing Numbers"
+            }
+          },
+          {
+            "id": "fd14c33f7fc024a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Flow Southpaw Combo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flow Southpaw Combo"
+            }
+          },
+          {
+            "id": "4eca92d032bfc98e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Target Sum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Target Sum"
+            }
+          },
+          {
+            "id": "8b5e80a4462f739e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Interleaving String.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interleaving String"
             }
           },
           {
@@ -173,7 +243,8 @@
               "title": "Write Skew"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +276,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -245,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Best Time to Buy and Sell Stock with Cooldown.md",
+                "file": "Zettelkasten/Kickboxing Longform Combos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Best Time to Buy and Sell Stock with Cooldown"
+              "title": "Backlinks for Kickboxing Longform Combos"
             }
           },
           {
@@ -313,34 +384,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f356a8a25079122",
+  "active": "641f295357c6a939",
   "lastOpenFiles": [
-    "Zettelkasten/Neetcode 150.md",
-    "Zettelkasten/Best Time to Buy and Sell Stock with Cooldown.md",
-    "Zettelkasten/Longest Common Subsequence.md",
-    "Zettelkasten/2D Dynamic Programming.md",
-    "Zettelkasten/Unique Paths.md",
-    "Zettelkasten/Longest Palindromic Substring.md",
-    "Zettelkasten/Valid Parenthesis String.md",
-    "Zettelkasten/Greedy.md",
-    "Zettelkasten/Gas Station.md",
-    "Zettelkasten/Designing Data Intensive Applications.md",
-    "Zettelkasten/Hand of Straights.md",
-    "Zettelkasten/Non-Overlapping Intervals.md",
-    "Zettelkasten/Merge Triplets to Form Target.md",
-    "Zettelkasten/Jump Game II.md",
-    "Zettelkasten/Jump Game.md",
-    "Zettelkasten/Snapshot Isolation.md",
-    "Zettelkasten/Service Discovery.md",
-    "Zettelkasten/Write-Write Conflicts.md",
-    "Zettelkasten/Partitioning.md",
-    "Zettelkasten/Horizontal Partitioning.md",
-    "Zettelkasten/Vertical Partitioning.md",
-    "Zettelkasten/Rebalancing Partitions.md",
-    "Zettelkasten/Dynamic Partitioning.md",
-    "Zettelkasten/Partitioning and Secondary Indexes.md",
-    "Zettelkasten/Term-Based Partitioning.md",
-    "Zettelkasten/Document Based Partitioning.md",
+    "Zettelkasten/Boxing Tyson Step Combo.md",
+    "Zettelkasten/Kickboxing Longform Combos.md",
+    "Zettelkasten/Orthodox vs Open Stance.md",
+    "Zettelkasten/Open Stance.md",
+    "Zettelkasten/Step Left Kickboxing Combo.md",
+    "Zettelkasten/Boxing Numbers.md",
+    "Zettelkasten/Tyson Hop Kickboxing Combo.md",
+    "Zettelkasten/Slip Step Combo.md",
+    "Zettelkasten/Checks.md",
+    "Zettelkasten/Switch Rocky Combo.md",
+    "Zettelkasten/Tiago Beowulf Numbers System.md",
+    "Zettelkasten/Inside Kick Outside Kick Drill.md",
+    "Zettelkasten/Block Parry Drill.md",
+    "Zettelkasten/Roll + Knee Combo.md",
+    "Zettelkasten/Hit The Target 2.md",
+    "Zettelkasten/Numbers with low Kick.md",
+    "Zettelkasten/Exit Combo.md",
+    "Zettelkasten/Jab Roll Combo.md",
+    "Zettelkasten/Dutch Kickboxing.md",
+    "Zettelkasten/Knees.md",
+    "Zettelkasten/Cross Upper Upper Cross.md",
+    "Zettelkasten/Pull Jab Drill.md",
+    "Zettelkasten/Defend the Jab Drill.md",
+    "Zettelkasten/Defensive Options Drill.md",
+    "Zettelkasten/Cain Combos.md",
+    "Zettelkasten/Cain 3.md",
     "0",
     "Zettelkasten/Untitled 1.canvas",
     "Zettelkasten/Untitled.canvas",

@@ -1,13 +1,7 @@
-# Hit The Target 1
+# Orthodox vs Open Stance
 
-$$
-Jab, Push Chest, Overhand with rear Hand
-$$
 
-$$
-1 -> Push Chest -> Rear Hand Overhand
-$$
-
+- 
 ---
 Topics ::  [[Dutch Kickboxing]] 
 Reference ::
@@ -18,4 +12,4 @@ TAF ::
 Discussion ::
 Dis_Topic :: 
 Resolved ::
-Date :: 2024-07-27 12:06
+Date :: 2025-01-17 22:39

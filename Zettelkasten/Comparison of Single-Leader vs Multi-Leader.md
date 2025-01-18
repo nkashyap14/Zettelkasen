@@ -8,7 +8,7 @@
 ## Network Fault Tolerance
 - Increased tolerance of network problems in multi leader setup
 ---
-Links :: [[Computer Science]] [[Algorithm]] [[Replication Algorithm's]] [[Single-Leader]] [[Multi-Leader]] [[System Design]]
+Links :: [[Computer Science]] [[Zettelkasten/Algorithm]] [[Replication Algorithm's]] [[Single-Leader]] [[Multi-Leader]] [[System Design]]
 Reference :: [[Designing Data Intensive Applications]]
 Type :: #atom
 Creator ::

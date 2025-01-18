@@ -3,7 +3,9 @@
 $$
 Jab, Upper, Hook, Low Kick
 $$
-
+$$
+1 -> 7 -> 3 -> Low Kick
+$$
 ---
 Topics ::  [[Dutch Kickboxing]] 
 Reference ::

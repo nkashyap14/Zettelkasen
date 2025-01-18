@@ -35,7 +35,7 @@
 - Is an assurance of durability
 	- that the data is stored on w nodes somewhere but no guarantee that a read of r nodes will see it until hinted handoff is done
 ---
-Links :: [[Computer Science]] [[Algorithm]] [[Replication Algorithm's]] [[Replication]] [[System Design]]
+Links :: [[Computer Science]] [[Zettelkasten/Algorithm]] [[Replication Algorithm's]] [[Replication]] [[System Design]]
 Reference :: [[Designing Data Intensive Applications]]
 Type :: #atom
 Creator ::

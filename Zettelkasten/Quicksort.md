@@ -51,7 +51,7 @@ def quicksort(nums, left, right):
 - Quicksort has an n log n run time on average/best
 - O(n^2) worst case if poor pivot chosen
 ---
-Links :: [[Computer Science]] [[Algorithm]]
+Links :: [[Computer Science]] [[Zettelkasten/Algorithm]]
 Reference ::
 Type :: #atom
 Creator ::

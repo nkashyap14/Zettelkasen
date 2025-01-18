@@ -26,6 +26,9 @@
 - When you check a body shot you want to bring your elbow to the outside of the knee
 - Or connect the elbow to the knee
 - [[Shin]] must be straight, in order to do so the toe must be pointed upwards
+- When you check toes upward to force your muscle outlining the shin to harden
+- Checking a body kick with the lead leg point the check towards the kick with your hands posted as well
+	- Can then go to a jab cross from there
 
 ## Conclusion
 

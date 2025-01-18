@@ -1,13 +1,8 @@
-# Hit The Target 1
+# Pull Jab Drill
 
 $$
-Jab, Push Chest, Overhand with rear Hand
+1 -> Pull -> 1 -> 1 -> 2
 $$
-
-$$
-1 -> Push Chest -> Rear Hand Overhand
-$$
-
 ---
 Topics ::  [[Dutch Kickboxing]] 
 Reference ::
@@ -18,4 +13,4 @@ TAF ::
 Discussion ::
 Dis_Topic :: 
 Resolved ::
-Date :: 2024-07-27 12:06
+Date :: 2025-01-17 20:18

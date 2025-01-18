@@ -2,7 +2,7 @@
 
 ## Definition:
 
-- An [[Algorithm]] that can help us pick the number of clusters for us
+- An [[Zettelkasten/Algorithm]] that can help us pick the number of clusters for us
 - Based on finding cluster [[centroids]]
 - Algorithm automatically looks for blobs in the data that can be potential candidates for clusters
 - Using the blobs the algorithm finds a number of candidate centroids

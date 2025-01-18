@@ -3,7 +3,7 @@
 - [[Fixed Length Sliding Window]]
 - [[Variable Length Sliding Window]]
 ---
-Links :: [[Computer Science]] [[Algorithm]] [[Algorithmic Technique]] [[interview aid]]
+Links :: [[Computer Science]] [[Zettelkasten/Algorithm]] [[Algorithmic Technique]] [[interview aid]]
 Reference ::
 Type :: #atom
 Creator ::

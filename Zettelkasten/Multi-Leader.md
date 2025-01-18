@@ -16,7 +16,7 @@
 		- Best way to resolve is to prevent it from happening. Ensure all writes for a particular record go through the same leader
 - [[Replication Topology]]
 ---
-Links :: [[Computer Science]] [[Algorithm]] [[Replication Algorithm's]] [[Replication]] [[System Design]]
+Links :: [[Computer Science]] [[Zettelkasten/Algorithm]] [[Replication Algorithm's]] [[Replication]] [[System Design]]
 Reference :: [[Designing Data Intensive Applications]]
 Type :: #atom
 Creator ::

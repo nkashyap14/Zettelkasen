@@ -4,6 +4,10 @@ $$
 Jab, BodyCross, LeadHook, Low Kick
 $$
 
+$$
+1 -> 2_{body} -> 3 -> Low kick
+$$
+
 ---
 Topics ::  [[Dutch Kickboxing]] 
 Reference ::

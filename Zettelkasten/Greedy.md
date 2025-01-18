@@ -3,6 +3,8 @@
 ## Summary
 
 - A greedy algorithm makes locally optimal choices at each step, hoping these choices lead to a globally optimal solution. It picks the best immediate option without looking ahead or backtracking.
+- Says that a problem should be solved in stages by taking one step at a time while considering one input at a time
+	- Has predefined procedures through which following we can obtain the optimal solution
 
 ## Key Characteristics
 
@@ -68,6 +70,6 @@ def greedy_solution(input):
 4. Missing edge cases where local optimum ≠ global optimum
 
 Type :: #topic #algorithm
-Links :: [[Computer Science]] [[Algorithm]] [[Algorithmic Technique]]
+Links :: [[Computer Science]] [[Zettelkasten/Algorithm]] [[Algorithmic Technique]]
 Creator ::
 Date ::  2025-01-05 20:07

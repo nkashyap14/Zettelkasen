@@ -15,13 +15,13 @@ $$
 4 = Rear hook
 $$
 $$
-5 = 
+5 = Liver shot
 $$
 $$
-6 = 
+6 = lead upper
 $$
 $$
-7 = 
+7 = Rear upper
 $$
 
 

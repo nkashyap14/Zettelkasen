@@ -24,13 +24,15 @@
 		- Problems where the final solution can be constructed from optimal solutions to its subproblems
 ## Subproblems
 
-- [[0/1 Knapsack]]
+- [[0_1 Knapsack]]
 - [[Coin Change]]
 - [[N-th Tribonacci Number]]
 - [[Maximum Product Subarray]]
 - [[Word Break]]
 - [[Longest Increasing Subsequence]]
 - [[Partition Equal Subset Sum]]
+- [[Unique Paths]]
+- [[Unique Paths II]]
 ## Details
 
 ## Terms Defined
