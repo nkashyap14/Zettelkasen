@@ -93,6 +93,8 @@
 - [[Min Cost to Connect All Points]]
 - [[Cheapest Flights Within K Stops]]
 - [[Counting Bits]]
+- [[Sum of Two Integers]]
+- [[Reverse Integer]]
 ## Subtopics
 
 - [[Amazon Leetcode]]

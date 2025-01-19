@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Kickboxing Longform Combos.md",
+                "file": "Zettelkasten/Reverse Integer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kickboxing Longform Combos"
+              "title": "Reverse Integer"
             }
           },
           {
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Kickboxing Longform Combos.md",
+                "file": "Zettelkasten/Reverse Integer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kickboxing Longform Combos"
+              "title": "Backlinks for Reverse Integer"
             }
           },
           {
@@ -386,8 +386,11 @@
   },
   "active": "641f295357c6a939",
   "lastOpenFiles": [
-    "Zettelkasten/Boxing Tyson Step Combo.md",
+    "Zettelkasten/Neetcode 150.md",
+    "Zettelkasten/Reverse Integer.md",
+    "Zettelkasten/Sum of Two Integers.md",
     "Zettelkasten/Kickboxing Longform Combos.md",
+    "Zettelkasten/Boxing Tyson Step Combo.md",
     "Zettelkasten/Orthodox vs Open Stance.md",
     "Zettelkasten/Open Stance.md",
     "Zettelkasten/Step Left Kickboxing Combo.md",
@@ -409,9 +412,6 @@
     "Zettelkasten/Cross Upper Upper Cross.md",
     "Zettelkasten/Pull Jab Drill.md",
     "Zettelkasten/Defend the Jab Drill.md",
-    "Zettelkasten/Defensive Options Drill.md",
-    "Zettelkasten/Cain Combos.md",
-    "Zettelkasten/Cain 3.md",
     "0",
     "Zettelkasten/Untitled 1.canvas",
     "Zettelkasten/Untitled.canvas",
