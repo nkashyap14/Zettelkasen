@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Reverse Integer.md",
+                "file": "Zettelkasten/Neetcode 150.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Integer"
+              "title": "Neetcode 150"
             }
           },
           {
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Reverse Integer.md",
+                "file": "Zettelkasten/Neetcode 150.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reverse Integer"
+              "title": "Backlinks for Neetcode 150"
             }
           },
           {
@@ -386,7 +386,11 @@
   },
   "active": "641f295357c6a939",
   "lastOpenFiles": [
+    "Zettelkasten/Multiply Strings.md",
     "Zettelkasten/Neetcode 150.md",
+    "Zettelkasten/Pow(x,n).md",
+    "Zettelkasten/Set Zeroes in Matrix.md",
+    "Zettelkasten/Rotate Matrix.md",
     "Zettelkasten/Reverse Integer.md",
     "Zettelkasten/Sum of Two Integers.md",
     "Zettelkasten/Kickboxing Longform Combos.md",
@@ -408,10 +412,6 @@
     "Zettelkasten/Exit Combo.md",
     "Zettelkasten/Jab Roll Combo.md",
     "Zettelkasten/Dutch Kickboxing.md",
-    "Zettelkasten/Knees.md",
-    "Zettelkasten/Cross Upper Upper Cross.md",
-    "Zettelkasten/Pull Jab Drill.md",
-    "Zettelkasten/Defend the Jab Drill.md",
     "0",
     "Zettelkasten/Untitled 1.canvas",
     "Zettelkasten/Untitled.canvas",

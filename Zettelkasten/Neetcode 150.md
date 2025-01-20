@@ -95,6 +95,10 @@
 - [[Counting Bits]]
 - [[Sum of Two Integers]]
 - [[Reverse Integer]]
+- [[Rotate Matrix]]
+- [[Set Zeroes in Matrix]]
+- [[Pow(x,n)]]
+- [[Multiply Strings]]
 ## Subtopics
 
 - [[Amazon Leetcode]]
