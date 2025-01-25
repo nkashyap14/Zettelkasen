@@ -99,6 +99,8 @@
 - [[Set Zeroes in Matrix]]
 - [[Pow(x,n)]]
 - [[Multiply Strings]]
+- [[Minimum Window Substring]]
+- [[Detect Squares]]
 ## Subtopics
 
 - [[Amazon Leetcode]]

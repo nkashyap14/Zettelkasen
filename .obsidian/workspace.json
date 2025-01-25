@@ -285,7 +285,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 221.5086555480957
   },
   "right": {
     "id": "b8b133660cb2c254",
@@ -369,8 +369,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e07a63af899fd5d",
+  "active": "b83eba27e74eb705",
   "lastOpenFiles": [
+    "Zettelkasten/Minimum Window Substring.md",
+    "Zettelkasten/Detect Squares.md",
     "Zettelkasten/Breath Workouts.md",
     "Zettelkasten/Dr. Andy Galpin How to Build Strength, Muscle Size & Endurance.md",
     "Zettelkasten/Dynamic Energy Formula.md",
@@ -395,8 +397,6 @@
     "Zettelkasten/Remove Nth Node From End of List.md",
     "Zettelkasten/Find Duplicate Integer.md",
     "Zettelkasten/Copy List with Random Pointer.md",
-    "Zettelkasten/Add Two Numbers.md",
-    "Zettelkasten/Number of Connected Components in an Undirected Graph.md",
     "0",
     "Zettelkasten/Untitled 1.canvas",
     "Zettelkasten/Untitled.canvas",
