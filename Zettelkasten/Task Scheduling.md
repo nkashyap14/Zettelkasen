@@ -35,6 +35,7 @@ class Solution:
 
         while q or maxHeap:
             time += 1
+            #if there are still tasks to be scheduled
             if maxHeap:
 	            #process the most frequent character at time t_i
                 cnt = 1 + heapq.heappop(maxHeap)

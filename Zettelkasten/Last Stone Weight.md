@@ -29,12 +29,15 @@ Output: 1
 ```
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
+	    #negate the values as we want a max heap
         stones = [num * -1 for num in stones]
         heapq.heapify(stones)
 
         while stones and len(stones) > 1:
             x, y = heapq.heappop(stones), heapq.heappop(stones)
+            #if the second value is > aka a smaller negative aka in reality a smaller value
             if y > x:
+	            #subtract the negative value from x so it becomes a smaller negative
                 x = x - y
                 heapq.heappush(stones, x)
 
@@ -53,7 +56,7 @@ class Solution:
 
 #### Runtime of Optimal Solution
 
-- N(log n), O(n) to build the array. However O(N log n) dominates. The reason nlogn arises is there are log n to push and pop from a heap and we will be doing that up to n times
+- N(log n), O(n) to build the array. However O(N log n) dominates. The reason n logn arises is there are log n to push and pop from a heap and we will be doing that up to n times
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Neetcode 150]]
 Reference ::

@@ -1,0 +1,210 @@
+# Dr. Andy Galpin How to Build Strength, Muscle Size & Endurance
+
+#### General Notes
+
+- 9 Different adaptations you can get from exercise
+	- Fat loss not one
+	- [[Skill]]
+		- Moving mechanically
+	- [[Speed]]
+		- Moving as fast as possible
+		- Will not get much cardiovascular adaptation from speed as speed is very low intensity, very low rep range, very high rest
+	- [[Strength]]
+	- [[Power]]
+		- function of speed and strength
+		- Speed * strength
+	- [[Hypertrophy]]
+		- Muscle size
+	- [[Muscular Endurance]]
+		- How many pushups in one minute
+	- [[Anaerobic Power]]
+		- ability to produce work for 30-1 minute
+	- [[VO2 Max]]
+		- Ability to produce work for 3-12 minutes
+		- Max imum heart rate
+	- [[Long Duration Endurance]]
+		- Ability to sustain work
+		- 30 minutes plus no break
+- Adaptation happens as a byproduct of stress
+	- Do exact same workout over time don't expect much improvement
+- Laws of Training:
+	- [[Progressive Overload]] is important
+		- Can come from adding more repetitions
+		- Come from more volume in the week
+		- Go from partial range of motion to full range of motion
+	- Exercises themselves do not determine adaptations. Proper execution does
+	- All joints through all range of motion
+		- Ankles should go through full range of motion
+		- Knee should go through full range of motion
+		- Hip
+		- Elbow etc
+		- Across the entire workout
+		- A good full body joint workout would be [[Full Snatch]]
+		- Doesn't even have to be through the entire day but at least throughout the week
+		- Strength development and Hypertrophy is generally enhanced with a larger range of motion training
+- Strength and Hypertrophy bear some relation
+	- Progressive overload principles related to these
+- Modifiable variables for workouts:
+	- Choice:
+		- Exercise choice
+			-  Deadlifting would be better for strength development not best choice for something like long duration endurance development
+			- Single joint isolation movements are not best for developing power
+			- Want to improve quads? Do  something like goblet squats
+			- Need to consider movement pattern and what muscle groups you are hitting to prioritize
+			- For endurance
+				- Ideally choose concentric exercises like cycling, swimming, rowing as opposed to something like running which is more eccentric which has a greater chance of muscle damage soreness etc
+				- Running uphill is more concentric than eccentric compared to something like downhill
+				- For normal people oriented towards health 150-180 minutes of zone two cardio is ideal
+					- barely have a conversation
+				- Zone two cardio does not block hypertrophy/strength gains so can do it daily
+					- before or after strength training is fine. idt doesn't matter
+						- Concurrent training:
+						- Interference effect study with [[Bob Hickman]] and [[John Holloszy]]
+						- 3 groups, 1 strength training, 1 steady state cardio/endurance, 1 group combined
+						- strength group maxximized strength gains, running maximized vo2 max and endurance marker gains
+						- combined group/concurrent taining (hypertrophy/strength stacked on top of some steady state endurance) had the same improvements in VO2 max but lower increases in strength than hypertrophy
+							- a running exercise will effet more than a very low zone 2 cycling
+				- Roughly 1 time a week need to do a workout that gets us to our max heart rate minimum.
+					- Can even do it 4 times a week
+					- 220 - age: for me 220 - 28 = 192
+					- Ideally 4-8 bouts of 90 econds max heart rate workoust
+					- This type of workout is very complementary with hypertrophy training
+		- Intensity
+			- Percentage of 1 Rep Max
+			- Percentage of Maximum Heart Rate
+			- Percentage of VO2 Max
+			- Can use conversion charts to determine one rep max
+			- Is the primary driver of strength
+			- Is the variable that differentiates between power focused and strength focused
+				- Strength 85%+ of your max
+				- Power has to be a lot lighter as you are moving towards the velocity end of the spectrum
+					- 40-70% range +-
+				- Can have same volume
+		- Volume:
+			- How many reps
+				- If going for [[Hypertrophy]] then a repetition rep range of somewhere between 5-30 reps per set could be good
+				- For hypertrophy have to go to muscular failure + then also need enough rest for the adaptation and protein synthesis to occur
+			- How many sets
+			- Minimum threshold is 10 working sets per muscle group per week
+			- Probably want more like 15-20
+			- For well trained 20-25
+			- For speed power strength something as simple as 3-5 exercises per workout for 3-5 reps for 3-5 sets with 3-5 minutes of rest in between 3-5 times a week could be enough
+		- Rest Intervals
+			- Amount of time in between a set
+			- Would have high rest intervals in strength workouts
+				- 2-4 minutes
+		- Progression/[[Progressive Overload]]
+		- Training Frequency
+			- Training frequency depends on what adaptation you are seeking
+			- For strength:
+				- Minimum viability is 2 times per week for muscle group
+				- Can do every single day
+				- 3 is great 2 is effective
+			- Hypertrophy/Muscle size? Hedge twoards recovery
+				- [[Protein Synthesis]]/Building of new tissue takes time, 48-72 hours
+			- Because intensity is the primaary driver of strength frequency can be as high as you want if seeking strength. Can train every single day the exact same muscle
+			- Frequency is not that important in that you can have lower frequency workouts but be fine as long as you get to same total volume. Issue is total volume gets harder to hit as you haev to do more work in that one workout
+- Soreness is a terrible proxy for exercise quality
+	- On a scale of 1-10 probably want to be at 3 post workout
+	- Sore muscles can be trained
+- When crafting a fairly well rounded workout can choose 4 exercises
+	- One upper body press
+	- One upper body pull
+	- One lower body hinge
+	- One lower  body press
+	- This would be a decently well round workout
+- [[Henneman Size Principle]]
+	- There is a certain recruitment threshold needed for neurons to fire
+	- 2 types of muscle fibers, fast twitch and slow twitch
+	- Slow activated first as they are associated with low threshold motor neurons
+	- Activate higher threshold ones by demanding the muscle to produce more force
+	- As we age we lose fast twitch preferentially and thats an issue as we lose a lot of our strength in size
+		- As we age want to work to keep these fibers alive and intact
+- Laws of specificity:
+	- Specific adaptation to imposed demand
+	- Adaptation/result of our training is going to be a reflection of the demand that you imposed
+	- So  to get stronger need to impose a demand of strength not repetitions
+		- Load has to be high
+		- Like for strength if youre moderately trained 75% of 1rep max, 85% of one rep max at low reps like 5 per set or less. Total sets is up to personal fitness level
+			- At least 3 sets is good enough, working sets. need to warm up to that level as well
+			- Do a set of 10 at 50%, set of eight at 60%, set of 8 again at 70%
+- Can superset in between long rest intervals if you are hitting other muscle groups
+	- Will reduce the strength gains but only by a tiny amount. Not by a ton. Only relevant for prof's going for something like world records
+	- Could do a push, pull, push, pull without compromising total intensity
+- If you want to do workouts that give the most physiological adaptations across the most categories
+	- Hypertrophy training
+	- Anaerobic Conditioning
+	- Those two will hit most systems at once
+- Strength development is a combination of 3 areas
+	- muscle contraction has same 3 things
+		- 1st: Signal from somewhere in the body whether top or at spine  that tells muscle to contract
+		- 2: muscle contraction
+			- Alot of variables inside muscle tissue that determine functionality
+			- Intrinsic fibers determine functionality. Can have differences across people
+			- Muscle fibers contract, surrounded with connective tissue with more connective 
+		- 3: Connective tissue
+			- tissue that all surrounds into a muscle. THe muscle is thhen surrounded with more connective tissue and that becomes a tendon which attaches to the bone
+				- The pulling of the tendon that moves the bone causes human movement
+	- Changes happen at all 3 levels
+- There is a relationship between muscle size and strength though it is not 1 to 1 guarnateed ratio
+- Recent scientific literature says that for power development and speed development the intent to move is more important than the actual movement velocity
+	- Are you doing enough to check off a box or are you striving for some sort of adaptation
+- Mind Body  connection:
+	- Will have more hypertrophy gains if even if you are doing something like a bicep curl you are looking and watching yourself while doing it and thinking about it contracting harder
+- Proprioceptive feedback is that there are nerves that extend out to the muscles that control muscle contractions but there are also sensory inputs from the skin and muscle that go back into the nervous system and those work in concert and that feedback is proprioceptive
+	- Knowledge of where one's limbs are and whats happening on them in space
+- Eccentrics are great for strength development, very good for hypertrophy, and help you focus on control
+	- Break the movement down into smaller fieces so you can focus on execution more
+	- Good strategy to use to learn to how to activate a muscle group
+- Breathing Strategies during wokrouts:
+	- Decent strategy is to maintain a breath hold during the lowering/eccentric/ most dangerous part of the movement and then an exhale  on the concentric
+	- Ex Bench press:
+		- Hold during lowering, exhale during pushing
+	- Good breathing workout to recover:
+		- Nasal breathing as much as opossible
+		- Double exhale length relative to inhale
+		- Do a five minute down regulation post workouts
+			- Leads to quicker recovery workout to workout
+		- Acts as an internal signal that you are safe and for the system to throttle down/dump adrenaline
+- Galpin equation:
+	- Benefits of hydration - consequences of mishydration
+	- Hyponatremia:
+		- Sodium concentration being too low
+		- Muscle contraction ends
+	- Don't wnat to be over or underhydrated
+	- Drink half your body weight in ounces per day
+	- so for me 90 ounces
+	- Probably 90% good. with exercise maybe consume 125-150% of the aount of weight you lost in fluid
+		- lost 2 pounds in water weight = 32 ounces need to drink 40 oz
+- Can gauge recovery  throguh two different ways
+	- Grip strength
+		- Especially upon waking in the morning
+	- CO2 Tolerance test
+		- Ability to do long controlled exhale after a few rhythmic deep breaths
+- Tracking recovery:
+	- Visible Stressors
+	- Hiddens tressors
+	- Recoveyr capacity
+		- When total stress load outpaces recovery capacity you are going backwards in physical ability or reducing adapatability
+		- Can reduce stress intake
+		- Or increase recovery capacity
+- Useful supplements:
+	- Beta alanine
+	- Baking soda
+	- Creatine monohydrate
+#### Linked Topics
+
+- [[Breath Workouts]]
+
+
+
+Institution::
+Class Name::
+Professor:: [[Andy Galpin]] [[Andrew Huberman]]
+Video Link:: https://www.youtube.com/watch?v=IAnhFUUCq6c&ab_channel=AndrewHuberman
+Type:: #source #academic 
+Topics :: [[Nutrition]] [[Strength Training]] [[Hypertrophy]] [[Cardio]] [[VO2 Max]] [[Strength and Conditioning]]
+Creator ::
+Date :: 2025-01-25 09:57
+
+

@@ -46,7 +46,14 @@ class Solution(object):
 - [[Heap]]
 #### Important Subdetails
 
+- Sorting guarantees us that the starts of all the events in the heap are earlier than the event being considered
+- So when we check for our start being > the end of the min event on the heap we know that if the start is > than theres no overlap while if the start is < the end that means not only does that event overlap with the evnet on the top of hte heap but also all other events because those events have ends after the top element, and also have starts before the current event
+- Best val represents the best value seen so far that can be paired with the current event in question
+
 #### Runtime of Optimal Solution
+
+- O(n log n) runtime because of sorting and the pushing and popping from the heap
+- O(n) space complexity for building the heap
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Leetcode Problem]]
 Reference ::

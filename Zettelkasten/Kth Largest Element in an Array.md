@@ -39,7 +39,6 @@ class Solution:
 # Quick Select
 # Time complexity: O(n) in average, O(n^2) in worst case
 class Solution:
-
     def findKthLargest(self, nums: List[int], k: int) -> int:
         k = len(nums) - k
         left, right = 0, len(nums) - 1

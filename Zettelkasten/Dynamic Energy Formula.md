@@ -8,7 +8,7 @@ $$
 	- Represents the equation of a pulse during logic transition of 0 -> 1 -> 0 or 1 -> 0 -> 1
 	- Single transition = same formula * 1/2
 
-- Total [[Power]] required per [[transistor]] thus becomes
+- Total [[Power (CS)]] required per [[transistor]] thus becomes
 $$
 Power \approx \frac{1}{2} * Capacitive Load*Voltage^2*Frequency Switched
 $$
