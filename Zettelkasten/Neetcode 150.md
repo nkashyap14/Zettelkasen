@@ -101,6 +101,8 @@
 - [[Multiply Strings]]
 - [[Minimum Window Substring]]
 - [[Detect Squares]]
+- [[Merge K Sorted Linked Lists]]
+- [[Median of Two Sorted Arrays]]
 ## Subtopics
 
 - [[Amazon Leetcode]]

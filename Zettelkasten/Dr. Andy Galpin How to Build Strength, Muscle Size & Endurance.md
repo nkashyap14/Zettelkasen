@@ -195,6 +195,8 @@
 #### Linked Topics
 
 - [[Breath Workouts]]
+- [[Power Workout]]
+- [[Anaerobic Workout 1]]
 
 
 

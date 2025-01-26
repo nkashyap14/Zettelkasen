@@ -3,6 +3,7 @@
 ## Problems
 
 - [[Find Eventual Safe States]]
+- [[Make Lexicographically Smallest Array by Swapping Elements]]
 ## Subtopics
 
 - [[Amazon Leetcode]]
