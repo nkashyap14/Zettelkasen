@@ -30,7 +30,7 @@ class Solution:
         adj = defaultdict(list)
 
         for src, dest, time in times:
-            adj[src].append((dest, time)
+            adj[src].append((dest, time))
   
 
         minHeap = [(0, k)]

@@ -64,6 +64,7 @@ class Graph:
 ## Problems that use it
 
 - [[Network Delay]]
+- [[Swim in Rising Water]]
 
 Type :: #topic
 Links :: [[Computer Science]]
