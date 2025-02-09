@@ -4,6 +4,7 @@
 
 - [[Find Eventual Safe States]]
 - [[Make Lexicographically Smallest Array by Swapping Elements]]
+- [[Count Number of Bad Pairs]]
 ## Subtopics
 
 - [[Amazon Leetcode]]
