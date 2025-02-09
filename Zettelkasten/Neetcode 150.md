@@ -103,6 +103,10 @@
 - [[Detect Squares]]
 - [[Merge K Sorted Linked Lists]]
 - [[Median of Two Sorted Arrays]]
+- [[Swim in Rising Water]]
+- [[Distinct Subsequences]]
+- [[Longest Increasing Path in Matrix]]
+- [[Minimum Interval to Include Each Query]]
 ## Subtopics
 
 - [[Amazon Leetcode]]
