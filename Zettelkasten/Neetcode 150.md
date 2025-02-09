@@ -103,10 +103,18 @@
 - [[Detect Squares]]
 - [[Merge K Sorted Linked Lists]]
 - [[Median of Two Sorted Arrays]]
+<<<<<<< HEAD
 - [[Swim in Rising Water]]
 - [[Distinct Subsequences]]
 - [[Longest Increasing Path in Matrix]]
 - [[Minimum Interval to Include Each Query]]
+=======
+- [[Largest Rectangle in Histogram]]
+- [[Alien Dictionary]]
+- [[Binary Tree Maximum Path Sum]]
+- [[Find Median In A Data Stream]]
+- [[Word Search II]]
+>>>>>>> 0e467a15d5001aae47dd21adbf0c766b8fa09492
 ## Subtopics
 
 - [[Amazon Leetcode]]
