@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "33bf4bc9e124126b",
+        "id": "202f4e46adc7f412",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5385cd893d558a",
+            "id": "42a5768da80b3c81",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,8 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d5385cd893d558a",
+  "active": "42a5768da80b3c81",
   "lastOpenFiles": [
+    "Zettelkasten/Burst Balloons.md",
+    "Zettelkasten/Neetcode 150.md",
+    "Zettelkasten/Regular Expression Matching.md",
+    "Zettelkasten/2025-02-10.md",
     "Zettelkasten/Count Number of Bad Pairs.md",
     "Zettelkasten/Leetcode Daily Contests.md",
     "Zettelkasten/Word Search II.md",
@@ -172,7 +176,6 @@
     "Zettelkasten/Swim in Rising Water.md",
     "Zettelkasten/Make Lexicographically Smallest Array by Swapping Elements.md",
     "Zettelkasten/Minimum Interval to Include Each Query.md",
-    "Zettelkasten/Neetcode 150.md",
     "Zettelkasten/Longest Increasing Path in Matrix.md",
     "Zettelkasten/Distinct Subsequences.md",
     "Zettelkasten/Djikstra's Shortest Path Algorithm.md",
@@ -182,9 +185,6 @@
     "Zettelkasten/Reconstruct Flight Path.md",
     "Zettelkasten/Eulerian Path.md",
     "Zettelkasten/Eulerian Circuit.md",
-    "Zettelkasten/Conditions needed for an Eulerian Path or Circuit.md",
-    "Zettelkasten/Algorithm.md",
-    "Zettelkasten/Power Workout 1.md",
     "0",
     "Zettelkasten/Untitled 1.canvas",
     "Zettelkasten/Untitled.canvas",
