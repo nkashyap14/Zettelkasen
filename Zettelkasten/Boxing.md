@@ -11,6 +11,7 @@
 - [[Boxing Basic Defensive Combo]]
 - [[Tyson Step]]
 - [[Boxing Tyson Step Combo]]
+- [[Boxing Footwork Drills]]
 
 ## Details
 

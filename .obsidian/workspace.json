@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "202f4e46adc7f412",
+        "id": "60c6f02d73b49d71",
         "type": "tabs",
         "children": [
           {
-            "id": "42a5768da80b3c81",
+            "id": "22ce1f690fa72d34",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,8 +157,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42a5768da80b3c81",
+  "active": "22ce1f690fa72d34",
   "lastOpenFiles": [
+    "Zettelkasten/Flexibility + Mobility.md",
+    "Zettelkasten/Boxing Footwork Resistance Band Drills.md",
+    "Zettelkasten/Switched Steps + Pivots.md",
+    "Zettelkasten/Shuffle Step.md",
+    "Templates/Martial Arts Drill.md",
+    "Templates/Exercise.md",
+    "Zettelkasten/Boxing Footwork Drills.md",
+    "Zettelkasten/Boxing.md",
+    "Zettelkasten/Flexibility Exercises.md",
+    "Templates/Topic.md",
+    "Templates/Neetcode Problem.md",
     "Zettelkasten/Burst Balloons.md",
     "Zettelkasten/Neetcode 150.md",
     "Zettelkasten/Regular Expression Matching.md",
@@ -174,17 +185,6 @@
     "Zettelkasten/Binary Tree Maximum Path Sum.md",
     "Zettelkasten/Alien Dictionary.md",
     "Zettelkasten/Swim in Rising Water.md",
-    "Zettelkasten/Make Lexicographically Smallest Array by Swapping Elements.md",
-    "Zettelkasten/Minimum Interval to Include Each Query.md",
-    "Zettelkasten/Longest Increasing Path in Matrix.md",
-    "Zettelkasten/Distinct Subsequences.md",
-    "Zettelkasten/Djikstra's Shortest Path Algorithm.md",
-    "Zettelkasten/Graph Theory.md",
-    "Zettelkasten/Network Delay.md",
-    "Zettelkasten/Hierholzer's Algorithm.md",
-    "Zettelkasten/Reconstruct Flight Path.md",
-    "Zettelkasten/Eulerian Path.md",
-    "Zettelkasten/Eulerian Circuit.md",
     "0",
     "Zettelkasten/Untitled 1.canvas",
     "Zettelkasten/Untitled.canvas",
