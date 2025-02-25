@@ -2,11 +2,14 @@
 
 ## Exercises
 
-- [[90/90 Hip Rotation]]
+- [[90_90 Hip Rotation]]
 - [[Hip Flexor Raises]]
 - [[Walkout pushup Cobra with Rotation]]
 - [[Walkout pushup with hip flexion + arm rotation]]
 - [[Face Down Lumbar rotations]]
+- [[Kneeling Hip Opener]]
+- [[Raised Pigeon Pose]]
+- [[Kneeling Thoracic Extension]]
 
 
 Type :: #topic

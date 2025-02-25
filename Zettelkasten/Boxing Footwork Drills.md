@@ -5,7 +5,8 @@
 ## Subtopics
 
 - [[Boxing Footwork Resistance Band Drills]]
-- 
+- [[Gervonta Davis Footwork Drill]]
+- [[Beginner Boxing Footwork Drills]]
 ## Details
 
 ## Conclusion
