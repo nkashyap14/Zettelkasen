@@ -11,6 +11,7 @@
 - [[Raised Pigeon Pose]]
 - [[Kneeling Thoracic Extension]]
 - [[Splits Routine 1]]
+- [[Hook Kick Dynamic Stretches]]
 
 
 Type :: #topic

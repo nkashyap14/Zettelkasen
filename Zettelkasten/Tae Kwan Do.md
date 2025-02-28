@@ -6,6 +6,8 @@
 ## Subtopics
 
 - [[TKD Sidekick Drills]]
+- [[Hook Kick Dynamic Stretches]]
+- [[Hook Kick Basic Drill]]
 
 
 Type :: #topic
