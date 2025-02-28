@@ -1,4 +1,4 @@
-# Boxing Footwork Drills
+# Boxing Footwork Resistance Band Drills
 
 ## Summary
 
@@ -9,10 +9,7 @@
 - [[In and Outs]]
 - [[Weight Shifts]]
 - [[Single Leg Swings]]
-- [[Run in/Out]]
-## Details
-
-## Conclusion
+- [[Run in and Out]]
 
 
 Type :: #topic

@@ -9,7 +9,7 @@
 - Have a resistance band on the ground. Simply shuffle side to side around it. Focus on not circling solely on one direction as well. Try to incorporate left shuffle into right shuffle focusing on rapid switches in direction
 ## Image
 
-## Video Link if Applicable
+![[ezgif-2f77ee109890ba.gif]]
 
 
 

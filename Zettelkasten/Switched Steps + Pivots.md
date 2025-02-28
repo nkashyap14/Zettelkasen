@@ -12,8 +12,8 @@
 - Focus on switching multiple times for on the leg and then randomly when landing pivot on the lead leg cutting the angle
 - The pivot can be to either side
 ## Image
+![[ezgif-23b03c31371e3f.gif]]
 
-## Video Link if Applicable
 
 
 

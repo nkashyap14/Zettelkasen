@@ -10,6 +10,7 @@
 - [[Kneeling Hip Opener]]
 - [[Raised Pigeon Pose]]
 - [[Kneeling Thoracic Extension]]
+- [[Splits Routine 1]]
 
 
 Type :: #topic

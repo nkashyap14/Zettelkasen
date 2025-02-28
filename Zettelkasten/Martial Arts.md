@@ -6,7 +6,9 @@
 - [[Dutch Kickboxing]]
 - [[Wrestling]]
 - [[BJJ]]
-- 
+- [[Muay Thai]]
+- [[Boxing]]
+- [[Tae Kwan Do]]
 
 ## Details
 

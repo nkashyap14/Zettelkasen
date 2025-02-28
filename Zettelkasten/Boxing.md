@@ -12,6 +12,8 @@
 - [[Tyson Step]]
 - [[Boxing Tyson Step Combo]]
 - [[Boxing Footwork Drills]]
+- [[Canelo Boxing Body to Lead Hook]]
+- [[Boxing Handweight Drills]]
 
 ## Details
 
