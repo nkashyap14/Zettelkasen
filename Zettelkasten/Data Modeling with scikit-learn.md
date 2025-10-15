@@ -22,6 +22,6 @@
 
 
 Type :: #topic
-Links :: [[Computer Science]] [[Machine Learning]] [[sklearn]]
+Links :: [[Computer Science]] [[Machine Learning Georgia Tech]] [[sklearn]]
 Reference :: [[Educative]]
 Date ::  2024-09-08 17:07

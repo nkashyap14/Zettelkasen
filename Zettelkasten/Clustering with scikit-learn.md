@@ -18,6 +18,6 @@
 
 
 Type :: #topic
-Links :: [[Computer Science]] [[sklearn]] [[Machine Learning]] [[Clustering]]
+Links :: [[Computer Science]] [[sklearn]] [[Machine Learning Georgia Tech]] [[Clustering]]
 Reference :: [[Educative]]
 Date ::  2024-09-10 19:48

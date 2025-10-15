@@ -26,7 +26,7 @@ $$
 	- represents the minimum number of points in the neighborhood of a data observation for the observation to be considered a core sample
 - [[DBSCAN sklearn]]
 ---
-Links ::  [[Computer Science]] [[Clustering]] [[Machine Learning]]
+Links ::  [[Computer Science]] [[Clustering]] [[Machine Learning Georgia Tech]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

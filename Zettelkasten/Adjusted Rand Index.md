@@ -13,7 +13,7 @@
 - Used when true clusters are large and approximately equally sized
 - When true clusters are unablanced in size and there are small clusters use [[Adjusted Mutual Information (AMI)]]
 ---
-Links ::  [[Computer Science]] [[Machine Learning]] [[Clustering]] [[Metric]]
+Links ::  [[Computer Science]] [[Machine Learning Georgia Tech]] [[Clustering]] [[Metric]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

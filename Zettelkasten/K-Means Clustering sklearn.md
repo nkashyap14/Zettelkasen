@@ -23,7 +23,7 @@ print('{}\n'.format(repr(kmeans.predict(new_obs))))
 
 - KMeans object uses [[K-means++ algorithm]] to initialize [[centroids]] by default
 ---
-Links :: [[#Example Code]] [[Computer Science]] [[sklearn]] [[Machine Learning]]
+Links :: [[#Example Code]] [[Computer Science]] [[sklearn]] [[Machine Learning Georgia Tech]]
 Reference ::
 Type :: #code
 Creator ::

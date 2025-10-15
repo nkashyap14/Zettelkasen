@@ -6,7 +6,7 @@
 - Low error rates and high [[Variance]] are good indicators of overfitting
 - If training data has low error rate and test data has high error rate it indicates overfitting
 ---
-Links :: [[Computer Science]] [[Machine Learning]] [[Model]]
+Links :: [[Computer Science]] [[Machine Learning Georgia Tech]] [[Model]]
 Reference ::
 Type :: #atom
 Creator ::

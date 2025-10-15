@@ -35,7 +35,7 @@ acc = metrics.accuracy_score(test_labels, predictions)
 print('Accuracy: {}\n'.format(acc))
 ```
 ---
-Links ::  [[Computer Science]] [[Machine Learning]] [[sklearn]]
+Links ::  [[Computer Science]] [[Machine Learning Georgia Tech]] [[sklearn]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

@@ -13,7 +13,7 @@ print('R2: {}\n'.format(reg.score(data, labels))) #prints the r2 score from -inf
 - There is a LassoCV object that can be used to pick the optimal alpha value
 	- Reference [[RidgeRegression sklearn]] to see how to use it as the process is similar
 ---
-Links :: [[#Example Code]] [[Machine Learning]] [[scikit-learn]] [[Computer Science]] [[cross validation]]
+Links :: [[#Example Code]] [[Machine Learning Georgia Tech]] [[scikit-learn]] [[Computer Science]] [[cross validation]]
 Reference ::
 Type :: #code
 Creator ::

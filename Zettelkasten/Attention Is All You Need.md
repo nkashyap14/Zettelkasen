@@ -39,5 +39,5 @@ Author:: [[Ashish Vaswani]]
 Type:: #source #paper
 Org:: [[Google Brain]] [[Google Research]] [[University of Toronto]]
 Link:: [[Computer Science]] [[Artificial Intelligence]]
-Topics:: [[Machine Learning]] 
+Topics:: [[Machine Learning Georgia Tech]] 
 Date:: 2024-09-07 10:21

@@ -14,7 +14,7 @@ print('{}\n'.format(repr(cos_sims)))
 
 
 ---
-Links :: [[#Example Code]] [[Computer Science]] [[sklearn]] [[Machine Learning]] [[Clustering]]
+Links :: [[#Example Code]] [[Computer Science]] [[sklearn]] [[Machine Learning Georgia Tech]] [[Clustering]]
 Reference ::
 Type :: #code
 Creator ::

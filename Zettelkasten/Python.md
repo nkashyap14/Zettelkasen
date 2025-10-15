@@ -3,7 +3,7 @@
 ## Summary
 - Python is a [[high level programming language | high-level]] [[interpreted language|interpreted]] programming language 
 - Supports procedural, [[OOP]], and [[functional programming]]
-- Is a versatile language thanks to its standard library + extensive ecosystem of third party packages. Very popular in [[Machine Learning]] and [[Data Science]]
+- Is a versatile language thanks to its standard library + extensive ecosystem of third party packages. Very popular in [[Machine Learning Georgia Tech]] and [[Data Science]]
 ## Subtopics
 - [[Cpython]]
 - [[Python Garbage Collector]]:

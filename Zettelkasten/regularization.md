@@ -9,7 +9,7 @@
 	- [[L2 Regularization (Ridge)]]]
 ---
 Links ::  [[Computer Science]] 
-Reference ::   [[Machine Learning]]
+Reference ::   [[Machine Learning Georgia Tech]]
 Type :: #definition
 Discussion ::
 Date :: 2024-09-08 17:30

@@ -14,6 +14,7 @@
 - **Kernel**: The core part of the OS, managing hardware and system calls.
 - **Shell**: Interface for users to interact with the system via commands.
 - **File System**: Organizes and manages files and directories.
+- [[PAM (Pluggable Authentication Modules)]]
 
 ### Distributions:
 

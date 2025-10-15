@@ -16,7 +16,7 @@ A recurrent neural network (RNN) is a type of artificial [[neural network]] desi
 5. Variants: There are several variants of RNNs, including [[Long Short-Term Memory (LSTM)]] and [[Gated Recurrent Unit (GRU) networks]], which address some limitations of basic RNNs.
 6. Training: RNNs are typically trained using [[backpropagation through time (BPTT)]], a modified version of the standard [[backpropagation]] algorithm.
 ---
-Links :: [[Recurrent Models]] [[Machine Learning]] [[Computer Science]]
+Links :: [[Recurrent Models]] [[Machine Learning Georgia Tech]] [[Computer Science]]
 Paper ::  [[Attention Is All You Need]]
 Type :: #paperdefinition
 Date :: 2024-09-07 10:25

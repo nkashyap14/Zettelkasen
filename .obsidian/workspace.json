@@ -4,53 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "60c6f02d73b49d71",
+        "id": "b4b23639047cd3ac",
         "type": "tabs",
         "children": [
           {
-            "id": "22ce1f690fa72d34",
+            "id": "454ea16839f70691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Boxing Footwork Drills.md",
+                "file": "Zettelkasten/Binary Tree Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boxing Footwork Drills"
+              "title": "Binary Tree Traversal"
             }
           },
           {
-            "id": "b4b42d1142f54695",
+            "id": "51ab645910439a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Boxing Handweight Drills.md",
+                "file": "Zettelkasten/Binary Tree Preorder Morris Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boxing Handweight Drills"
+              "title": "Binary Tree Preorder Morris Traversal"
             }
           },
           {
-            "id": "d3f79da6e7895c22",
+            "id": "94b864a92b66c06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Tae Kwan Do.md",
+                "file": "Zettelkasten/Coin Change II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tae Kwan Do"
+              "title": "Coin Change II"
+            }
+          },
+          {
+            "id": "163ddfa88ae7d317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Target Sum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Target Sum"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +97,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Tae Kwan Do.md",
+                "file": "Zettelkasten/Binary Tree Preorder Morris Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tae Kwan Do"
+              "title": "Backlinks for Binary Tree Preorder Morris Traversal"
             }
           },
           {
@@ -183,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -191,43 +206,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3f79da6e7895c22",
+  "active": "51ab645910439a58",
   "lastOpenFiles": [
-    "Zettelkasten/Hook Kick Basic Drill.md",
-    "Files/ezgif-4b33e5790609e8.gif",
-    "Files/ezgif-423613c4e53744.gif",
-    "Zettelkasten/Tae Kwan Do.md",
-    "Zettelkasten/Hook Kick Full Motion.md",
-    "Zettelkasten/Hook Kick Dynamic Stretches.md",
-    "Zettelkasten/Flexibility Exercises.md",
-    "Files/ezgif-457bcff46a7292.gif",
-    "Zettelkasten/Wipers Hook Kick.md",
-    "Files/ezgif-49a0a1192ef272.gif",
-    "Zettelkasten/Pivot & Pull Hook Kick.md",
-    "Zettelkasten/Rotate & Pull Hook Kick.md",
-    "Files/ezgif-42b1b7565a4496.gif",
-    "Files/ezgif-4d5b9b1dc5ba1f.gif",
-    "Zettelkasten/Splits Routine 1.md",
-    "Zettelkasten/Side lunge into seated frog pose.md",
-    "Zettelkasten/Boxing Handweight Drills.md",
-    "Zettelkasten/Handweight Body Head Combos.md",
-    "Files/ezgif-7da3c7eb056308.gif",
-    "Zettelkasten/Handweight Shoeshine Uppercuts.md",
-    "Zettelkasten/Handweight Alternating Hooks.md",
-    "Files/ezgif-7f8755d02adc10.gif",
-    "Files/ezgif-78461a850625c6.gif",
-    "Zettelkasten/Handweight 1-2 slip 2-1 slip.md",
-    "Files/ezgif-75b82f9dff01b0.gif",
-    "Zettelkasten/Handweight Alternating Straight Punches.md",
-    "Zettelkasten/Alternating Hooks.md",
-    "Zettelkasten/Boxing.md",
-    "Zettelkasten/Canelo Boxing Body to Lead Hook.md",
-    "Zettelkasten/Martial Arts.md",
-    "Zettelkasten/Boxing Footwork Drills.md",
-    "Zettelkasten/Side lunge + rotation.md",
-    "Zettelkasten/Frog pose into elevating back legs.md",
-    "Zettelkasten/Sitting V Hold.md",
-    "Zettelkasten/TKD Sidekick Drills.md",
+    "Zettelkasten/Binary Tree Traversal.md",
+    "Zettelkasten/Binary Tree Preorder Iterative Traversal.md",
+    "Zettelkasten/Binary Tree Preorder Morris Traversal.md",
+    "Zettelkasten/Binary Tree Preorder Recursive Traversal.md",
+    "Templates/Leetcode Pattern Implementation.md",
+    "Templates/Leetcode Fundamental Problem.md",
+    "Zettelkasten/leetcode.md",
+    "Zettelkasten/5_1_4 Example Linear Regression.md",
+    "Zettelkasten/Untitled 1.base",
+    "Zettelkasten/Untitled.base",
+    "Templates/Topic.md",
+    "Templates/Neetcode Problem.md",
+    "Zettelkasten/PAM RFC Notes.md",
+    "Zettelkasten/Modified DES algorithm.md",
+    "Zettelkasten/Password Mapping in PAM (Pluggable Authentication Modules)).md",
+    "Zettelkasten/Stacking in PAM (Pluggable Authentication Modules).md",
+    "Zettelkasten/Control Flag Semantics (PAM).md",
+    "Files/Pasted image 20251005104550.png",
+    "Zettelkasten/Configuration File Details (PAM).md",
+    "Files/Pasted image 20251005104047.png",
+    "Zettelkasten/Overview of Pam Framework (RFC Notes).md",
+    "Zettelkasten/Design Goals of PAM (Pluggable Authentication Modules).md",
+    "Zettelkasten/PAM (Pluggable Authentication Modules).md",
+    "Zettelkasten/Linux.md",
+    "Zettelkasten/Neetcode 150.md",
+    "Templates/Paper.md",
+    "Templates/Paper Definition.md",
+    "Templates/RFC Definition.md",
+    "Templates/RFC.md",
+    "Zettelkasten/Longest Palindromic Substring.md",
+    "Files/ezgif-65b40bc4260d32.gif",
+    "Files/ezgif-406b1ad8910a1a.gif",
+    "Files/ezgif-499b9f36fa1cd6.gif",
+    "Files/ezgif-46989be70f5b15.gif",
+    "Files/ezgif-49cda964b0d893.gif",
+    "Files/ezgif-47fa378854de73.gif",
+    "Files/ezgif-4b062ecedee8f7.gif",
+    "Files/ezgif-497ce77ab6ccff.gif",
     "Run in",
     "90",
     "0",
@@ -237,8 +255,6 @@
     "TCP",
     "Zettelkasten/Readiness",
     "Zettelkasten",
-    "Templates",
-    "References",
-    "Files"
+    "Templates"
   ]
 }

@@ -50,22 +50,32 @@ function union(x, y):
 ```
 class UnionFind:
     def __init__(self, size):
+	    #every node/vertex starts off as its own parent
         self.parent = [i for i in range(size)]
+        #every component starts off as a size of one
         self.rank = [1] * size
     
     def find(self, x):
+	    #while the node isnt the root/parent of its component
         while x != self.parent[x]:
+	        #set its parent = to the parent of its parent
+	        #aka every time we search for this nodes parent we set it equal to its grand parent compressing the path to the root node of the component
+	        #if we hit the rooot node well the parent of the root node is always itself so we will just be setting it to the root
             self.parent[x] = self.parent[self.parent[x]]  # Path compression
+            #set x equal to its parent and keep going
             x = self.parent[x]
         return x
     
     def union(self, x, y):
         px, py = self.find(x), self.find(y)
+        #if they are in the same set already we do not need to do the union operation
         if px == py: return False  # Already in same set
         
         # Union by rank
         if self.rank[px] > self.rank[py]:
+	        #px is greater by rank so we set the parent of the other components root to root px
             self.parent[py] = px
+            #then we add the rank of py to px
             self.rank[px] += self.rank[py]
         else:
             self.parent[px] = py

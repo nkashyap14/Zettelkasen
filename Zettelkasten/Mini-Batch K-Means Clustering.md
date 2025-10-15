@@ -7,7 +7,7 @@
 - In practice difference in quality is negligible so mini-batch clustering is usually the choice when dealing with large datasets
 - [[Mini-Batch K-Means Clustering sklearn]]
 ---
-Links ::  [[Computer Science]] [[Mini Batch]] [[Machine Learning]] [[Clustering]]
+Links ::  [[Computer Science]] [[Mini Batch]] [[Machine Learning Georgia Tech]] [[Clustering]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

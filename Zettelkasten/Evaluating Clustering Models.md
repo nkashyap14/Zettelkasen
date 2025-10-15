@@ -6,7 +6,7 @@
 - Evaluation Metrics:
 	- [[Adjusted Rand Index]]
 ---
-Links ::  [[Computer Science]] [[Clustering]] [[Machine Learning]]
+Links ::  [[Computer Science]] [[Clustering]] [[Machine Learning Georgia Tech]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

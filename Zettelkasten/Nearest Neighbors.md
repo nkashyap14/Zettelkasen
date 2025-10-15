@@ -7,7 +7,7 @@
 	- k represents the number of neighbors
 - [[Sklearn Nearest Neighbors]]
 ---
-Links ::  [[Computer Science]] [[Machine Learning]]
+Links ::  [[Computer Science]] [[Machine Learning Georgia Tech]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

@@ -11,7 +11,7 @@ print('First 10:\n{}\n'.format(repr(new_data[:10])))
 
 - n_clusters specifies new feature dimensions of the data
 ---
-Links :: [[#Example Code]] [[Computer Science]] [[sklearn]] [[Clustering]] [[Machine Learning]]
+Links :: [[#Example Code]] [[Computer Science]] [[sklearn]] [[Clustering]] [[Machine Learning Georgia Tech]]
 Reference ::
 Type :: #code
 Creator ::

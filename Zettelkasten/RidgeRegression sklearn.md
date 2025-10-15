@@ -21,7 +21,7 @@ print('Intercept: {}\n'.format(reg.intercept_))
 print('Chosen alpha: {}\n'.format(reg.alpha_))
 ```
 ---
-Links :: [[#Example Code]] [[Machine Learning]] [[scikit-learn]] [[Computer Science]]
+Links :: [[#Example Code]] [[Machine Learning Georgia Tech]] [[scikit-learn]] [[Computer Science]]
 Reference ::
 Type :: #code
 Creator ::

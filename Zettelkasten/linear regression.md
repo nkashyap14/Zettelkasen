@@ -13,7 +13,7 @@ $$
 - Simplest form of linear regression is [[least squares regression]]
 - [[LinearRegression Sklearn|Example of coding Linear Regression in Sklearn]]
 ---
-Links ::  [[Computer Science]] [[Machine Learning]] [[Regression]]
+Links ::  [[Computer Science]] [[Machine Learning Georgia Tech]] [[Regression]]
 Reference ::  [[Educative]] [[Data Modeling with scikit-learn]]
 Type :: #definition
 Discussion ::

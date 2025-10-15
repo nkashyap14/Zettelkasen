@@ -7,7 +7,7 @@
 	- [[Bottom-up (Divisive) Clustering]]
 	- [[Top-Down (Agglomerative) Clustering]]
 ---
-Links ::  [[Computer Science]] [[Machine Learning]] [[Clustering]]
+Links ::  [[Computer Science]] [[Machine Learning Georgia Tech]] [[Clustering]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

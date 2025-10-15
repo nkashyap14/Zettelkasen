@@ -14,6 +14,7 @@
 - [[Boxing Footwork Drills]]
 - [[Canelo Boxing Body to Lead Hook]]
 - [[Boxing Handweight Drills]]
+- [[Boxing Reaction Drills]]
 
 ## Details
 

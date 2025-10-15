@@ -17,7 +17,7 @@ $$
 - Denominators are [[L2 norm|L2 norms]]
 - [[Cosine Similarity sklearn]]
 ---
-Links ::  [[Computer Science]] [[Machine Learning]] [[similarity]] [[Clustering]]
+Links ::  [[Computer Science]] [[Machine Learning Georgia Tech]] [[similarity]] [[Clustering]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

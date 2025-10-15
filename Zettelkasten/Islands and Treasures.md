@@ -87,7 +87,6 @@ class Solution:
 - This solution stems from the idea that we start at every room and then just do a breadth first search starting from there and mark each room reached at every level from there as distance with distance being incremented by 1 each time
 - Don't add the room or tile  to the q and visited if its not in bounds or its marked as a dead end (-1) or we've already visited it because in that case we know its already been marked by its optimal value
 #### Runtime of Optimal Solution
-
 - O(mn) runtime
 ---
 Links :: [[#Example Code]] [[Computer Science]] [[Neetcode 150]]

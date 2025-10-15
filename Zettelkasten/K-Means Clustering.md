@@ -17,7 +17,7 @@
 - [[K-Means Clustering sklearn]]
 - [[Mini-Batch K-Means Clustering]]
 ---
-Links ::  [[Computer Science]]  [[Machine Learning]]
+Links ::  [[Computer Science]]  [[Machine Learning Georgia Tech]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

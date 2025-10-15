@@ -5,7 +5,7 @@
 - Represents the center of a cluster
 - Specifically is equal to the average of all the [[data observation|data observations]] within a cluster
 ---
-Links ::  [[Computer Science]] [[Clustering]] [[Machine Learning]]
+Links ::  [[Computer Science]] [[Clustering]] [[Machine Learning Georgia Tech]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

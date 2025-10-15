@@ -38,8 +38,14 @@ class Solution(object):
         adjList = {i: [] for i in range(numCourses)}
         indegree = [0] * numCourses
 
+		#go through all edges
         for edge in prerequisites:
+	        #edge[0] has to be taken before edge[1]
+	        #aka every member of an adjList of edge i is a course that it is a 
+	        #prereq for
             adjList[edge[0]].append(edge[1])
+            #increment the number of incoming edges to edge 1 aka indicate
+            #it has one more prereq
             indegree[edge[1]] += 1
 
         q = deque()
@@ -55,16 +61,22 @@ class Solution(object):
             node = q.popleft()
   
             for adj in adjList[node]:
+	            #add to the prereqs set of adj the current node
                 prereqs[adj].add(node)
+                #go through all the nodes that are a prereq for the current node
                 for pre in prereqs[node]:
+	                #add those to the set of prereqs to adj which is a class that node is a prereq of. the prereq of a prereq is a prereq to the later class as well
                     prereqs[adj].add(pre)
 
+				#subtract the indegree as we have seen a prereq
                 indegree[adj] -= 1
+                #if we have seen all the prereqs of this node we can add it to the queue for processing all courses it is a prereq too
                 if indegree[adj] == 0:
                     q.append(adj)
 
         answer = []
 
+		#go over all the queries and simply check if the first node is in prereqs of ndoe 2
         for q in queries:
             answer.append(q[0] in prereqs[q[1]])
 

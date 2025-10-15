@@ -13,6 +13,6 @@
 
 
 Type :: #topic
-Links :: [[DP-100]] [[Azure]] [[Machine Learning]]
+Links :: [[DP-100]] [[Azure]] [[Machine Learning Georgia Tech]]
 Book :: 
 Date ::  2024-09-16 16:13

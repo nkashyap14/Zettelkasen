@@ -17,7 +17,7 @@
 		- MAE/MSE for regression
 - [[Decision Tree sklearn]]
 ---
-Links ::  [[Computer Science]] [[Machine Learning]] [[Data Modeling with scikit-learn]]
+Links ::  [[Computer Science]] [[Machine Learning Georgia Tech]] [[Data Modeling with scikit-learn]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

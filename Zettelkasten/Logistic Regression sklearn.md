@@ -43,7 +43,7 @@ solver='multinomial', max_iter=1000
 )
 ```
 ---
-Links :: [[#Example Code]] [[Machine Learning]] [[scikit-learn]] [[Computer Science]]
+Links :: [[#Example Code]] [[Machine Learning Georgia Tech]] [[scikit-learn]] [[Computer Science]]
 Reference ::
 Type :: #code
 Creator ::

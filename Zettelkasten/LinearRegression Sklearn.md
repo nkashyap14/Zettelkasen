@@ -13,7 +13,7 @@ print('Intercept: {}\n'.format(repr(reg.intercept_))) #prints the intercept
 ```
 
 ---
-Links :: [[#Example Code]] [[Machine Learning]] [[scikit-learn]] [[Computer Science]]
+Links :: [[#Example Code]] [[Machine Learning Georgia Tech]] [[scikit-learn]] [[Computer Science]]
 Reference ::
 Type :: #code
 Creator ::

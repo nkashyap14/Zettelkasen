@@ -9,6 +9,6 @@
 
 
 Type :: #SkillPath
-Links :: [[Computer Science]] [[Machine Learning]]
+Links :: [[Computer Science]] [[Machine Learning Georgia Tech]]
 Reference :: [[Educative]]
 Date ::  2024-09-08 17:06

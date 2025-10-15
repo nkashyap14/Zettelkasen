@@ -7,6 +7,7 @@
 - [[Boxing Footwork Resistance Band Drills]]
 - [[Gervonta Davis Footwork Drill]]
 - [[Beginner Boxing Footwork Drills]]
+- [[Boxing Ladder Drills]]
 ## Details
 
 ## Conclusion

@@ -4,7 +4,7 @@
 
 - [[data observation|Data Observations]] with many neighbors
 ---
-Links ::  [[Computer Science]] [[Clustering]] [[Machine Learning]]
+Links ::  [[Computer Science]] [[Clustering]] [[Machine Learning Georgia Tech]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

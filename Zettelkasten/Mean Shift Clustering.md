@@ -16,7 +16,7 @@
 		- Weaker assumption than [[K-Means Clustering]] however still an assumption
 
 ---
-Links ::  [[Computer Science]] [[Machine Learning]] [[Clustering]]
+Links ::  [[Computer Science]] [[Machine Learning Georgia Tech]] [[Clustering]]
 Reference ::  [[Educative]]
 Type :: #definition
 Discussion ::

@@ -15,6 +15,6 @@
 
 
 Type :: #algorithm 
-Links :: [[Computer Science]]
+Links :: [[Computer Science]] [[Graph]]
 Creator ::
 Date ::  2025-01-14 16:43

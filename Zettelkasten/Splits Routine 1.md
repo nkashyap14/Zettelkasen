@@ -12,6 +12,6 @@
 
 
 Type :: #topic
-Links :: [[Computer Science]]
+Links :: [[Flexibility Exercises]]
 Creator ::
 Date ::  2025-02-26 05:53

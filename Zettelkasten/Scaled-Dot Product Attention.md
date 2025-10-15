@@ -12,7 +12,7 @@ $$
 Attention(Q,K,V) = softmax(\frac{QK^T}{\sqrt{d_k}})V
 $$
 ---
-Links :: [[Machine Learning]] [[Attention Function]]
+Links :: [[Machine Learning Georgia Tech]] [[Attention Function]]
 Paper ::  [[Attention Is All You Need]]
 Type :: #paperdefinition
 Date :: 2024-09-07 10:39

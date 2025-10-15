@@ -20,6 +20,6 @@
 
 
 Type :: #topic
-Links :: [[Computer Science]] [[Machine Learning]]
+Links :: [[Computer Science]] [[Machine Learning Georgia Tech]]
 Creator ::
 Date ::  2025-01-05 14:42
