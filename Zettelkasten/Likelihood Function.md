@@ -17,7 +17,7 @@ $$
 ## Subtopics
 
 - To estimate the parameters of a model we tend to maximize the likelihood function
-	- This method is called [[Maximum Likelihood Estimation]]
+	- This method is called [[5_5 General Setup Maximum Likelihood]]
 		- Parameter values that maximize the likelihood function are considered the best estimates for the model given the data
 
 ## Details

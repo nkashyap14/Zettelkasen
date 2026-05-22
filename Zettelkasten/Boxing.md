@@ -15,6 +15,7 @@
 - [[Canelo Boxing Body to Lead Hook]]
 - [[Boxing Handweight Drills]]
 - [[Boxing Reaction Drills]]
+- [[Boxing Lane Theory]]
 
 ## Details
 

@@ -28,9 +28,7 @@ lRUCache.put(3, 30);  // cache: {2=20, 3=30}, key=1 was evicted
 lRUCache.get(2);      // returns 20 
 lRUCache.get(1);      // return -1 (not found)
 ```
-##### Example 2
-```
-```
+
 #### Solution
 ```
 class Node:
@@ -88,6 +86,18 @@ class LRUCache:
 - [[hashmap]]
 #### Important Subdetails
 
+- The general idea of this solution hinges on two data structures
+- One data structure you maintain is a simple hashmap. This maps keys to nodes to provide O(1) return for the get command
+- The second data structure we maintain is a doubly linked list. The left side of the linked list is used as the least recently used side of the keys in the cache. The right side of the linked list is the most recently used value.
+	- We make sure to maintain dummy nodes that hold no real values to provide easy access to both ends
+	- From there we just have to make sure that when we add to the cache or get a value from the cache we move the nodes to the right side
+	- When we delete a value from the cache we simply remove the leeast recently used which is as simple as getting the next value of the left pointer and pointing it at the node to the right of next and pointing that node back at the left pointer
+- Make sure to do a check where when we exceed capacity we grab the least recently used value and delete that key from the cache as well
+	- Make sure to remove it two locations
+	- Hashmap mapping and the doubly linked list that functions as a cache
+- Maintain two helper methods that 1.) remove a node from the cache by just pointing its prev and next nodes at each other
+	- dont have to worry about null checks as left and right dummy nodes exist
+	- Another helper method that adds a node to the right end (most recently used end) of the doubly linked list 
 #### Runtime of Optimal Solution
 
 - O(1) for put and get 

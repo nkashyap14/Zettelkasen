@@ -8,59 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "454ea16839f70691",
+            "id": "c97b1bcd8a0b7076",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Binary Tree Traversal.md",
+                "file": "Zettelkasten/Boxing Lane Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Tree Traversal"
+              "title": "Boxing Lane Theory"
             }
           },
           {
-            "id": "51ab645910439a58",
+            "id": "ad318033111623ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Binary Tree Preorder Morris Traversal.md",
+                "file": "Zettelkasten/Intro to Lane Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Tree Preorder Morris Traversal"
+              "title": "Intro to Lane Theory"
             }
           },
           {
-            "id": "94b864a92b66c06a",
+            "id": "ceccd3bf54780ce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Coin Change II.md",
+                "file": "Zettelkasten/5_5 General Setup Maximum Likelihood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coin Change II"
+              "title": "5_5 General Setup Maximum Likelihood"
             }
           },
           {
-            "id": "163ddfa88ae7d317",
+            "id": "16cacd0a05571419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Target Sum.md",
+                "file": "Zettelkasten/5_4_3 Example Variance of Sample Mean Estimator Bernoulli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Target Sum"
+              "title": "5_4_3 Example Variance of Sample Mean Estimator Bernoulli"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Boxing",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Binary Tree Preorder Morris Traversal.md",
+                "file": "Zettelkasten/Intro to Lane Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,34 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Binary Tree Preorder Morris Traversal"
-            }
-          },
-          {
-            "id": "89a3040541f8a99e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten/Run Pipelines in Azure Machine Learning.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Run Pipelines in Azure Machine Learning"
-            }
-          },
-          {
-            "id": "2271a6e8010d38c8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Backlinks for Intro to Lane Theory"
             }
           },
           {
@@ -183,10 +157,42 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Run Pipelines in Azure Machine Learning.md"
+                "file": "Zettelkasten/5_8_1 Principal Components Analysis Derivation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Run Pipelines in Azure Machine Learning"
+              "title": "Outline of 5_8_1 Principal Components Analysis Derivation"
+            }
+          },
+          {
+            "id": "7726685656c963b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/Intro to Lane Theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro to Lane Theory"
+            }
+          },
+          {
+            "id": "fa07a5f761c0e2df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -206,46 +212,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51ab645910439a58",
+  "active": "ad318033111623ea",
   "lastOpenFiles": [
-    "Zettelkasten/Binary Tree Traversal.md",
-    "Zettelkasten/Binary Tree Preorder Iterative Traversal.md",
-    "Zettelkasten/Binary Tree Preorder Morris Traversal.md",
-    "Zettelkasten/Binary Tree Preorder Recursive Traversal.md",
-    "Templates/Leetcode Pattern Implementation.md",
-    "Templates/Leetcode Fundamental Problem.md",
-    "Zettelkasten/leetcode.md",
+    "Zettelkasten/High Jab boxing lane.md",
+    "Files/Pasted image 20260522190708.png",
+    "Zettelkasten/Intro to Lane Theory.md",
+    "Zettelkasten/High center boxing lane.md",
+    "Files/Pasted image 20260522190627.png",
+    "Files/Pasted image 20260522190537.png",
+    "Zettelkasten/High cross boxing lane.md",
+    "Files/Pasted image 20260522190440.png",
+    "Zettelkasten/High open boxing lane.md",
+    "Zettelkasten/Boxing Lane Theory.md",
+    "Files/Pasted image 20260522190318.png",
+    "Zettelkasten/5_5 General Setup Maximum Likelihood.md",
+    "Zettelkasten/Basic Footwork with Punches.md",
+    "Zettelkasten/[Advanced Boxing Defense.md",
+    "Zettelkasten/Boxing.md",
+    "Zettelkasten/5_8_1 Principal Components Analysis Derivation.md",
+    "Zettelkasten/Chapter 5 Deep Learning Book.md",
+    "Zettelkasten/5_4_3 Example Variance of Sample Mean Estimator Bernoulli.md",
+    "Zettelkasten/5_5 Maximum Likelihood Estimation.md",
+    "Zettelkasten/5_6 Bayesian Linear Regression.md",
+    "Zettelkasten/5_5_1 Linear regression as maximum likelihood.md",
+    "Zettelkasten/Step & Pivot (fightTips).md",
+    "Zettelkasten/Boxing Ladder Drills.md",
+    "Zettelkasten/Intermediate Combination 1 Boxing Ladder Drills.md",
+    "Zettelkasten/Intermediate Combination 2 Boxing Ladder Drills.md",
+    "Zettelkasten/Advanced in & Out Footwork Drill.md",
+    "Zettelkasten/One Two Stepping Linearly Ladder.md",
+    "Zettelkasten/Forward & Back Footwork.md",
     "Zettelkasten/5_1_4 Example Linear Regression.md",
+    "Zettelkasten/Mean Squared Error (MSE).md",
+    "Files/Pasted image 20251119170303.png",
+    "Zettelkasten/Untitled 3.base",
+    "Zettelkasten/Untitled 2.base",
+    "Files/Pasted image 20251023174108.png",
     "Zettelkasten/Untitled 1.base",
     "Zettelkasten/Untitled.base",
-    "Templates/Topic.md",
-    "Templates/Neetcode Problem.md",
-    "Zettelkasten/PAM RFC Notes.md",
-    "Zettelkasten/Modified DES algorithm.md",
-    "Zettelkasten/Password Mapping in PAM (Pluggable Authentication Modules)).md",
-    "Zettelkasten/Stacking in PAM (Pluggable Authentication Modules).md",
-    "Zettelkasten/Control Flag Semantics (PAM).md",
     "Files/Pasted image 20251005104550.png",
-    "Zettelkasten/Configuration File Details (PAM).md",
     "Files/Pasted image 20251005104047.png",
-    "Zettelkasten/Overview of Pam Framework (RFC Notes).md",
-    "Zettelkasten/Design Goals of PAM (Pluggable Authentication Modules).md",
-    "Zettelkasten/PAM (Pluggable Authentication Modules).md",
-    "Zettelkasten/Linux.md",
-    "Zettelkasten/Neetcode 150.md",
-    "Templates/Paper.md",
-    "Templates/Paper Definition.md",
-    "Templates/RFC Definition.md",
-    "Templates/RFC.md",
-    "Zettelkasten/Longest Palindromic Substring.md",
     "Files/ezgif-65b40bc4260d32.gif",
-    "Files/ezgif-406b1ad8910a1a.gif",
-    "Files/ezgif-499b9f36fa1cd6.gif",
-    "Files/ezgif-46989be70f5b15.gif",
-    "Files/ezgif-49cda964b0d893.gif",
-    "Files/ezgif-47fa378854de73.gif",
-    "Files/ezgif-4b062ecedee8f7.gif",
-    "Files/ezgif-497ce77ab6ccff.gif",
     "Run in",
     "90",
     "0",
@@ -253,8 +260,6 @@
     "Zettelkasten/Untitled.canvas",
     "Transport Layer (TCP",
     "TCP",
-    "Zettelkasten/Readiness",
-    "Zettelkasten",
-    "Templates"
+    "Zettelkasten/Readiness"
   ]
 }

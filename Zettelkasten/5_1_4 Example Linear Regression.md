@@ -1,4 +1,4 @@
-hic# 5_1_4 Example Linear Regression
+# 5_1_4 Example Linear Regression
 
 - Linear regression is the simplest machine learning algorithm
 - Used to solve a regression problem
@@ -18,9 +18,9 @@ MSE_{test} = \frac{1}{m}\sum_i (\hat{y}^{(test)} - y^{(test)})^2_i
 $$
 	- So basically total mean squared error is the average of our squared deviations of our estimated value from the value we were aiming to predict
 	$$
-	MSE_{test} =\frac{1}{m}||\hat{y}^{(train)} - y^{(train)}||^2_2
+	MSE_{train} =\frac{1}{m}||\hat{y}^{(train)} - y^{(train)}||^2_2
 	$$
-	- It is equivalent to the squared Euclidean  distance between the prediction vectors and the target vectors divided by the number of errors. That is why whenever Euclidean distance between our predictions and our targets increase our error increases
+	- It is equivalent to the squared Euclidean  distance between the prediction vectors and the target vectors divided by the number of samples. That is why whenever Euclidean distance between our predictions and our targets increase our error increases
 
 - Aim to minimize the MSE
 	- So can solve for where its gradient is equal to 0 as that is the minima

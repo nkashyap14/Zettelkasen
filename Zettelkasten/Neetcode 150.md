@@ -114,6 +114,7 @@
 - [[Word Search II]]
 - [[Burst Balloons]]
 - [[Regular Expression Matching]]
+- [[Spiral Matrix]]
 ## Subtopics
 
 - [[Amazon Leetcode]]

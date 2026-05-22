@@ -1,8 +1,14 @@
 # Variance
 
-- Second moment
+$$
+Var(x) = \sigma^2 = \mathbb{E}[(x - \mu)^2]
+$$
+
+- Also called the Second moment and is a measure of dispersion around the mean
 $$E[X^2] = \sum(x^2 * p_{X}(x))$$
-- Var(X) = E|(X - E[X])|^2 =
+$$
+Var(X) = E[(X - E[X])^2]
+$$
 	- $$\sum_{x}(x - E[X])^2*p_{X}(x)$$
 	$$
 	E[X^2] - (E[X])^2

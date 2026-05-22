@@ -13,6 +13,7 @@
 - [[gRPC]]
 - [[Finagle]]
 - [[Rest.li]]
+- [[How a RPC Works]]
 ---
 Links :: [[Computer Science]] [[System Design]]
 Reference :: [[Designing Data Intensive Applications]]

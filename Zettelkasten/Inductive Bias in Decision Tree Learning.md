@@ -1,7 +1,7 @@
 # Inductive Bias in Decision Tree Learning
 
 - What is decision tree's [[inductive bias]]
-- Favor of shorter trees over longe rones
+- Favor of shorter trees over longer ones
 - Selects trees that place attributes with highest information gain closest to the root
 - Closest definition:
 	- Shorter trees are preferred over longer trees
